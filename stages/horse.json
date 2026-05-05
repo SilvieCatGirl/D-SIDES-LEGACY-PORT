@@ -1,0 +1,16 @@
+{
+	"directory": "",
+	"defaultZoom": 1.25,
+	"isPixelStage": false,
+
+	"boyfriend": [925, 160],
+	"girlfriend": [650, 160],
+	"opponent": [300, 175],
+	"hide_girlfriend": false,
+
+	"camera_boyfriend": [-300, 25],
+	"camera_opponent": [150, 0],
+	"camera_girlfriend": [130, -75],
+	"camera_speed": 1,
+	"images_to_cache": ["horseguy","bgs/L1","bgs/L2","bgs/L3","bgs/L4","bgs/L5","bgs/L6","bgs/L7"]
+}

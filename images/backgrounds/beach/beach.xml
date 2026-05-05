@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="beach.png" width="3010" height="5395">
+	<SubTexture name="whittyfloor" x="5" y="5" width="3000" height="1708" frameX="-0" frameY="-0" frameWidth="3000" frameHeight="1708"/>
+	<SubTexture name="whittysand" x="5" y="3431" width="3000" height="1231" frameX="-0" frameY="-477" frameWidth="3000" frameHeight="1708"/>
+	<SubTexture name="whittysky" x="5" y="1718" width="3000" height="1708" frameX="-0" frameY="-0" frameWidth="3000" frameHeight="1708"/>
+	<SubTexture name="whittyumbrella" x="5" y="4667" width="3000" height="723" frameX="-0" frameY="-498" frameWidth="3000" frameHeight="1708"/>
+</TextureAtlas>

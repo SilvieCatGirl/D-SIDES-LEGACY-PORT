@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="death.png" width="5847" height="5834">
+	<SubTexture name="FUCK loop red0000" x="2920" y="922" width="169" height="396" rotated="true" frameX="-2" frameY="-8" frameWidth="403" frameHeight="198"/>
+	<SubTexture name="FUCK loop red0001" x="2920" y="922" width="169" height="396" rotated="true" frameX="-2" frameY="-8" frameWidth="403" frameHeight="198"/>
+	<SubTexture name="FUCK loop red0002" x="4062" y="3438" width="400" height="176" frameX="-2" frameY="-0" frameWidth="403" frameHeight="198"/>
+	<SubTexture name="FUCK loop red0003" x="4062" y="3438" width="400" height="176" frameX="-2" frameY="-0" frameWidth="403" frameHeight="198"/>
+	<SubTexture name="FUCK loop red0004" x="2920" y="1323" width="170" height="387" rotated="true" frameX="-0" frameY="-27" frameWidth="403" frameHeight="198"/>
+	<SubTexture name="FUCK loop red0005" x="2920" y="1323" width="170" height="387" rotated="true" frameX="-0" frameY="-27" frameWidth="403" frameHeight="198"/>
+	<SubTexture name="FUCK loop red0006" x="2920" y="1715" width="162" height="387" rotated="true" frameX="-2" frameY="-25" frameWidth="403" frameHeight="198"/>
+	<SubTexture name="FUCK loop red0007" x="2920" y="1715" width="162" height="387" rotated="true" frameX="-2" frameY="-25" frameWidth="403" frameHeight="198"/>
+	<SubTexture name="FUCK loop retry0000" x="5174" y="3347" width="122" height="403" rotated="true" frameX="-367" frameY="-284" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0001" x="4065" y="2608" width="425" height="825" rotated="true" frameX="-111" frameY="-106" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0002" x="5" y="3588" width="898" height="523" frameX="-72" frameY="-57" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0003" x="908" y="3588" width="898" height="502" frameX="-72" frameY="-69" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0004" x="1782" y="4095" width="868" height="465" frameX="-87" frameY="-85" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0005" x="4065" y="1743" width="449" height="860" rotated="true" frameX="-91" frameY="-93" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0006" x="4179" y="875" width="452" height="863" rotated="true" frameX="-89" frameY="-92" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0007" x="4179" y="5" width="454" height="865" rotated="true" frameX="-88" frameY="-91" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0008" x="3602" y="3544" width="455" height="866" rotated="true" frameX="-88" frameY="-91" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0009" x="2655" y="4001" width="867" height="455" frameX="-87" frameY="-91" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0010" x="3500" y="922" width="456" height="869" rotated="true" frameX="-86" frameY="-91" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0011" x="3602" y="1796" width="458" height="869" rotated="true" frameX="-86" frameY="-90" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0012" x="3602" y="2670" width="455" height="869" rotated="true" frameX="-86" frameY="-93" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0013" x="5" y="4116" width="869" height="455" frameX="-86" frameY="-93" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0014" x="908" y="4095" width="869" height="457" frameX="-86" frameY="-92" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0015" x="3723" y="5" width="451" height="877" rotated="true" frameX="-82" frameY="-97" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0016" x="2711" y="3468" width="886" height="408" frameX="-77" frameY="-123" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0017" x="1811" y="3588" width="895" height="408" frameX="-73" frameY="-123" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0018" x="3099" y="1839" width="406" height="903" rotated="true" frameX="-69" frameY="-123" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0019" x="2289" y="2551" width="401" height="912" rotated="true" frameX="-64" frameY="-131" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0020" x="2920" y="5" width="396" height="912" rotated="true" frameX="-64" frameY="-133" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0021" x="2695" y="2551" width="399" height="912" rotated="true" frameX="-64" frameY="-131" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0022" x="3321" y="5" width="397" height="912" rotated="true" frameX="-64" frameY="-131" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0023" x="3099" y="922" width="396" height="912" rotated="true" frameX="-64" frameY="-131" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0024" x="3099" y="922" width="396" height="912" rotated="true" frameX="-64" frameY="-131" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0025" x="3099" y="922" width="396" height="912" rotated="true" frameX="-64" frameY="-131" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0026" x="3099" y="922" width="396" height="912" rotated="true" frameX="-64" frameY="-131" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0027" x="3099" y="922" width="396" height="912" rotated="true" frameX="-64" frameY="-131" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0028" x="3099" y="922" width="396" height="912" rotated="true" frameX="-64" frameY="-131" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0029" x="3099" y="922" width="396" height="912" rotated="true" frameX="-64" frameY="-131" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0030" x="3099" y="922" width="396" height="912" rotated="true" frameX="-64" frameY="-131" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="FUCK loop retry0031" x="3099" y="922" width="396" height="912" rotated="true" frameX="-64" frameY="-131" frameWidth="1046" frameHeight="642"/>
+	<SubTexture name="PicoPGameOver0000" x="5309" y="1380" width="509" height="574" rotated="true" frameX="-246" frameY="-200" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0001" x="1298" y="5288" width="625" height="511" frameX="-246" frameY="-198" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0002" x="655" y="5288" width="638" height="502" frameX="-233" frameY="-207" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0003" x="4062" y="3819" width="655" height="531" frameX="-233" frameY="-178" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0004" x="4722" y="3819" width="560" height="655" rotated="true" frameX="-233" frameY="-149" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0005" x="4064" y="4355" width="580" height="655" rotated="true" frameX="-233" frameY="-129" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0006" x="4649" y="4479" width="655" height="578" frameX="-233" frameY="-131" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0007" x="3396" y="5187" width="567" height="641" rotated="true" frameX="-233" frameY="-142" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0008" x="3396" y="5187" width="567" height="641" rotated="true" frameX="-233" frameY="-142" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0009" x="5" y="5288" width="645" height="541" frameX="-233" frameY="-168" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0010" x="5" y="5288" width="645" height="541" frameX="-233" frameY="-168" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0011" x="2580" y="5218" width="553" height="577" rotated="true" frameX="-234" frameY="-156" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0012" x="2580" y="5218" width="553" height="577" rotated="true" frameX="-234" frameY="-156" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0013" x="4643" y="5062" width="577" height="545" frameX="-234" frameY="-164" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0014" x="4643" y="5062" width="577" height="545" frameX="-234" frameY="-164" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0015" x="1928" y="5288" width="575" height="504" frameX="-236" frameY="-205" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0016" x="1928" y="5288" width="575" height="504" frameX="-236" frameY="-205" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0017" x="5338" y="5" width="504" height="575" rotated="true" frameX="-236" frameY="-205" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0018" x="5338" y="585" width="503" height="572" rotated="true" frameX="-240" frameY="-206" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0019" x="5309" y="3347" width="503" height="572" rotated="true" frameX="-240" frameY="-206" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0020" x="3099" y="2747" width="498" height="554" rotated="true" frameX="-269" frameY="-209" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0021" x="4636" y="1380" width="631" height="330" frameX="-356" frameY="-413" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0022" x="3396" y="4461" width="328" height="721" rotated="true" frameX="-328" frameY="-415" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0023" x="3729" y="4415" width="330" height="721" rotated="true" frameX="-328" frameY="-415" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0024" x="2236" y="4565" width="339" height="718" rotated="true" frameX="-319" frameY="-415" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0025" x="5214" y="2653" width="573" height="343" frameX="-382" frameY="-411" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0026" x="5214" y="3001" width="573" height="341" frameX="-382" frameY="-411" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0027" x="5238" y="1959" width="574" height="342" frameX="-382" frameY="-410" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0028" x="5238" y="2306" width="574" height="342" frameX="-382" frameY="-410" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0029" x="5225" y="5062" width="574" height="341" frameX="-382" frameY="-411" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0030" x="5225" y="5408" width="574" height="341" frameX="-382" frameY="-411" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0031" x="5225" y="5408" width="574" height="341" frameX="-382" frameY="-411" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0032" x="4064" y="5015" width="574" height="590" frameX="-382" frameY="-162" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0033" x="4519" y="2460" width="690" height="681" frameX="-382" frameY="-71" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0034" x="4519" y="2460" width="690" height="681" frameX="-382" frameY="-71" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0035" x="1444" y="1395" width="721" height="1141" rotated="true" frameX="-186" frameY="-31" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0036" x="5" y="2849" width="1137" height="734" frameX="-188" frameY="-18" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0037" x="1147" y="2849" width="1137" height="734" frameX="-188" frameY="-18" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0038" x="2170" y="5" width="745" height="1268" rotated="true" frameX="-107" frameY="-7" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0039" x="2170" y="1278" width="745" height="1268" rotated="true" frameX="-107" frameY="-7" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0040" x="1451" y="5" width="714" height="1385" rotated="true" frameX="-49" frameY="-38" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0041" x="5" y="2152" width="1385" height="692" frameX="-49" frameY="-60" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0042" x="5" y="730" width="1434" height="692" frameX="-13" frameY="-60" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0043" x="5" y="1427" width="1434" height="720" frameX="-13" frameY="-32" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0044" x="5" y="5" width="1441" height="720" frameX="-0" frameY="-32" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0045" x="2655" y="4461" width="736" height="752" frameX="-354" frameY="-0" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0046" x="2655" y="4461" width="736" height="752" frameX="-354" frameY="-0" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0047" x="773" y="4576" width="730" height="654" rotated="true" frameX="-382" frameY="-22" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0048" x="773" y="4576" width="730" height="654" rotated="true" frameX="-382" frameY="-22" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0049" x="4495" y="3146" width="674" height="668" rotated="true" frameX="-367" frameY="-78" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0050" x="4495" y="3146" width="674" height="668" rotated="true" frameX="-367" frameY="-78" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0051" x="1508" y="4565" width="723" height="699" frameX="-339" frameY="-53" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0052" x="1508" y="4565" width="723" height="699" frameX="-339" frameY="-53" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0053" x="5" y="4576" width="763" height="707" frameX="-312" frameY="-45" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0054" x="5" y="4576" width="763" height="707" frameX="-312" frameY="-45" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0055" x="4519" y="1743" width="714" height="712" rotated="true" frameX="-382" frameY="-38" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0056" x="4519" y="1743" width="714" height="712" rotated="true" frameX="-382" frameY="-38" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0057" x="4638" y="730" width="692" height="645" rotated="true" frameX="-382" frameY="-60" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0058" x="4638" y="730" width="692" height="645" rotated="true" frameX="-382" frameY="-60" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0059" x="4638" y="5" width="695" height="720" frameX="-376" frameY="-32" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0060" x="4638" y="5" width="695" height="720" frameX="-376" frameY="-32" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0061" x="2655" y="4461" width="736" height="752" frameX="-354" frameY="-0" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0062" x="2655" y="4461" width="736" height="752" frameX="-354" frameY="-0" frameWidth="1448" frameHeight="754"/>
+	<SubTexture name="PicoPGameOver0063" x="773" y="4576" width="730" height="654" rotated="true" frameX="-382" frameY="-22" frameWidth="1448" frameHeight="754"/>
+</TextureAtlas>

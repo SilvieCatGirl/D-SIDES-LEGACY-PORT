@@ -1,0 +1,137 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"offsets": [
+				97,
+				-12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SpookezLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				135,
+				61
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "SpookezHEY!",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"offsets": [
+				-130,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SpookezRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"offsets": [
+				20,
+				-130
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SpookezDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 12,
+			"name": "SpookezIdle",
+			"indices": [
+				0,
+				2,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 12,
+			"name": "SpookezIdle",
+			"indices": [
+				8,
+				10,
+				12,
+				14
+			]
+		},
+		{
+			"offsets": [
+				-20,
+				78
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SpookezUp"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spooky/SpookyKids_DARK",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "spooky",
+	"flip_x": false,
+	"healthbar_colors": [
+		154,
+		218,
+		228
+	],
+	"camera_position": [
+		80,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

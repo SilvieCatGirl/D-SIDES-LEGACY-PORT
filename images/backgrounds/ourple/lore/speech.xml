@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="spritesheet.png">
+	<SubTexture name="Bubble Appear0000" x="0" y="0" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Bubble Appear0001" x="0" y="0" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Bubble Appear0002" x="0" y="0" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Bubble Appear0003" x="0" y="0" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Bubble Appear0004" x="375" y="0" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Bubble Appear0005" x="375" y="0" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Bubble Appear0006" x="750" y="0" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Bubble Appear0007" x="750" y="0" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Bubble Appear0008" x="1125" y="0" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Bubble Appear0009" x="1125" y="0" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Bubble_Loop0000" x="1500" y="0" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Bubble_Loop0001" x="1500" y="0" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Bubble_Loop0002" x="0" y="301" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Bubble_Loop0003" x="0" y="301" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Bubble_Loop0004" x="375" y="301" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Bubble_Loop0005" x="375" y="301" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Intro10000" x="750" y="301" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Intro10001" x="750" y="301" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Intro10002" x="1125" y="301" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Intro10003" x="1125" y="301" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Intro10004" x="1500" y="301" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Intro10005" x="1500" y="301" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Intro20000" x="0" y="602" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Intro20001" x="0" y="602" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Intro20002" x="375" y="602" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Intro20003" x="375" y="602" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Intro20004" x="750" y="602" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Intro20005" x="750" y="602" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Intro30000" x="1125" y="602" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Intro30001" x="1125" y="602" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Intro30002" x="1500" y="602" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Intro30003" x="1500" y="602" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Intro30004" x="0" y="903" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Intro30005" x="0" y="903" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Run0000" x="375" y="903" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Run0001" x="375" y="903" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Run0002" x="750" y="903" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Run0003" x="750" y="903" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Run0004" x="1125" y="903" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Run0005" x="1125" y="903" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Run0006" x="1500" y="903" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Run0007" x="1500" y="903" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Run0008" x="0" y="1204" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Run0009" x="0" y="1204" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Run0010" x="375" y="1204" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+	<SubTexture name="Run0011" x="375" y="1204" width="375" height="301" frameX="-39" frameY="0" frameWidth="703" frameHeight="733" />
+</TextureAtlas>

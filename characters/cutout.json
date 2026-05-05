@@ -1,0 +1,72 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				507,
+				147
+			],
+			"anim": "pop",
+			"fps": 24,
+			"name": "DDCutout",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"offsets": [
+				507,
+				147
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"flipX": false,
+			"indices": [
+				0,
+				0
+			],
+			"name": "DDCutout"
+		},
+		{
+			"offsets": [
+				507,
+				147
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"flipX": false,
+			"indices": [
+				12,
+				13
+			],
+			"name": "DDCutout"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dad/Cutout",
+	"position": [
+		490,
+		60
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "shuckydad",
+	"gameover_character": null,
+	"vslice_sustains": true,
+	"flip_x": false,
+	"healthbar_colour": -5755647,
+	"camera_position": [
+		-468,
+		-170
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,183 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"flipX": false,
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				82,
+				-63
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"flipX": false,
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				152,
+				34
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"flipX": false,
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				51,
+				44
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"flipX": false,
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				14,
+				105
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"flipX": false,
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				27,
+				-102
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"flipX": false,
+			"indices": [],
+			"name": "altdown"
+		},
+		{
+			"offsets": [
+				101,
+				197
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"flipX": false,
+			"indices": [],
+			"name": "altleft"
+		},
+		{
+			"offsets": [
+				22,
+				27
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"flipX": false,
+			"indices": [],
+			"name": "altright"
+		},
+		{
+			"offsets": [
+				42,
+				195
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"flipX": false,
+			"indices": [],
+			"name": "altup"
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-40,
+				160
+			],
+			"anim": "dicky",
+			"fps": 24,
+			"name": "dicky",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				39,
+				36
+			],
+			"anim": "die",
+			"fps": 24,
+			"name": "die",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-78,
+				181
+			],
+			"anim": "scream",
+			"fps": 24,
+			"name": "scream",
+			"indices": [],
+			"flipX": false
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dario",
+	"position": [
+		-50,
+		350
+	],
+	"dance_every": 1,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "dario",
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": false,
+	"healthbar_colour": -4083001,
+	"camera_position": [
+		67,
+		-26
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

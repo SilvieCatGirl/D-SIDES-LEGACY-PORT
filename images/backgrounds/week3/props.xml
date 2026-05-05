@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="props.png" width="5679" height="3643">
+	<SubTexture name="CarsAnim0000" x="1" y="1588" width="2786" height="507" frameX="-0" frameY="-16" frameWidth="6928" frameHeight="561"/>
+	<SubTexture name="CarsAnim0001" x="2790" y="1588" width="2786" height="507" frameX="-2079" frameY="-16" frameWidth="6928" frameHeight="561"/>
+	<SubTexture name="CarsAnim0002" x="1" y="1" width="5513" height="539" frameX="-1245" frameY="-16" frameWidth="6928" frameHeight="561"/>
+	<SubTexture name="CarsAnim0003" x="1" y="543" width="5585" height="528" frameX="-584" frameY="-16" frameWidth="6928" frameHeight="561"/>
+	<SubTexture name="CarsAnim0004" x="1" y="1" width="5513" height="539" frameX="-1245" frameY="-16" frameWidth="6928" frameHeight="561"/>
+	<SubTexture name="CarsAnim0005" x="2790" y="1588" width="2786" height="507" frameX="-2079" frameY="-16" frameWidth="6928" frameHeight="561"/>
+	<SubTexture name="CarsAnim0006" x="1" y="1074" width="5677" height="511" frameX="-1245" frameY="-16" frameWidth="6928" frameHeight="561"/>
+	<SubTexture name="CarsAnim0007" x="1" y="2098" width="2785" height="507" frameX="-3880" frameY="-0" frameWidth="6928" frameHeight="561"/>
+	<SubTexture name="CarsAnim0008" x="4110" y="3302" width="1" height="1" frameX="-0" frameY="-0" frameWidth="6928" frameHeight="561"/>
+	<SubTexture name="AlucardIdle0000" x="3652" y="3302" width="455" height="340" rotated="true" frameX="-14" frameY="-14" frameWidth="354" frameHeight="471"/>
+	<SubTexture name="AlucardIdle0001" x="3652" y="3302" width="455" height="340" rotated="true" frameX="-14" frameY="-14" frameWidth="354" frameHeight="471"/>
+	<SubTexture name="AlucardIdle0002" x="5331" y="2985" width="329" height="458" frameX="-16" frameY="-12" frameWidth="354" frameHeight="471"/>
+	<SubTexture name="AlucardIdle0003" x="5331" y="2985" width="329" height="458" frameX="-16" frameY="-12" frameWidth="354" frameHeight="471"/>
+	<SubTexture name="AlucardIdle0004" x="506" y="2969" width="466" height="339" rotated="true" frameX="-7" frameY="-5" frameWidth="354" frameHeight="471"/>
+	<SubTexture name="AlucardIdle0005" x="506" y="2969" width="466" height="339" rotated="true" frameX="-7" frameY="-5" frameWidth="354" frameHeight="471"/>
+	<SubTexture name="AlucardIdle0006" x="1500" y="2946" width="470" height="334" rotated="true" frameX="-3" frameY="-1" frameWidth="354" frameHeight="471"/>
+	<SubTexture name="AlucardIdle0007" x="1500" y="2946" width="470" height="334" rotated="true" frameX="-3" frameY="-1" frameWidth="354" frameHeight="471"/>
+	<SubTexture name="AlucardIdle0008" x="1026" y="2946" width="471" height="337" rotated="true" frameX="-0" frameY="-0" frameWidth="354" frameHeight="471"/>
+	<SubTexture name="AlucardIdle0009" x="1026" y="2946" width="471" height="337" rotated="true" frameX="-0" frameY="-0" frameWidth="354" frameHeight="471"/>
+	<SubTexture name="AlucardIdle0010" x="1026" y="2946" width="471" height="337" rotated="true" frameX="-0" frameY="-0" frameWidth="354" frameHeight="471"/>
+	<SubTexture name="AlucardIdle0011" x="1026" y="2946" width="471" height="337" rotated="true" frameX="-0" frameY="-0" frameWidth="354" frameHeight="471"/>
+	<SubTexture name="AlucardIdle0012" x="1026" y="2946" width="471" height="337" rotated="true" frameX="-0" frameY="-0" frameWidth="354" frameHeight="471"/>
+	<SubTexture name="AlucardIdle0013" x="1026" y="2946" width="471" height="337" rotated="true" frameX="-0" frameY="-0" frameWidth="354" frameHeight="471"/>
+	<SubTexture name="CyclopsIdle0000" x="2789" y="2098" width="571" height="357" rotated="true" frameX="-0" frameY="-4" frameWidth="360" frameHeight="576"/>
+	<SubTexture name="CyclopsIdle0001" x="2789" y="2098" width="571" height="357" rotated="true" frameX="-0" frameY="-4" frameWidth="360" frameHeight="576"/>
+	<SubTexture name="CyclopsIdle0002" x="4513" y="2098" width="575" height="353" rotated="true" frameX="-2" frameY="-0" frameWidth="360" frameHeight="576"/>
+	<SubTexture name="CyclopsIdle0003" x="4513" y="2098" width="575" height="353" rotated="true" frameX="-2" frameY="-0" frameWidth="360" frameHeight="576"/>
+	<SubTexture name="CyclopsIdle0004" x="5091" y="2098" width="571" height="355" rotated="true" frameX="-4" frameY="-4" frameWidth="360" frameHeight="576"/>
+	<SubTexture name="CyclopsIdle0005" x="5091" y="2098" width="571" height="355" rotated="true" frameX="-4" frameY="-4" frameWidth="360" frameHeight="576"/>
+	<SubTexture name="CyclopsIdle0006" x="3363" y="2098" width="572" height="356" rotated="true" frameX="-4" frameY="-4" frameWidth="360" frameHeight="576"/>
+	<SubTexture name="CyclopsIdle0007" x="3363" y="2098" width="572" height="356" rotated="true" frameX="-4" frameY="-4" frameWidth="360" frameHeight="576"/>
+	<SubTexture name="CyclopsIdle0008" x="3938" y="2098" width="572" height="356" rotated="true" frameX="-4" frameY="-4" frameWidth="360" frameHeight="576"/>
+	<SubTexture name="CyclopsIdle0009" x="3938" y="2098" width="572" height="356" rotated="true" frameX="-4" frameY="-4" frameWidth="360" frameHeight="576"/>
+	<SubTexture name="CyclopsIdle0010" x="3938" y="2098" width="572" height="356" rotated="true" frameX="-4" frameY="-4" frameWidth="360" frameHeight="576"/>
+	<SubTexture name="CyclopsIdle0011" x="3938" y="2098" width="572" height="356" rotated="true" frameX="-4" frameY="-4" frameWidth="360" frameHeight="576"/>
+	<SubTexture name="CyclopsIdle0012" x="3938" y="2098" width="572" height="356" rotated="true" frameX="-4" frameY="-4" frameWidth="360" frameHeight="576"/>
+	<SubTexture name="CyclopsIdle0013" x="3938" y="2098" width="572" height="356" rotated="true" frameX="-4" frameY="-4" frameWidth="360" frameHeight="576"/>
+	<SubTexture name="DarnellIdle0000" x="2972" y="3310" width="491" height="292" rotated="true" frameX="-16" frameY="-18" frameWidth="312" frameHeight="510"/>
+	<SubTexture name="DarnellIdle0001" x="2972" y="3310" width="491" height="292" rotated="true" frameX="-16" frameY="-18" frameWidth="312" frameHeight="510"/>
+	<SubTexture name="DarnellIdle0002" x="2480" y="3303" width="489" height="296" rotated="true" frameX="-15" frameY="-20" frameWidth="312" frameHeight="510"/>
+	<SubTexture name="DarnellIdle0003" x="2480" y="3303" width="489" height="296" rotated="true" frameX="-15" frameY="-20" frameWidth="312" frameHeight="510"/>
+	<SubTexture name="DarnellIdle0004" x="1973" y="3256" width="504" height="288" rotated="true" frameX="-6" frameY="-6" frameWidth="312" frameHeight="510"/>
+	<SubTexture name="DarnellIdle0005" x="1973" y="3256" width="504" height="288" rotated="true" frameX="-6" frameY="-6" frameWidth="312" frameHeight="510"/>
+	<SubTexture name="DarnellIdle0006" x="4110" y="3306" width="508" height="288" rotated="true" frameX="-3" frameY="-2" frameWidth="312" frameHeight="510"/>
+	<SubTexture name="DarnellIdle0007" x="4110" y="3306" width="508" height="288" rotated="true" frameX="-3" frameY="-2" frameWidth="312" frameHeight="510"/>
+	<SubTexture name="DarnellIdle0008" x="4621" y="3309" width="510" height="286" rotated="true" frameX="-0" frameY="-0" frameWidth="312" frameHeight="510"/>
+	<SubTexture name="DarnellIdle0009" x="4621" y="3309" width="510" height="286" rotated="true" frameX="-0" frameY="-0" frameWidth="312" frameHeight="510"/>
+	<SubTexture name="DarnellIdle0010" x="4621" y="3309" width="510" height="286" rotated="true" frameX="-0" frameY="-0" frameWidth="312" frameHeight="510"/>
+	<SubTexture name="DarnellIdle0011" x="4621" y="3309" width="510" height="286" rotated="true" frameX="-0" frameY="-0" frameWidth="312" frameHeight="510"/>
+	<SubTexture name="DarnellIdle0012" x="4621" y="3309" width="510" height="286" rotated="true" frameX="-0" frameY="-0" frameWidth="312" frameHeight="510"/>
+	<SubTexture name="DarnellIdle0013" x="4621" y="3309" width="510" height="286" rotated="true" frameX="-0" frameY="-0" frameWidth="312" frameHeight="510"/>
+	<SubTexture name="NeneIdle0000" x="1" y="2608" width="502" height="377" rotated="true" frameX="-3" frameY="-23" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0001" x="1" y="2608" width="502" height="377" rotated="true" frameX="-3" frameY="-23" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0002" x="3747" y="2457" width="384" height="505" frameX="-0" frameY="-20" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0003" x="3747" y="2457" width="384" height="505" frameX="-0" frameY="-20" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0004" x="2789" y="2458" width="385" height="518" frameX="-2" frameY="-8" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0005" x="2789" y="2458" width="385" height="518" frameX="-2" frameY="-8" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0006" x="4513" y="2454" width="382" height="525" frameX="-7" frameY="-1" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0007" x="4513" y="2454" width="382" height="525" frameX="-7" frameY="-1" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0008" x="4898" y="2456" width="381" height="526" frameX="-8" frameY="-0" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0009" x="4898" y="2456" width="381" height="526" frameX="-8" frameY="-0" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0010" x="5282" y="2456" width="381" height="526" frameX="-8" frameY="-0" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0011" x="5282" y="2456" width="381" height="526" frameX="-8" frameY="-0" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0012" x="5282" y="2456" width="381" height="526" frameX="-8" frameY="-0" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0013" x="3363" y="2457" width="381" height="526" frameX="-8" frameY="-0" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0014" x="4134" y="2457" width="358" height="518" frameX="-49" frameY="-8" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0015" x="506" y="2608" width="517" height="358" rotated="true" frameX="-49" frameY="-8" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0016" x="1026" y="2608" width="518" height="335" rotated="true" frameX="-65" frameY="-7" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0017" x="1547" y="2608" width="518" height="335" rotated="true" frameX="-65" frameY="-7" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0018" x="3126" y="2986" width="523" height="321" rotated="true" frameX="-71" frameY="-3" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0019" x="4805" y="2985" width="523" height="321" rotated="true" frameX="-71" frameY="-3" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0020" x="2068" y="2608" width="526" height="321" rotated="true" frameX="-67" frameY="-0" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0021" x="3747" y="2978" width="526" height="321" rotated="true" frameX="-67" frameY="-0" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0022" x="4276" y="2982" width="526" height="321" rotated="true" frameX="-68" frameY="-0" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0023" x="4276" y="2982" width="526" height="321" rotated="true" frameX="-68" frameY="-0" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0024" x="2068" y="2932" width="526" height="321" rotated="true" frameX="-68" frameY="-0" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0025" x="2068" y="2932" width="526" height="321" rotated="true" frameX="-68" frameY="-0" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0026" x="2597" y="2979" width="526" height="321" rotated="true" frameX="-68" frameY="-0" frameWidth="407" frameHeight="526"/>
+	<SubTexture name="NeneIdle0027" x="2597" y="2979" width="526" height="321" rotated="true" frameX="-68" frameY="-0" frameWidth="407" frameHeight="526"/>
+</TextureAtlas>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="signs.png" width="1814" height="1645">
+	<SubTexture name="ad1" x="5" y="5" width="424" height="815" frameX="-60" frameY="-13" frameWidth="518" frameHeight="861"/>
+	<SubTexture name="ad2" x="434" y="5" width="424" height="815" frameX="-60" frameY="-13" frameWidth="518" frameHeight="861"/>
+	<SubTexture name="ad3" x="5" y="825" width="424" height="815" frameX="-60" frameY="-13" frameWidth="518" frameHeight="861"/>
+	<SubTexture name="ad4" x="434" y="825" width="424" height="815" frameX="-60" frameY="-13" frameWidth="518" frameHeight="861"/>
+	<SubTexture name="ad5" x="863" y="5" width="424" height="815" frameX="-60" frameY="-13" frameWidth="518" frameHeight="861"/>
+	<SubTexture name="ad6" x="863" y="825" width="424" height="815" frameX="-60" frameY="-13" frameWidth="518" frameHeight="861"/>
+	<SubTexture name="sign1" x="1292" y="5" width="256" height="511" frameX="-21" frameY="-21" frameWidth="286" frameHeight="556"/>
+	<SubTexture name="sign2" x="1292" y="521" width="256" height="511" frameX="-21" frameY="-21" frameWidth="286" frameHeight="556"/>
+	<SubTexture name="sign3" x="1292" y="1037" width="256" height="511" frameX="-21" frameY="-21" frameWidth="286" frameHeight="556"/>
+	<SubTexture name="sign4" x="1553" y="5" width="256" height="511" frameX="-21" frameY="-21" frameWidth="286" frameHeight="556"/>
+	<SubTexture name="sign5" x="1553" y="521" width="256" height="511" frameX="-21" frameY="-21" frameWidth="286" frameHeight="556"/>
+	<SubTexture name="sign6" x="1553" y="1037" width="256" height="511" frameX="-21" frameY="-21" frameWidth="286" frameHeight="556"/>
+</TextureAtlas>

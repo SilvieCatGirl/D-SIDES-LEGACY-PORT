@@ -1,0 +1,81 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "scrinkly idle"
+		},
+		{
+			"offsets": [
+				-47,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "scrinkly left"
+		},
+		{
+			"offsets": [
+				37,
+				-162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "scrunkly down"
+		},
+		{
+			"offsets": [
+				-94,
+				-106
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "scrinkly up"
+		},
+		{
+			"offsets": [
+				-65,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "scrinkly right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/and/Scrinkly",
+	"position": [
+		1050,
+		640
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "buttfuck",
+	"gameover_character": null,
+	"flip_x": false,
+	"healthbar_colour": -39696,
+	"camera_position": [
+		10,
+		100
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 4,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,66 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				19,
+				62
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "ANIMATIONS/GF/gloob R",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				51,
+				62
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "ANIMATIONS/GF/gloob L",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "sad",
+			"loop": true,
+			"name": "ANIMATIONS/GF/gloob M"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF/Gloob/Gloobfloob",
+	"position": [
+		-20,
+		260
+	],
+	"dance_every": 1,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "gf",
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": false,
+	"healthbar_colour": -5963699,
+	"camera_position": [
+		-144,
+		32
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 4,
+	"scale": 0.7,
+	"_editor_isPlayer": false
+}

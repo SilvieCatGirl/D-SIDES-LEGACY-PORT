@@ -1,0 +1,163 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				480,
+				110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dad/DadIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"offsets": [
+				615,
+				101
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dad/DadLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"offsets": [
+				476,
+				61
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dad/DadDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"offsets": [
+				562,
+				166
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad/DadUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"offsets": [
+				470,
+				93
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dad/DadRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				558,
+				164
+			],
+			"flipY": false,
+			"loop": true,
+			"fps": 24,
+			"anim": "ending-loop",
+			"flipX": false,
+			"indices": [
+				54,
+				55
+			],
+			"name": "Dad/DadTomato"
+		},
+		{
+			"offsets": [
+				558,
+				164
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53
+			],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "ending",
+			"loop": false,
+			"name": "Dad/DadTomato"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dad/atlas",
+	"position": [
+		450,
+		10
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "dad",
+	"gameover_character": null,
+	"vslice_sustains": true,
+	"flip_x": false,
+	"healthbar_colour": -5766860,
+	"camera_position": [
+		-548,
+		-183
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

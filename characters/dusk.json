@@ -1,0 +1,294 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"offsets": [
+				590,
+				109
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dusk/Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"offsets": [
+				547,
+				33
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dusk/Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"offsets": [
+				527,
+				191
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dusk/Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"offsets": [
+				480,
+				92
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dusk/Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				479,
+				111
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"flipX": false,
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "Dusk/Idle"
+		},
+		{
+			"offsets": [
+				474,
+				110
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"flipX": false,
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Dusk/Idle"
+		},
+		{
+			"offsets": [
+				524,
+				182
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "ugh",
+			"flipX": false,
+			"indices": [],
+			"name": "Dusk/Ugh"
+		},
+		{
+			"offsets": [
+				468,
+				103
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "annoy",
+			"flipX": false,
+			"indices": [],
+			"name": "Dusk/Annoy"
+		},
+		{
+			"offsets": [
+				476,
+				118
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "sigh",
+			"flipX": false,
+			"indices": [],
+			"name": "Dusk/Sigh"
+		},
+		{
+			"offsets": [
+				479,
+				109
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft-alt",
+			"flipX": false,
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "Dusk/IdleMad"
+		},
+		{
+			"offsets": [
+				472,
+				110
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight-alt",
+			"flipX": false,
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Dusk/IdleMad"
+		},
+		{
+			"offsets": [
+				588,
+				107
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"flipX": false,
+			"indices": [],
+			"name": "Dusk/LeftMad"
+		},
+		{
+			"offsets": [
+				485,
+				92
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"flipX": false,
+			"indices": [],
+			"name": "Dusk/RightMad"
+		},
+		{
+			"offsets": [
+				547,
+				33
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"flipX": false,
+			"indices": [],
+			"name": "Dusk/DownMad"
+		},
+		{
+			"offsets": [
+				485,
+				192
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"flipX": false,
+			"indices": [],
+			"name": "Dusk/UpMad"
+		},
+		{
+			"offsets": [
+				617,
+				185
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "throw",
+			"flipX": false,
+			"indices": [],
+			"name": "Dusk/MicSlam"
+		},
+		{
+			"offsets": [
+				617,
+				185
+			],
+			"indices": [
+				38,
+				39,
+				40
+			],
+			"fps": 20,
+			"flipX": false,
+			"flipY": false,
+			"anim": "throw-loop",
+			"loop": true,
+			"name": "Dusk/MicSlam"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dusk",
+	"position": [
+		450,
+		10
+	],
+	"dance_every": 1,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "dusk",
+	"gameover_character": null,
+	"vslice_sustains": true,
+	"flip_x": false,
+	"healthbar_colour": -31005,
+	"camera_position": [
+		-545,
+		-141
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

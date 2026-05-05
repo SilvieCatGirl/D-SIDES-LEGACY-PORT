@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="byeguys.png" width="2886" height="1756">
+	<SubTexture name="flying0000" x="5" y="833" width="744" height="845" frameX="-43" frameY="-0" frameWidth="788" frameHeight="923"/>
+	<SubTexture name="flying0001" x="754" y="833" width="744" height="845" frameX="-43" frameY="-0" frameWidth="788" frameHeight="923"/>
+	<SubTexture name="flying0002" x="1503" y="886" width="687" height="862" frameX="-89" frameY="-33" frameWidth="788" frameHeight="923"/>
+	<SubTexture name="flying0003" x="2195" y="886" width="671" height="865" frameX="-68" frameY="-58" frameWidth="788" frameHeight="923"/>
+	<SubTexture name="flying0004" x="5" y="5" width="764" height="823" frameX="-0" frameY="-19" frameWidth="788" frameHeight="923"/>
+	<SubTexture name="flying0005" x="774" y="5" width="764" height="823" frameX="-0" frameY="-19" frameWidth="788" frameHeight="923"/>
+	<SubTexture name="flying0006" x="1543" y="5" width="683" height="876" frameX="-9" frameY="-20" frameWidth="788" frameHeight="923"/>
+	<SubTexture name="flying0007" x="2231" y="5" width="650" height="862" frameX="-59" frameY="-58" frameWidth="788" frameHeight="923"/>
+</TextureAtlas>

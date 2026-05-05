@@ -1,0 +1,62 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				11,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "intro",
+			"indices": [],
+			"name": "Darnellcutscene"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Darnellcutscene",
+			"indices": [
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cutscenes/darnell/DarnellCutscene",
+	"position": [
+		-150,
+		210
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "darnell",
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": false,
+	"healthbar_colour": -8751940,
+	"camera_position": [
+		340,
+		330
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

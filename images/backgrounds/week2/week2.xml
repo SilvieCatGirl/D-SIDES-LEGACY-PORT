@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="week2.png" width="3159" height="2743">
+	<SubTexture name="faces0000" x="2718" y="1712" width="436" height="842" frameX="-22" frameY="-0" frameWidth="479" frameHeight="851"/>
+	<SubTexture name="faces0001" x="2718" y="1712" width="436" height="842" frameX="-22" frameY="-0" frameWidth="479" frameHeight="851"/>
+	<SubTexture name="faces0002" x="2269" y="1712" width="444" height="846" frameX="-19" frameY="-0" frameWidth="479" frameHeight="851"/>
+	<SubTexture name="faces0003" x="2269" y="1712" width="444" height="846" frameX="-19" frameY="-0" frameWidth="479" frameHeight="851"/>
+	<SubTexture name="faces0004" x="2269" y="1712" width="444" height="846" frameX="-19" frameY="-0" frameWidth="479" frameHeight="851"/>
+	<SubTexture name="faces0005" x="2269" y="5" width="446" height="849" frameX="-13" frameY="-2" frameWidth="479" frameHeight="851"/>
+	<SubTexture name="faces0006" x="2269" y="5" width="446" height="849" frameX="-13" frameY="-2" frameWidth="479" frameHeight="851"/>
+	<SubTexture name="faces0007" x="2269" y="5" width="446" height="849" frameX="-13" frameY="-2" frameWidth="479" frameHeight="851"/>
+	<SubTexture name="faces0008" x="2269" y="859" width="445" height="848" frameX="-14" frameY="-3" frameWidth="479" frameHeight="851"/>
+	<SubTexture name="faces0009" x="2269" y="859" width="445" height="848" frameX="-14" frameY="-3" frameWidth="479" frameHeight="851"/>
+	<SubTexture name="faces0010" x="2269" y="1712" width="444" height="846" frameX="-19" frameY="-0" frameWidth="479" frameHeight="851"/>
+	<SubTexture name="week2_window" x="2719" y="859" width="301" height="568" rotated="true" frameX="-1" frameY="-0" frameWidth="569" frameHeight="301"/>
+	<SubTexture name="week_22" x="5" y="5" width="2259" height="1364" frameX="-0" frameY="-0" frameWidth="2259" frameHeight="1364"/>
+	<SubTexture name="week_2dark" x="5" y="1374" width="2259" height="1364" frameX="-0" frameY="-0" frameWidth="2259" frameHeight="1364"/>
+</TextureAtlas>

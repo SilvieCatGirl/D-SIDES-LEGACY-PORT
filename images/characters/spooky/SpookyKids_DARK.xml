@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="SpookyKids_DARK.png" width="2362" height="2683">
+	<SubTexture name="SpookezDown0000" x="1126" y="2267" width="519" height="415" frameX="-0" frameY="-13" frameWidth="519" frameHeight="428"/>
+	<SubTexture name="SpookezDown0001" x="1126" y="2267" width="519" height="415" frameX="-0" frameY="-13" frameWidth="519" frameHeight="428"/>
+	<SubTexture name="SpookezDown0002" x="1" y="2246" width="508" height="425" frameX="-7" frameY="-0" frameWidth="519" frameHeight="428"/>
+	<SubTexture name="SpookezDown0003" x="1" y="2246" width="508" height="425" frameX="-7" frameY="-0" frameWidth="519" frameHeight="428"/>
+	<SubTexture name="SpookezDown0004" x="1" y="2246" width="508" height="425" frameX="-7" frameY="-0" frameWidth="519" frameHeight="428"/>
+	<SubTexture name="SpookezDown0005" x="1" y="2246" width="508" height="425" frameX="-7" frameY="-0" frameWidth="519" frameHeight="428"/>
+	<SubTexture name="SpookezDown0006" x="1" y="2246" width="508" height="425" frameX="-7" frameY="-0" frameWidth="519" frameHeight="428"/>
+	<SubTexture name="SpookezDown0007" x="1" y="2246" width="508" height="425" frameX="-7" frameY="-0" frameWidth="519" frameHeight="428"/>
+	<SubTexture name="SpookezDown0008" x="1" y="2246" width="508" height="425" frameX="-7" frameY="-0" frameWidth="519" frameHeight="428"/>
+	<SubTexture name="SpookezDown0009" x="1" y="2246" width="508" height="425" frameX="-7" frameY="-0" frameWidth="519" frameHeight="428"/>
+	<SubTexture name="SpookezDown0010" x="1" y="2246" width="508" height="425" frameX="-7" frameY="-0" frameWidth="519" frameHeight="428"/>
+	<SubTexture name="SpookezHEY!0000" x="1" y="1" width="740" height="635" frameX="-0" frameY="-0" frameWidth="740" frameHeight="639"/>
+	<SubTexture name="SpookezHEY!0001" x="1" y="1" width="740" height="635" frameX="-0" frameY="-0" frameWidth="740" frameHeight="639"/>
+	<SubTexture name="SpookezHEY!0002" x="680" y="639" width="634" height="611" frameX="-41" frameY="-27" frameWidth="740" frameHeight="639"/>
+	<SubTexture name="SpookezHEY!0003" x="680" y="639" width="634" height="611" frameX="-41" frameY="-27" frameWidth="740" frameHeight="639"/>
+	<SubTexture name="SpookezHEY!0004" x="1" y="639" width="676" height="620" frameX="-23" frameY="-15" frameWidth="740" frameHeight="639"/>
+	<SubTexture name="SpookezHEY!0005" x="1" y="639" width="676" height="620" frameX="-23" frameY="-15" frameWidth="740" frameHeight="639"/>
+	<SubTexture name="SpookezHEY!0006" x="1" y="639" width="676" height="620" frameX="-23" frameY="-15" frameWidth="740" frameHeight="639"/>
+	<SubTexture name="SpookezIdle0000" x="1317" y="566" width="516" height="551" frameX="-13" frameY="-23" frameWidth="553" frameHeight="579"/>
+	<SubTexture name="SpookezIdle0001" x="1317" y="566" width="516" height="551" frameX="-13" frameY="-23" frameWidth="553" frameHeight="579"/>
+	<SubTexture name="SpookezIdle0002" x="1342" y="1" width="506" height="547" frameX="-7" frameY="-27" frameWidth="553" frameHeight="579"/>
+	<SubTexture name="SpookezIdle0003" x="1342" y="1" width="506" height="547" frameX="-7" frameY="-27" frameWidth="553" frameHeight="579"/>
+	<SubTexture name="SpookezIdle0004" x="1836" y="551" width="482" height="488" frameX="-0" frameY="-86" frameWidth="553" frameHeight="579"/>
+	<SubTexture name="SpookezIdle0005" x="1836" y="551" width="482" height="488" frameX="-0" frameY="-86" frameWidth="553" frameHeight="579"/>
+	<SubTexture name="SpookezIdle0006" x="648" y="1821" width="475" height="493" frameX="-0" frameY="-80" frameWidth="553" frameHeight="579"/>
+	<SubTexture name="SpookezIdle0007" x="648" y="1821" width="475" height="493" frameX="-0" frameY="-80" frameWidth="553" frameHeight="579"/>
+	<SubTexture name="SpookezIdle0008" x="1" y="1262" width="578" height="551" rotated="true" frameX="-2" frameY="-1" frameWidth="553" frameHeight="579"/>
+	<SubTexture name="SpookezIdle0009" x="1" y="1262" width="578" height="551" rotated="true" frameX="-2" frameY="-1" frameWidth="553" frameHeight="579"/>
+	<SubTexture name="SpookezIdle0010" x="1267" y="1253" width="537" height="564" frameX="-5" frameY="-9" frameWidth="553" frameHeight="579"/>
+	<SubTexture name="SpookezIdle0011" x="1267" y="1253" width="537" height="564" frameX="-5" frameY="-9" frameWidth="553" frameHeight="579"/>
+	<SubTexture name="SpookezIdle0012" x="1836" y="551" width="482" height="488" frameX="-0" frameY="-86" frameWidth="553" frameHeight="579"/>
+	<SubTexture name="SpookezIdle0013" x="1836" y="551" width="482" height="488" frameX="-0" frameY="-86" frameWidth="553" frameHeight="579"/>
+	<SubTexture name="SpookezIdle0014" x="1851" y="1" width="476" height="493" frameX="-0" frameY="-80" frameWidth="553" frameHeight="579"/>
+	<SubTexture name="SpookezIdle0015" x="1851" y="1" width="476" height="493" frameX="-0" frameY="-80" frameWidth="553" frameHeight="579"/>
+	<SubTexture name="SpookezLeft0000" x="744" y="1" width="595" height="562" frameX="-0" frameY="-6" frameWidth="595" frameHeight="568"/>
+	<SubTexture name="SpookezLeft0001" x="744" y="1" width="595" height="562" frameX="-0" frameY="-6" frameWidth="595" frameHeight="568"/>
+	<SubTexture name="SpookezLeft0002" x="680" y="1253" width="584" height="565" frameX="-6" frameY="-0" frameWidth="595" frameHeight="568"/>
+	<SubTexture name="SpookezLeft0003" x="680" y="1253" width="584" height="565" frameX="-6" frameY="-0" frameWidth="595" frameHeight="568"/>
+	<SubTexture name="SpookezLeft0004" x="680" y="1253" width="584" height="565" frameX="-6" frameY="-0" frameWidth="595" frameHeight="568"/>
+	<SubTexture name="SpookezLeft0005" x="680" y="1253" width="584" height="565" frameX="-6" frameY="-0" frameWidth="595" frameHeight="568"/>
+	<SubTexture name="SpookezLeft0006" x="680" y="1253" width="584" height="565" frameX="-6" frameY="-0" frameWidth="595" frameHeight="568"/>
+	<SubTexture name="SpookezRight0000" x="1807" y="1120" width="471" height="571" frameX="-3" frameY="-0" frameWidth="475" frameHeight="571"/>
+	<SubTexture name="SpookezRight0001" x="1807" y="1120" width="471" height="571" frameX="-3" frameY="-0" frameWidth="475" frameHeight="571"/>
+	<SubTexture name="SpookezRight0002" x="1897" y="1694" width="464" height="570" frameX="-0" frameY="-0" frameWidth="475" frameHeight="571"/>
+	<SubTexture name="SpookezRight0003" x="1897" y="1694" width="464" height="570" frameX="-0" frameY="-0" frameWidth="475" frameHeight="571"/>
+	<SubTexture name="SpookezRight0004" x="1897" y="1694" width="464" height="570" frameX="-0" frameY="-0" frameWidth="475" frameHeight="571"/>
+	<SubTexture name="SpookezUp0000" x="1" y="1816" width="644" height="427" rotated="true" frameX="-5" frameY="-0" frameWidth="444" frameHeight="644"/>
+	<SubTexture name="SpookezUp0001" x="1" y="1816" width="644" height="427" rotated="true" frameX="-5" frameY="-0" frameWidth="444" frameHeight="644"/>
+	<SubTexture name="SpookezUp0002" x="1267" y="1820" width="627" height="444" rotated="true" frameX="-0" frameY="-14" frameWidth="444" frameHeight="644"/>
+	<SubTexture name="SpookezUp0003" x="1267" y="1820" width="627" height="444" rotated="true" frameX="-0" frameY="-14" frameWidth="444" frameHeight="644"/>
+	<SubTexture name="SpookezUp0004" x="1267" y="1820" width="627" height="444" rotated="true" frameX="-0" frameY="-14" frameWidth="444" frameHeight="644"/>
+	<SubTexture name="SpookezUp0005" x="1267" y="1820" width="627" height="444" rotated="true" frameX="-0" frameY="-14" frameWidth="444" frameHeight="644"/>
+	<SubTexture name="SpookezUp0006" x="1267" y="1820" width="627" height="444" rotated="true" frameX="-0" frameY="-14" frameWidth="444" frameHeight="644"/>
+	<SubTexture name="SpookezUp0007" x="1267" y="1820" width="627" height="444" rotated="true" frameX="-0" frameY="-14" frameWidth="444" frameHeight="644"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="week3dark.png" width="3772" height="4238">
+	<SubTexture name="week_3buildings_2" x="2401" y="2401" width="977" height="1821" rotated="true" frameX="-28" frameY="-28" frameWidth="1866" frameHeight="1005"/>
+	<SubTexture name="build_week3" x="1" y="1" width="2397" height="944" frameX="-0" frameY="-77" frameWidth="2397" frameHeight="1042"/>
+	<SubTexture name="week_3floor" x="1" y="948" width="2397" height="749" frameX="-0" frameY="-25" frameWidth="2397" frameHeight="774"/>
+	<SubTexture name="week_3lights" x="1" y="1700" width="2397" height="779" frameX="-0" frameY="-32" frameWidth="2397" frameHeight="826"/>
+	<SubTexture name="week_3props" x="1" y="3139" width="2235" height="1098" frameX="-48" frameY="-53" frameWidth="2397" frameHeight="1370"/>
+	<SubTexture name="week_3sky" x="2401" y="1" width="1370" height="2397" rotated="true" frameX="-0" frameY="-0" frameWidth="2397" frameHeight="1370"/>
+	<SubTexture name="week_3streets" x="1" y="2482" width="2397" height="654" frameX="-0" frameY="-71" frameWidth="2397" frameHeight="767"/>
+</TextureAtlas>

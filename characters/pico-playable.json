@@ -1,0 +1,216 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-6
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "PicoIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "PicoLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				78
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PicoDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				55
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PicoUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-134,
+				19
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PicoRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "PicoMissLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-101,
+				63
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "PicoMissDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				54
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "PicoMissUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-139,
+				19
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "PicoMissRight",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				-6
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "PicoIdle",
+			"indices": [
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-83,
+				3
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "PicoLeft",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-100,
+				78
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "PicoDown",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				55,
+				55
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "PicoUp",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-134,
+				19
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "PicoRight",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PicoSchool/Pico/playable/atlas",
+	"position": [
+		60,
+		285
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": "fnf_loss_sfx-pico",
+	"scalableOffsets": false,
+	"gameover_confirm_sound": "gameoverPicoConfirm",
+	"healthicon": "pico",
+	"gameover_character": "pico-dead",
+	"vslice_sustains": true,
+	"flip_x": true,
+	"healthbar_colour": -1402941,
+	"camera_position": [
+		624,
+		-235
+	],
+	"gameover_loop_sound": "gameoverPico",
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

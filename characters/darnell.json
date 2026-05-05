@@ -1,0 +1,185 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DarnellWeekend1/DarnellIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				18
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DarnellWeekend1/DarnellLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DarnellWeekend1/DarnellDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				149
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DarnellWeekend1/DarnellUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-114,
+				57
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DarnellWeekend1/DarnellRight",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "DarnellWeekend1/DarnellIdle",
+			"indices": [
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
+			]
+		},
+		{
+			"offsets": [
+				56,
+				18
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "DarnellWeekend1/DarnellLeft"
+		},
+		{
+			"offsets": [
+				-29,
+				-1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "DarnellWeekend1/DarnellDown"
+		},
+		{
+			"offsets": [
+				-37,
+				149
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "DarnellWeekend1/DarnellUp"
+		},
+		{
+			"offsets": [
+				-114,
+				57
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "DarnellWeekend1/DarnellRight"
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "DarnellWeekend1/DarnellLaugh",
+			"indices": [],
+			"flipX": false
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PicoSchool/Darnell/atlas",
+	"position": [
+		-120,
+		240
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "darnell",
+	"gameover_character": null,
+	"vslice_sustains": true,
+	"flip_x": false,
+	"healthbar_colour": -8751940,
+	"camera_position": [
+		214,
+		-119
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

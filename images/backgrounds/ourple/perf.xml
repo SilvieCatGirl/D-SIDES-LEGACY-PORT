@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="perf.png" width="1010" height="815">
+	<SubTexture name="Bag Drop0000" x="975" y="643" width="30" height="36" frameX="-126" frameY="-26" frameWidth="156" frameHeight="117"/>
+	<SubTexture name="Bag Drop0001" x="975" y="643" width="30" height="36" frameX="-126" frameY="-26" frameWidth="156" frameHeight="117"/>
+	<SubTexture name="Bag Drop0002" x="914" y="699" width="59" height="48" frameX="-27" frameY="-0" frameWidth="156" frameHeight="117"/>
+	<SubTexture name="Bag Drop0003" x="914" y="699" width="59" height="48" frameX="-27" frameY="-0" frameWidth="156" frameHeight="117"/>
+	<SubTexture name="Bag Drop0004" x="527" y="777" width="63" height="33" frameX="-0" frameY="-84" frameWidth="156" frameHeight="117"/>
+	<SubTexture name="Bag Drop0005" x="527" y="777" width="63" height="33" frameX="-0" frameY="-84" frameWidth="156" frameHeight="117"/>
+	<SubTexture name="Bag Drop0006" x="707" y="741" width="46" height="52" frameX="-7" frameY="-62" frameWidth="156" frameHeight="117"/>
+	<SubTexture name="Bag Drop0007" x="707" y="741" width="46" height="52" frameX="-7" frameY="-62" frameWidth="156" frameHeight="117"/>
+	<SubTexture name="Bag Drop0008" x="914" y="643" width="56" height="51" frameX="-1" frameY="-63" frameWidth="156" frameHeight="117"/>
+	<SubTexture name="Bag Drop0009" x="914" y="643" width="56" height="51" frameX="-1" frameY="-63" frameWidth="156" frameHeight="117"/>
+	<SubTexture name="Bag Drop0010" x="914" y="643" width="56" height="51" frameX="-1" frameY="-63" frameWidth="156" frameHeight="117"/>
+	<SubTexture name="Bag Drop0011" x="914" y="643" width="56" height="51" frameX="-1" frameY="-63" frameWidth="156" frameHeight="117"/>
+	<SubTexture name="Kid Idle0000" x="707" y="643" width="202" height="93" frameX="-377" frameY="-371" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Kid Idle0001" x="707" y="643" width="202" height="93" frameX="-377" frameY="-371" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Kid Idle0002" x="527" y="643" width="175" height="129" rotated="true" frameX="-392" frameY="-289" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Kid Idle0003" x="527" y="643" width="175" height="129" rotated="true" frameX="-392" frameY="-289" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Kid Idle0004" x="176" y="643" width="166" height="141" rotated="true" frameX="-381" frameY="-298" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Kid Idle0005" x="176" y="643" width="166" height="141" rotated="true" frameX="-381" frameY="-298" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Kid Idle0006" x="707" y="643" width="202" height="93" frameX="-377" frameY="-371" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Kid Idle0007" x="707" y="643" width="202" height="93" frameX="-377" frameY="-371" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Kid Idle0008" x="347" y="643" width="175" height="131" rotated="true" frameX="-435" frameY="-289" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Kid Idle0009" x="347" y="643" width="175" height="131" rotated="true" frameX="-435" frameY="-289" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Kid Idle0010" x="5" y="643" width="166" height="143" rotated="true" frameX="-434" frameY="-298" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="Kid Idle0011" x="5" y="643" width="166" height="143" rotated="true" frameX="-434" frameY="-298" frameWidth="1000" frameHeight="850"/>
+	<SubTexture name="performanceground" x="5" y="5" width="1000" height="343" frameX="-0" frameY="-257" frameWidth="1000" frameHeight="600"/>
+	<SubTexture name="performancewall" x="5" y="353" width="1000" height="285" frameX="-0" frameY="-0" frameWidth="1000" frameHeight="600"/>
+</TextureAtlas>

@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-28
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "matpat idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				433,
+				-167
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "matpat left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-101,
+				-66
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "matpat right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-346
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "matpat down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				190
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "matpat up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				-28
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "matpat idle"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"flipX": false,
+			"indices": [],
+			"name": "matpat confus"
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				158,
+				-118
+			],
+			"anim": "shock",
+			"fps": 24,
+			"name": "mat scaredshit",
+			"indices": [],
+			"flipX": false
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ourple/matpat",
+	"position": [
+		190,
+		140
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "mack",
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": false,
+	"healthbar_colour": -13190524,
+	"camera_position": [
+		-280,
+		-398
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 4,
+	"scale": 1.6,
+	"_editor_isPlayer": false
+}

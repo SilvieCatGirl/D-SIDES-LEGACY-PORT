@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="week2_evil.png" width="4617" height="4608">
+	<SubTexture name="Monster10000" x="2926" y="1724" width="580" height="890" frameX="-13" frameY="-13" frameWidth="619" frameHeight="908"/>
+	<SubTexture name="Monster10001" x="2926" y="1724" width="580" height="890" frameX="-13" frameY="-13" frameWidth="619" frameHeight="908"/>
+	<SubTexture name="Monster10002" x="2926" y="1724" width="580" height="890" frameX="-13" frameY="-13" frameWidth="619" frameHeight="908"/>
+	<SubTexture name="Monster10003" x="2926" y="1724" width="580" height="890" frameX="-13" frameY="-13" frameWidth="619" frameHeight="908"/>
+	<SubTexture name="Monster10004" x="2926" y="1724" width="580" height="890" frameX="-13" frameY="-13" frameWidth="619" frameHeight="908"/>
+	<SubTexture name="Monster10005" x="2269" y="2650" width="842" height="619" rotated="true" frameX="-0" frameY="-63" frameWidth="619" frameHeight="908"/>
+	<SubTexture name="Monster10006" x="2269" y="2650" width="842" height="619" rotated="true" frameX="-0" frameY="-63" frameWidth="619" frameHeight="908"/>
+	<SubTexture name="Monster10007" x="2269" y="2650" width="842" height="619" rotated="true" frameX="-0" frameY="-63" frameWidth="619" frameHeight="908"/>
+	<SubTexture name="Monster10008" x="2269" y="2650" width="842" height="619" rotated="true" frameX="-0" frameY="-63" frameWidth="619" frameHeight="908"/>
+	<SubTexture name="Monster10009" x="2269" y="2650" width="842" height="619" rotated="true" frameX="-0" frameY="-63" frameWidth="619" frameHeight="908"/>
+	<SubTexture name="Monster10010" x="1579" y="3868" width="907" height="491" rotated="true" frameX="-36" frameY="-0" frameWidth="619" frameHeight="908"/>
+	<SubTexture name="Monster10011" x="1579" y="3868" width="907" height="491" rotated="true" frameX="-36" frameY="-0" frameWidth="619" frameHeight="908"/>
+	<SubTexture name="Monster10012" x="1579" y="3868" width="907" height="491" rotated="true" frameX="-36" frameY="-0" frameWidth="619" frameHeight="908"/>
+	<SubTexture name="Monster10013" x="1579" y="3868" width="907" height="491" rotated="true" frameX="-36" frameY="-0" frameWidth="619" frameHeight="908"/>
+	<SubTexture name="Monster10014" x="1579" y="3868" width="907" height="491" rotated="true" frameX="-36" frameY="-0" frameWidth="619" frameHeight="908"/>
+	<SubTexture name="Monster1Cheer0000" x="2899" y="880" width="641" height="839" frameX="-0" frameY="-54" frameWidth="672" frameHeight="893"/>
+	<SubTexture name="Monster1Cheer0001" x="2899" y="880" width="641" height="839" frameX="-0" frameY="-54" frameWidth="672" frameHeight="893"/>
+	<SubTexture name="Monster1Cheer0002" x="2269" y="1788" width="652" height="857" frameX="-20" frameY="-27" frameWidth="672" frameHeight="893"/>
+	<SubTexture name="Monster1Cheer0003" x="2269" y="1788" width="652" height="857" frameX="-20" frameY="-27" frameWidth="672" frameHeight="893"/>
+	<SubTexture name="Monster1Cheer0004" x="2269" y="1788" width="652" height="857" frameX="-20" frameY="-27" frameWidth="672" frameHeight="893"/>
+	<SubTexture name="Monster1Cheer0005" x="3116" y="2619" width="873" height="537" rotated="true" frameX="-25" frameY="-0" frameWidth="672" frameHeight="893"/>
+	<SubTexture name="Monster1Cheer0006" x="3116" y="2619" width="873" height="537" rotated="true" frameX="-25" frameY="-0" frameWidth="672" frameHeight="893"/>
+	<SubTexture name="Monster1Cheer0007" x="3116" y="2619" width="873" height="537" rotated="true" frameX="-25" frameY="-0" frameWidth="672" frameHeight="893"/>
+	<SubTexture name="Monster20000" x="4113" y="1572" width="248" height="270" frameX="-33" frameY="-19" frameWidth="283" frameHeight="318"/>
+	<SubTexture name="Monster20001" x="4113" y="1572" width="248" height="270" frameX="-33" frameY="-19" frameWidth="283" frameHeight="318"/>
+	<SubTexture name="Monster20002" x="4113" y="1572" width="248" height="270" frameX="-33" frameY="-19" frameWidth="283" frameHeight="318"/>
+	<SubTexture name="Monster20003" x="4113" y="1572" width="248" height="270" frameX="-33" frameY="-19" frameWidth="283" frameHeight="318"/>
+	<SubTexture name="Monster20004" x="1975" y="2743" width="280" height="270" frameX="-0" frameY="-32" frameWidth="283" frameHeight="318"/>
+	<SubTexture name="Monster20005" x="1975" y="2743" width="280" height="270" frameX="-0" frameY="-32" frameWidth="283" frameHeight="318"/>
+	<SubTexture name="Monster20006" x="1975" y="2743" width="280" height="270" frameX="-0" frameY="-32" frameWidth="283" frameHeight="318"/>
+	<SubTexture name="Monster20007" x="1975" y="2743" width="280" height="270" frameX="-0" frameY="-32" frameWidth="283" frameHeight="318"/>
+	<SubTexture name="Monster20008" x="1726" y="2743" width="244" height="318" frameX="-39" frameY="-0" frameWidth="283" frameHeight="318"/>
+	<SubTexture name="Monster20009" x="1726" y="2743" width="244" height="318" frameX="-39" frameY="-0" frameWidth="283" frameHeight="318"/>
+	<SubTexture name="Monster20010" x="1726" y="2743" width="244" height="318" frameX="-39" frameY="-0" frameWidth="283" frameHeight="318"/>
+	<SubTexture name="Monster20011" x="1726" y="2743" width="244" height="318" frameX="-39" frameY="-0" frameWidth="283" frameHeight="318"/>
+	<SubTexture name="Monster2Cheer0000" x="4366" y="1572" width="246" height="244" frameX="-9" frameY="-37" frameWidth="255" frameHeight="281"/>
+	<SubTexture name="Monster2Cheer0001" x="4366" y="1572" width="246" height="244" frameX="-9" frameY="-37" frameWidth="255" frameHeight="281"/>
+	<SubTexture name="Monster2Cheer0002" x="4113" y="2108" width="243" height="268" frameX="-11" frameY="-11" frameWidth="255" frameHeight="281"/>
+	<SubTexture name="Monster2Cheer0003" x="4113" y="2108" width="243" height="268" frameX="-11" frameY="-11" frameWidth="255" frameHeight="281"/>
+	<SubTexture name="Monster2Cheer0004" x="4113" y="2108" width="243" height="268" frameX="-11" frameY="-11" frameWidth="255" frameHeight="281"/>
+	<SubTexture name="Monster2Cheer0005" x="4113" y="1847" width="255" height="256" frameX="-0" frameY="-0" frameWidth="255" frameHeight="281"/>
+	<SubTexture name="Monster2Cheer0006" x="4113" y="1847" width="255" height="256" frameX="-0" frameY="-0" frameWidth="255" frameHeight="281"/>
+	<SubTexture name="Monster2Cheer0007" x="4113" y="1847" width="255" height="256" frameX="-0" frameY="-0" frameWidth="255" frameHeight="281"/>
+	<SubTexture name="Monster30000" x="4083" y="3862" width="382" height="712" rotated="true" frameX="-11" frameY="-43" frameWidth="797" frameHeight="433"/>
+	<SubTexture name="Monster30001" x="4083" y="3862" width="382" height="712" rotated="true" frameX="-11" frameY="-43" frameWidth="797" frameHeight="433"/>
+	<SubTexture name="Monster30002" x="4083" y="3862" width="382" height="712" rotated="true" frameX="-11" frameY="-43" frameWidth="797" frameHeight="433"/>
+	<SubTexture name="Monster30003" x="4083" y="3862" width="382" height="712" rotated="true" frameX="-11" frameY="-43" frameWidth="797" frameHeight="433"/>
+	<SubTexture name="Monster30004" x="773" y="4005" width="797" height="433" frameX="-0" frameY="-0" frameWidth="797" frameHeight="433"/>
+	<SubTexture name="Monster30005" x="773" y="4005" width="797" height="433" frameX="-0" frameY="-0" frameWidth="797" frameHeight="433"/>
+	<SubTexture name="Monster30006" x="773" y="4005" width="797" height="433" frameX="-0" frameY="-0" frameWidth="797" frameHeight="433"/>
+	<SubTexture name="Monster30007" x="773" y="4005" width="797" height="433" frameX="-0" frameY="-0" frameWidth="797" frameHeight="433"/>
+	<SubTexture name="Monster30008" x="3947" y="3161" width="400" height="696" rotated="true" frameX="-19" frameY="-24" frameWidth="797" frameHeight="433"/>
+	<SubTexture name="Monster30009" x="3947" y="3161" width="400" height="696" rotated="true" frameX="-19" frameY="-24" frameWidth="797" frameHeight="433"/>
+	<SubTexture name="Monster30010" x="3947" y="3161" width="400" height="696" rotated="true" frameX="-19" frameY="-24" frameWidth="797" frameHeight="433"/>
+	<SubTexture name="Monster30011" x="3947" y="3161" width="400" height="696" rotated="true" frameX="-19" frameY="-24" frameWidth="797" frameHeight="433"/>
+	<SubTexture name="Monster3Cheer0000" x="3309" y="3917" width="769" height="372" frameX="-0" frameY="-40" frameWidth="822" frameHeight="412"/>
+	<SubTexture name="Monster3Cheer0001" x="3309" y="3917" width="769" height="372" frameX="-0" frameY="-40" frameWidth="822" frameHeight="412"/>
+	<SubTexture name="Monster3Cheer0002" x="3545" y="828" width="391" height="815" rotated="true" frameX="-7" frameY="-12" frameWidth="822" frameHeight="412"/>
+	<SubTexture name="Monster3Cheer0003" x="3545" y="828" width="391" height="815" rotated="true" frameX="-7" frameY="-12" frameWidth="822" frameHeight="412"/>
+	<SubTexture name="Monster3Cheer0004" x="3545" y="828" width="391" height="815" rotated="true" frameX="-7" frameY="-12" frameWidth="822" frameHeight="412"/>
+	<SubTexture name="Monster3Cheer0005" x="3581" y="5" width="402" height="727" rotated="true" frameX="-39" frameY="-1" frameWidth="822" frameHeight="412"/>
+	<SubTexture name="Monster3Cheer0006" x="3581" y="5" width="402" height="727" rotated="true" frameX="-39" frameY="-1" frameWidth="822" frameHeight="412"/>
+	<SubTexture name="Monster3Cheer0007" x="3581" y="5" width="402" height="727" rotated="true" frameX="-39" frameY="-1" frameWidth="822" frameHeight="412"/>
+	<SubTexture name="Monster40000" x="3941" y="737" width="343" height="621" rotated="true" frameX="-18" frameY="-13" frameWidth="710" frameHeight="356"/>
+	<SubTexture name="Monster40001" x="3941" y="737" width="343" height="621" rotated="true" frameX="-18" frameY="-13" frameWidth="710" frameHeight="356"/>
+	<SubTexture name="Monster40002" x="3941" y="737" width="343" height="621" rotated="true" frameX="-18" frameY="-13" frameWidth="710" frameHeight="356"/>
+	<SubTexture name="Monster40003" x="3188" y="4294" width="710" height="309" frameX="-0" frameY="-34" frameWidth="710" frameHeight="356"/>
+	<SubTexture name="Monster40004" x="3188" y="4294" width="710" height="309" frameX="-0" frameY="-34" frameWidth="710" frameHeight="356"/>
+	<SubTexture name="Monster40005" x="3188" y="4294" width="710" height="309" frameX="-0" frameY="-34" frameWidth="710" frameHeight="356"/>
+	<SubTexture name="Monster40006" x="3994" y="2511" width="348" height="640" rotated="true" frameX="-22" frameY="-0" frameWidth="710" frameHeight="356"/>
+	<SubTexture name="Monster40007" x="3994" y="2511" width="348" height="640" rotated="true" frameX="-22" frameY="-0" frameWidth="710" frameHeight="356"/>
+	<SubTexture name="Monster40008" x="3994" y="2511" width="348" height="640" rotated="true" frameX="-22" frameY="-0" frameWidth="710" frameHeight="356"/>
+	<SubTexture name="Monster4Cheer0000" x="2491" y="3888" width="813" height="352" frameX="-0" frameY="-26" frameWidth="813" frameHeight="379"/>
+	<SubTexture name="Monster4Cheer0001" x="2491" y="3888" width="813" height="352" frameX="-0" frameY="-26" frameWidth="813" frameHeight="379"/>
+	<SubTexture name="Monster4Cheer0002" x="3988" y="5" width="322" height="646" rotated="true" frameX="-15" frameY="-14" frameWidth="813" frameHeight="379"/>
+	<SubTexture name="Monster4Cheer0003" x="3988" y="5" width="322" height="646" rotated="true" frameX="-15" frameY="-14" frameWidth="813" frameHeight="379"/>
+	<SubTexture name="Monster4Cheer0004" x="3988" y="5" width="322" height="646" rotated="true" frameX="-15" frameY="-14" frameWidth="813" frameHeight="379"/>
+	<SubTexture name="Monster4Cheer0005" x="2491" y="4245" width="692" height="340" frameX="-31" frameY="-1" frameWidth="813" frameHeight="379"/>
+	<SubTexture name="Monster4Cheer0006" x="2491" y="4245" width="692" height="340" frameX="-31" frameY="-1" frameWidth="813" frameHeight="379"/>
+	<SubTexture name="Monster4Cheer0007" x="2491" y="4245" width="692" height="340" frameX="-31" frameY="-1" frameWidth="813" frameHeight="379"/>
+	<SubTexture name="Monster4Cheer0008" x="2491" y="4245" width="692" height="340" frameX="-31" frameY="-1" frameWidth="813" frameHeight="379"/>
+	<SubTexture name="Monster50000" x="2024" y="4364" width="431" height="172" frameX="-0" frameY="-11" frameWidth="463" frameHeight="204"/>
+	<SubTexture name="Monster50001" x="2024" y="4364" width="431" height="172" frameX="-0" frameY="-11" frameWidth="463" frameHeight="204"/>
+	<SubTexture name="Monster50002" x="2024" y="4364" width="431" height="172" frameX="-0" frameY="-11" frameWidth="463" frameHeight="204"/>
+	<SubTexture name="Monster50003" x="2024" y="4364" width="431" height="172" frameX="-0" frameY="-11" frameWidth="463" frameHeight="204"/>
+	<SubTexture name="Monster50004" x="2024" y="4364" width="431" height="172" frameX="-0" frameY="-11" frameWidth="463" frameHeight="204"/>
+	<SubTexture name="Monster50005" x="2024" y="4364" width="431" height="172" frameX="-0" frameY="-11" frameWidth="463" frameHeight="204"/>
+	<SubTexture name="Monster50006" x="2024" y="4364" width="431" height="172" frameX="-0" frameY="-11" frameWidth="463" frameHeight="204"/>
+	<SubTexture name="Monster50007" x="1575" y="4364" width="444" height="168" frameX="-4" frameY="-16" frameWidth="463" frameHeight="204"/>
+	<SubTexture name="Monster50008" x="1575" y="4364" width="444" height="168" frameX="-4" frameY="-16" frameWidth="463" frameHeight="204"/>
+	<SubTexture name="Monster50009" x="1575" y="4364" width="444" height="168" frameX="-4" frameY="-16" frameWidth="463" frameHeight="204"/>
+	<SubTexture name="Monster50010" x="1575" y="4364" width="444" height="168" frameX="-4" frameY="-16" frameWidth="463" frameHeight="204"/>
+	<SubTexture name="Monster50011" x="1575" y="4364" width="444" height="168" frameX="-4" frameY="-16" frameWidth="463" frameHeight="204"/>
+	<SubTexture name="Monster50012" x="1575" y="4364" width="444" height="168" frameX="-4" frameY="-16" frameWidth="463" frameHeight="204"/>
+	<SubTexture name="Monster50013" x="1575" y="4364" width="444" height="168" frameX="-4" frameY="-16" frameWidth="463" frameHeight="204"/>
+	<SubTexture name="Monster50014" x="3941" y="1363" width="463" height="204" frameX="-0" frameY="-0" frameWidth="463" frameHeight="204"/>
+	<SubTexture name="Monster50015" x="3941" y="1363" width="463" height="204" frameX="-0" frameY="-0" frameWidth="463" frameHeight="204"/>
+	<SubTexture name="Monster50016" x="3941" y="1363" width="463" height="204" frameX="-0" frameY="-0" frameWidth="463" frameHeight="204"/>
+	<SubTexture name="Monster50017" x="3941" y="1363" width="463" height="204" frameX="-0" frameY="-0" frameWidth="463" frameHeight="204"/>
+	<SubTexture name="Monster50018" x="3941" y="1363" width="463" height="204" frameX="-0" frameY="-0" frameWidth="463" frameHeight="204"/>
+	<SubTexture name="Monster50019" x="3941" y="1363" width="463" height="204" frameX="-0" frameY="-0" frameWidth="463" frameHeight="204"/>
+	<SubTexture name="Monster50020" x="3941" y="1363" width="463" height="204" frameX="-0" frameY="-0" frameWidth="463" frameHeight="204"/>
+	<SubTexture name="Monster5Cheer0000" x="4289" y="656" width="156" height="527" rotated="true" frameX="-0" frameY="-27" frameWidth="527" frameHeight="183"/>
+	<SubTexture name="Monster5Cheer0001" x="4289" y="656" width="156" height="527" rotated="true" frameX="-0" frameY="-27" frameWidth="527" frameHeight="183"/>
+	<SubTexture name="Monster5Cheer0002" x="1726" y="3066" width="497" height="151" frameX="-16" frameY="-18" frameWidth="527" frameHeight="183"/>
+	<SubTexture name="Monster5Cheer0003" x="1726" y="3066" width="497" height="151" frameX="-16" frameY="-18" frameWidth="527" frameHeight="183"/>
+	<SubTexture name="Monster5Cheer0004" x="1726" y="3066" width="497" height="151" frameX="-16" frameY="-18" frameWidth="527" frameHeight="183"/>
+	<SubTexture name="Monster5Cheer0005" x="4315" y="5" width="175" height="460" rotated="true" frameX="-33" frameY="-0" frameWidth="527" frameHeight="183"/>
+	<SubTexture name="Monster5Cheer0006" x="4315" y="5" width="175" height="460" rotated="true" frameX="-33" frameY="-0" frameWidth="527" frameHeight="183"/>
+	<SubTexture name="Monster5Cheer0007" x="4315" y="5" width="175" height="460" rotated="true" frameX="-33" frameY="-0" frameWidth="527" frameHeight="183"/>
+	<SubTexture name="Monster60000" x="908" y="2743" width="813" height="634" frameX="-24" frameY="-8" frameWidth="870" frameHeight="695"/>
+	<SubTexture name="Monster60001" x="908" y="2743" width="813" height="634" frameX="-24" frameY="-8" frameWidth="870" frameHeight="695"/>
+	<SubTexture name="Monster60002" x="908" y="2743" width="813" height="634" frameX="-24" frameY="-8" frameWidth="870" frameHeight="695"/>
+	<SubTexture name="Monster60003" x="908" y="2743" width="813" height="634" frameX="-24" frameY="-8" frameWidth="870" frameHeight="695"/>
+	<SubTexture name="Monster60004" x="2269" y="5" width="664" height="870" rotated="true" frameX="-0" frameY="-31" frameWidth="870" frameHeight="695"/>
+	<SubTexture name="Monster60005" x="2269" y="5" width="664" height="870" rotated="true" frameX="-0" frameY="-31" frameWidth="870" frameHeight="695"/>
+	<SubTexture name="Monster60006" x="2269" y="5" width="664" height="870" rotated="true" frameX="-0" frameY="-31" frameWidth="870" frameHeight="695"/>
+	<SubTexture name="Monster60007" x="2269" y="5" width="664" height="870" rotated="true" frameX="-0" frameY="-31" frameWidth="870" frameHeight="695"/>
+	<SubTexture name="Monster60008" x="2938" y="5" width="638" height="818" rotated="true" frameX="-28" frameY="-0" frameWidth="870" frameHeight="695"/>
+	<SubTexture name="Monster60009" x="2938" y="5" width="638" height="818" rotated="true" frameX="-28" frameY="-0" frameWidth="870" frameHeight="695"/>
+	<SubTexture name="Monster60010" x="2938" y="5" width="638" height="818" rotated="true" frameX="-28" frameY="-0" frameWidth="870" frameHeight="695"/>
+	<SubTexture name="Monster60011" x="2938" y="5" width="638" height="818" rotated="true" frameX="-28" frameY="-0" frameWidth="870" frameHeight="695"/>
+	<SubTexture name="Monster6Cheer0000" x="5" y="2743" width="898" height="618" frameX="-0" frameY="-22" frameWidth="924" frameHeight="640"/>
+	<SubTexture name="Monster6Cheer0001" x="5" y="2743" width="898" height="618" frameX="-0" frameY="-22" frameWidth="924" frameHeight="640"/>
+	<SubTexture name="Monster6Cheer0002" x="1726" y="3274" width="815" height="589" frameX="-24" frameY="-16" frameWidth="924" frameHeight="640"/>
+	<SubTexture name="Monster6Cheer0003" x="1726" y="3274" width="815" height="589" frameX="-24" frameY="-16" frameWidth="924" frameHeight="640"/>
+	<SubTexture name="Monster6Cheer0004" x="1726" y="3274" width="815" height="589" frameX="-24" frameY="-16" frameWidth="924" frameHeight="640"/>
+	<SubTexture name="Monster6Cheer0005" x="2269" y="880" width="625" height="903" rotated="true" frameX="-21" frameY="-0" frameWidth="924" frameHeight="640"/>
+	<SubTexture name="Monster6Cheer0006" x="2269" y="880" width="625" height="903" rotated="true" frameX="-21" frameY="-0" frameWidth="924" frameHeight="640"/>
+	<SubTexture name="Monster6Cheer0007" x="2269" y="880" width="625" height="903" rotated="true" frameX="-21" frameY="-0" frameWidth="924" frameHeight="640"/>
+	<SubTexture name="Monster70000" x="5" y="3996" width="763" height="599" rotated="true" frameX="-23" frameY="-35" frameWidth="626" frameHeight="823"/>
+	<SubTexture name="Monster70001" x="5" y="3996" width="763" height="599" rotated="true" frameX="-23" frameY="-35" frameWidth="626" frameHeight="823"/>
+	<SubTexture name="Monster70002" x="5" y="3996" width="763" height="599" rotated="true" frameX="-23" frameY="-35" frameWidth="626" frameHeight="823"/>
+	<SubTexture name="Monster70003" x="5" y="3996" width="763" height="599" rotated="true" frameX="-23" frameY="-35" frameWidth="626" frameHeight="823"/>
+	<SubTexture name="Monster70004" x="5" y="3996" width="763" height="599" rotated="true" frameX="-23" frameY="-35" frameWidth="626" frameHeight="823"/>
+	<SubTexture name="Monster70005" x="3321" y="3161" width="621" height="751" frameX="-5" frameY="-72" frameWidth="626" frameHeight="823"/>
+	<SubTexture name="Monster70006" x="3321" y="3161" width="621" height="751" frameX="-5" frameY="-72" frameWidth="626" frameHeight="823"/>
+	<SubTexture name="Monster70007" x="3321" y="3161" width="621" height="751" frameX="-5" frameY="-72" frameWidth="626" frameHeight="823"/>
+	<SubTexture name="Monster70008" x="3321" y="3161" width="621" height="751" frameX="-5" frameY="-72" frameWidth="626" frameHeight="823"/>
+	<SubTexture name="Monster70009" x="3321" y="3161" width="621" height="751" frameX="-5" frameY="-72" frameWidth="626" frameHeight="823"/>
+	<SubTexture name="Monster70010" x="5" y="3366" width="800" height="625" rotated="true" frameX="-0" frameY="-0" frameWidth="626" frameHeight="823"/>
+	<SubTexture name="Monster70011" x="5" y="3366" width="800" height="625" rotated="true" frameX="-0" frameY="-0" frameWidth="626" frameHeight="823"/>
+	<SubTexture name="Monster70012" x="5" y="3366" width="800" height="625" rotated="true" frameX="-0" frameY="-0" frameWidth="626" frameHeight="823"/>
+	<SubTexture name="Monster70013" x="5" y="3366" width="800" height="625" rotated="true" frameX="-0" frameY="-0" frameWidth="626" frameHeight="823"/>
+	<SubTexture name="Monster70014" x="5" y="3366" width="800" height="625" rotated="true" frameX="-0" frameY="-0" frameWidth="626" frameHeight="823"/>
+	<SubTexture name="Monster7Cheer0000" x="810" y="3382" width="764" height="618" rotated="true" frameX="-8" frameY="-35" frameWidth="626" frameHeight="799"/>
+	<SubTexture name="Monster7Cheer0001" x="810" y="3382" width="764" height="618" rotated="true" frameX="-8" frameY="-35" frameWidth="626" frameHeight="799"/>
+	<SubTexture name="Monster7Cheer0002" x="2546" y="3274" width="770" height="609" rotated="true" frameX="-0" frameY="-1" frameWidth="626" frameHeight="799"/>
+	<SubTexture name="Monster7Cheer0003" x="2546" y="3274" width="770" height="609" rotated="true" frameX="-0" frameY="-1" frameWidth="626" frameHeight="799"/>
+	<SubTexture name="Monster7Cheer0004" x="2546" y="3274" width="770" height="609" rotated="true" frameX="-0" frameY="-1" frameWidth="626" frameHeight="799"/>
+	<SubTexture name="Monster7Cheer0005" x="3511" y="1724" width="597" height="782" frameX="-7" frameY="-2" frameWidth="626" frameHeight="799"/>
+	<SubTexture name="Monster7Cheer0006" x="3511" y="1724" width="597" height="782" frameX="-7" frameY="-2" frameWidth="626" frameHeight="799"/>
+	<SubTexture name="Monster7Cheer0007" x="3511" y="1724" width="597" height="782" frameX="-7" frameY="-2" frameWidth="626" frameHeight="799"/>
+	<SubTexture name="week_2monster" x="5" y="1374" width="2259" height="1364" frameX="-0" frameY="-0" frameWidth="2259" frameHeight="1364"/>
+	<SubTexture name="week_2darkmonster" x="5" y="5" width="2259" height="1364" frameX="-0" frameY="-0" frameWidth="2259" frameHeight="1364"/>
+</TextureAtlas>

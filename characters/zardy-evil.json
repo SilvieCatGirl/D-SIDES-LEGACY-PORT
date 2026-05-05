@@ -1,0 +1,195 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				235,
+				110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ZardyEvilIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				553,
+				-32
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ZardyEvilLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				411,
+				-140
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ZardyEvilDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				276,
+				316
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ZardyEvilUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				-85
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ZardyEvilRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				235,
+				110
+			],
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "ZardyEvilIdle"
+		},
+		{
+			"offsets": [
+				411,
+				-140
+			],
+			"indices": [
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "ZardyEvilDown"
+		},
+		{
+			"offsets": [
+				128,
+				-85
+			],
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "ZardyEvilRight"
+		},
+		{
+			"offsets": [
+				276,
+				316
+			],
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 20,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "ZardyEvilUp"
+		},
+		{
+			"offsets": [
+				553,
+				-32
+			],
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"fps": 12,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "ZardyEvilLeft"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Zardy/Evil",
+	"position": [
+		140,
+		-60
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "zardy",
+	"gameover_character": null,
+	"vslice_sustains": true,
+	"flip_x": false,
+	"healthbar_colour": -54868,
+	"camera_position": [
+		-367,
+		16
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

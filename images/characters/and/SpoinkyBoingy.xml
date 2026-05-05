@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SpoinkyBoingy.png"><SubTexture name="SpoinkyBoingy Idle0000" x="1594" y="959" width="328" height="262" frameX="-100" frameY="-194" frameWidth="512" frameHeight="512" />
+<SubTexture name="SpoinkyBoingy Idle0001" x="1594" y="657" width="334" height="302" frameX="-91" frameY="-147" frameWidth="512" frameHeight="512" />
+<SubTexture name="SpoinkyBoingy Idle0002" x="789" y="866" width="347" height="380" frameX="-89" frameY="-71" frameWidth="512" frameHeight="512" />
+<SubTexture name="SpoinkyBoingy Idle0003" x="1151" y="409" width="336" height="404" frameX="-101" frameY="-53" frameWidth="512" frameHeight="512" />
+<SubTexture name="SpoinkyBoingy Left0000" x="346" y="0" width="459" height="429" frameX="-42" frameY="-30" frameWidth="512" frameHeight="512" />
+<SubTexture name="SpoinkyBoingy Left0001" x="1151" y="0" width="443" height="409" frameX="-48" frameY="-48" frameWidth="512" frameHeight="512" />
+<SubTexture name="SpoinkyBoingy Left0002" x="336" y="866" width="453" height="383" frameX="-36" frameY="-73" frameWidth="512" frameHeight="512" />
+<SubTexture name="SpoinkyBoingy Down0000" x="1151" y="409" width="336" height="404" frameX="-101" frameY="-53" frameWidth="512" frameHeight="512" />
+<SubTexture name="SpoinkyBoingy Down0001" x="1594" y="342" width="277" height="315" frameX="-121" frameY="-142" frameWidth="512" frameHeight="512" />
+<SubTexture name="SpoinkyBoingy Down0002" x="0" y="1270" width="336" height="217" frameX="-102" frameY="-295" frameWidth="512" frameHeight="512" />
+<SubTexture name="SpoinkyBoingy Down0003" x="1594" y="1221" width="318" height="20" frameX="-106" frameY="-430" frameWidth="512" frameHeight="512" />
+<SubTexture name="SpoinkyBoingy Up0000" x="0" y="866" width="336" height="404" frameX="-101" frameY="-53" frameWidth="512" frameHeight="512" />
+<SubTexture name="SpoinkyBoingy Up0001" x="805" y="0" width="346" height="428" frameX="-92" frameY="-28" frameWidth="512" frameHeight="512" />
+<SubTexture name="SpoinkyBoingy Up0002" x="0" y="0" width="346" height="453" frameX="-90" frameY="-2" frameWidth="512" frameHeight="512" />
+<SubTexture name="SpoinkyBoingy Right0000" x="1136" y="866" width="400" height="360" frameX="-55" frameY="-50" frameWidth="512" frameHeight="512" />
+<SubTexture name="SpoinkyBoingy Right0001" x="1594" y="0" width="407" height="342" frameX="-55" frameY="-59" frameWidth="512" frameHeight="512" />
+<SubTexture name="SpoinkyBoingy Right0002" x="0" y="453" width="408" height="413" frameX="-54" frameY="-43" frameWidth="512" frameHeight="512" />
+<SubTexture name="SpoinkyBoingy Right0003" x="408" y="453" width="427" height="411" frameX="-50" frameY="-44" frameWidth="512" frameHeight="512" />
+<SubTexture name="SpoinkyBoingy DEAD0000" x="336" y="1270" width="493" height="105" frameX="-15" frameY="-360" frameWidth="512" frameHeight="512" />
+</TextureAtlas>

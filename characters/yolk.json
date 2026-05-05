@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"flipX": false,
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22
+			],
+			"name": "yolkmamsunky"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"flipX": false,
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "yolkmamsunky"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft-alt",
+			"flipX": false,
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "yolkmamJoy"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight-alt",
+			"flipX": false,
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22
+			],
+			"name": "yolkmamJoy"
+		},
+		{
+			"offsets": [
+				-8,
+				1
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "shockLeft",
+			"flipX": false,
+			"indices": [],
+			"name": "yolkmamlaugh"
+		},
+		{
+			"offsets": [
+				20,
+				49
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "shockRight",
+			"flipX": false,
+			"indices": [],
+			"name": "yolkmamshock"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "backgrounds/exe/milk/yolk",
+	"position": [
+		-70,
+		120
+	],
+	"dance_every": 1,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "sunky",
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": false,
+	"healthbar_colour": -7055171,
+	"camera_position": [
+		-334,
+		-33
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

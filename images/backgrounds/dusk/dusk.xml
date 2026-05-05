@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="dusk.png" width="2407" height="4055">
+	<SubTexture name="skybackity" x="1508" y="2755" width="880" height="557" frameX="-0" frameY="-0" frameWidth="880" frameHeight="557"/>
+	<SubTexture name="skycreampng" x="5" y="2755" width="1498" height="1295" frameX="-0" frameY="-0" frameWidth="1498" frameHeight="1295"/>
+	<SubTexture name="skyfront" x="5" y="5" width="2397" height="1370" frameX="-0" frameY="-0" frameWidth="2397" frameHeight="1370"/>
+	<SubTexture name="skysky" x="5" y="1380" width="2397" height="1370" frameX="-0" frameY="-0" frameWidth="2397" frameHeight="1370"/>
+</TextureAtlas>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AccelerantScreens.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ScreensLeftHank0000" x="757" y="1038" width="643" height="867"/>
+	<SubTexture name="ScreensLeftHank0001" x="757" y="1038" width="643" height="867"/>
+	<SubTexture name="ScreensLeftHank0002" x="757" y="1038" width="643" height="867"/>
+	<SubTexture name="ScreensLeftHank0003" x="757" y="1038" width="643" height="867"/>
+	<SubTexture name="ScreensLeftHank0004" x="757" y="1038" width="643" height="867"/>
+	<SubTexture name="ScreensLeftHank0005" x="757" y="1038" width="643" height="867"/>
+	<SubTexture name="ScreensLeftHank0006" x="757" y="1038" width="643" height="867"/>
+	<SubTexture name="ScreensLeftHank0007" x="757" y="1038" width="643" height="867"/>
+	<SubTexture name="ScreensLeftHank0008" x="757" y="1038" width="643" height="867"/>
+	<SubTexture name="ScreensLeftHank0009" x="757" y="1038" width="643" height="867"/>
+	<SubTexture name="ScreensLeftHank0010" x="1420" y="1038" width="643" height="867"/>
+	<SubTexture name="ScreensLeftHank0011" x="1420" y="1038" width="643" height="867"/>
+	<SubTexture name="ScreensLeftHank0012" x="1420" y="1038" width="643" height="867"/>
+	<SubTexture name="ScreensLeftHank0013" x="1420" y="1038" width="643" height="867"/>
+	<SubTexture name="ScreensLeftHank0014" x="1420" y="1038" width="643" height="867"/>
+	<SubTexture name="ScreensLeftHank0015" x="1420" y="1038" width="643" height="867"/>
+	<SubTexture name="ScreensLeftHank0016" x="1420" y="1038" width="643" height="867"/>
+	<SubTexture name="ScreensLeftHank0017" x="1420" y="1038" width="643" height="867"/>
+	<SubTexture name="ScreensLeftHank0018" x="1420" y="1038" width="643" height="867"/>
+	<SubTexture name="ScreensLeftHank0019" x="1420" y="1038" width="643" height="867"/>
+	<SubTexture name="ScreensLeftStatic0000" x="20" y="1980" width="634" height="867" frameX="-9" frameY="0" frameWidth="643" frameHeight="867"/>
+	<SubTexture name="ScreensLeftStatic0001" x="2083" y="1904" width="643" height="867"/>
+	<SubTexture name="ScreensLeftStatic0002" x="2746" y="1904" width="643" height="867"/>
+	<SubTexture name="ScreensLeftTricky0000" x="3409" y="1904" width="643" height="867"/>
+	<SubTexture name="ScreensLeftTricky0001" x="757" y="1925" width="643" height="867"/>
+	<SubTexture name="ScreensLeftTricky0002" x="1420" y="1925" width="643" height="867"/>
+	<SubTexture name="ScreensRightHank0000" x="2564" y="20" width="717" height="922"/>
+	<SubTexture name="ScreensRightHank0001" x="2564" y="20" width="717" height="922"/>
+	<SubTexture name="ScreensRightHank0002" x="2564" y="20" width="717" height="922"/>
+	<SubTexture name="ScreensRightHank0003" x="2564" y="20" width="717" height="922"/>
+	<SubTexture name="ScreensRightHank0004" x="2564" y="20" width="717" height="922"/>
+	<SubTexture name="ScreensRightHank0005" x="2564" y="20" width="717" height="922"/>
+	<SubTexture name="ScreensRightHank0006" x="2564" y="20" width="717" height="922"/>
+	<SubTexture name="ScreensRightHank0007" x="2564" y="20" width="717" height="922"/>
+	<SubTexture name="ScreensRightHank0008" x="2564" y="20" width="717" height="922"/>
+	<SubTexture name="ScreensRightHank0009" x="2564" y="20" width="717" height="922"/>
+	<SubTexture name="ScreensRightHank0010" x="3301" y="20" width="717" height="922"/>
+	<SubTexture name="ScreensRightHank0011" x="3301" y="20" width="717" height="922"/>
+	<SubTexture name="ScreensRightHank0012" x="3301" y="20" width="717" height="922"/>
+	<SubTexture name="ScreensRightHank0013" x="3301" y="20" width="717" height="922"/>
+	<SubTexture name="ScreensRightHank0014" x="3301" y="20" width="717" height="922"/>
+	<SubTexture name="ScreensRightHank0015" x="3301" y="20" width="717" height="922"/>
+	<SubTexture name="ScreensRightHank0016" x="3301" y="20" width="717" height="922"/>
+	<SubTexture name="ScreensRightHank0017" x="3301" y="20" width="717" height="922"/>
+	<SubTexture name="ScreensRightHank0018" x="3301" y="20" width="717" height="922"/>
+	<SubTexture name="ScreensRightHank0019" x="3301" y="20" width="717" height="922"/>
+	<SubTexture name="ScreensRightStatic0000" x="2564" y="962" width="717" height="922"/>
+	<SubTexture name="ScreensRightStatic0001" x="3301" y="962" width="717" height="922"/>
+	<SubTexture name="ScreensRightStatic0002" x="20" y="1038" width="717" height="922"/>
+	<SubTexture name="ScreensRightTricky0000" x="870" y="20" width="827" height="998" frameX="0" frameY="0" frameWidth="830" frameHeight="998"/>
+	<SubTexture name="ScreensRightTricky0001" x="20" y="20" width="830" height="998"/>
+	<SubTexture name="ScreensRightTricky0002" x="1717" y="20" width="827" height="998" frameX="0" frameY="0" frameWidth="830" frameHeight="998"/>
+</TextureAtlas>

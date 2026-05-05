@@ -1,0 +1,92 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				94,
+				138
+			],
+			"flipY": false,
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"flipX": false,
+			"indices": [],
+			"name": "ZephIdle"
+		},
+		{
+			"offsets": [
+				254,
+				-96
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"flipX": false,
+			"indices": [],
+			"name": "DownAlt"
+		},
+		{
+			"offsets": [
+				319,
+				183
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"flipX": false,
+			"indices": [],
+			"name": "LeftAlt"
+		},
+		{
+			"offsets": [
+				97,
+				122
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"flipX": false,
+			"indices": [],
+			"name": "RightAlt"
+		},
+		{
+			"offsets": [
+				83,
+				290
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"flipX": false,
+			"indices": [],
+			"name": "UpAlt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/exe/Zeph/rot",
+	"position": [
+		180,
+		169
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "zephmoldy",
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": false,
+	"healthbar_colour": -13552488,
+	"camera_position": [
+		-132,
+		30
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 8,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

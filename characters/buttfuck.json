@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"flipX": false,
+			"indices": [],
+			"name": "ANIMATIONS/BF/buttfuck idle"
+		},
+		{
+			"offsets": [
+				8,
+				-20
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"flipX": false,
+			"indices": [],
+			"name": "ANIMATIONS/BF/buttfuck down"
+		},
+		{
+			"offsets": [
+				73,
+				2
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"flipX": false,
+			"indices": [],
+			"name": "ANIMATIONS/BF/buttfuck left"
+		},
+		{
+			"offsets": [
+				3,
+				53
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"flipX": false,
+			"indices": [],
+			"name": "ANIMATIONS/BF/buttfuck up"
+		},
+		{
+			"offsets": [
+				11,
+				11
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"flipX": false,
+			"indices": [],
+			"name": "ANIMATIONS/BF/buttfuck right"
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				2,
+				-39
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "ANIMATIONS/BF/buttfuck m down",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				67,
+				-6
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "ANIMATIONS/BF/buttfuck m left",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				10,
+				-15
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "ANIMATIONS/BF/buttfuck m right",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-8,
+				35
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "ANIMATIONS/BF/buttfuck m up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF/Butt/Buttfuck",
+	"position": [
+		0,
+		360
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "buttfuck",
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": true,
+	"healthbar_colour": -39696,
+	"camera_position": [
+		79,
+		4
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 4,
+	"scale": 0.7,
+	"_editor_isPlayer": true
+}

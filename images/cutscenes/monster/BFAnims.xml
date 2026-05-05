@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BFAnims.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BFBlah0000" x="0" y="0" width="401" height="474" frameX="-1" frameY="-2" frameWidth="408" frameHeight="477"/>
+	<SubTexture name="BFBlah0001" x="0" y="0" width="401" height="474" frameX="-1" frameY="-2" frameWidth="408" frameHeight="477"/>
+	<SubTexture name="BFBlah0002" x="401" y="0" width="407" height="477" frameX="-1" frameY="0" frameWidth="408" frameHeight="477"/>
+	<SubTexture name="BFBlah0003" x="401" y="0" width="407" height="477" frameX="-1" frameY="0" frameWidth="408" frameHeight="477"/>
+	<SubTexture name="BFBlah0004" x="401" y="0" width="407" height="477" frameX="-1" frameY="0" frameWidth="408" frameHeight="477"/>
+	<SubTexture name="BFBlah0005" x="808" y="0" width="405" height="476" frameX="0" frameY="-1" frameWidth="408" frameHeight="477"/>
+	<SubTexture name="BFBlah0006" x="808" y="0" width="405" height="476" frameX="0" frameY="-1" frameWidth="408" frameHeight="477"/>
+	<SubTexture name="BFBlah0007" x="808" y="0" width="405" height="476" frameX="0" frameY="-1" frameWidth="408" frameHeight="477"/>
+	<SubTexture name="BFBlah0008" x="808" y="0" width="405" height="476" frameX="0" frameY="-1" frameWidth="408" frameHeight="477"/>
+	<SubTexture name="BFCooCoo0000" x="1213" y="0" width="419" height="473" frameX="0" frameY="0" frameWidth="427" frameHeight="473"/>
+	<SubTexture name="BFCooCoo0001" x="1213" y="0" width="419" height="473" frameX="0" frameY="0" frameWidth="427" frameHeight="473"/>
+	<SubTexture name="BFCooCoo0002" x="1213" y="0" width="419" height="473" frameX="0" frameY="0" frameWidth="427" frameHeight="473"/>
+	<SubTexture name="BFCooCoo0003" x="0" y="477" width="425" height="473" frameX="0" frameY="0" frameWidth="427" frameHeight="473"/>
+	<SubTexture name="BFCooCoo0004" x="0" y="477" width="425" height="473" frameX="0" frameY="0" frameWidth="427" frameHeight="473"/>
+	<SubTexture name="BFCooCoo0005" x="425" y="477" width="427" height="473"/>
+	<SubTexture name="BFCooCoo0006" x="425" y="477" width="427" height="473"/>
+	<SubTexture name="BFCooCoo0007" x="852" y="477" width="425" height="473" frameX="0" frameY="0" frameWidth="427" frameHeight="473"/>
+	<SubTexture name="BFCooCoo0008" x="852" y="477" width="425" height="473" frameX="0" frameY="0" frameWidth="427" frameHeight="473"/>
+	<SubTexture name="BFCooCoo0009" x="852" y="477" width="425" height="473" frameX="0" frameY="0" frameWidth="427" frameHeight="473"/>
+	<SubTexture name="BFLaugh0000" x="1277" y="477" width="461" height="492"/>
+	<SubTexture name="BFLaugh0001" x="1277" y="477" width="461" height="492"/>
+	<SubTexture name="BFLaugh0002" x="0" y="969" width="445" height="484" frameX="-16" frameY="-6" frameWidth="461" frameHeight="492"/>
+	<SubTexture name="BFLaugh0003" x="0" y="969" width="445" height="484" frameX="-16" frameY="-6" frameWidth="461" frameHeight="492"/>
+	<SubTexture name="BFLaugh0004" x="445" y="969" width="448" height="487" frameX="-13" frameY="-4" frameWidth="461" frameHeight="492"/>
+	<SubTexture name="BFLaugh0005" x="445" y="969" width="448" height="487" frameX="-13" frameY="-4" frameWidth="461" frameHeight="492"/>
+	<SubTexture name="BFLaugh0006" x="445" y="969" width="448" height="487" frameX="-13" frameY="-4" frameWidth="461" frameHeight="492"/>
+</TextureAtlas>

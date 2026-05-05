@@ -1,0 +1,209 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"flipX": false,
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				162,
+				-53
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"flipX": false,
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				45,
+				78
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"flipX": false,
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-132,
+				72
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"flipX": false,
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-37,
+				225
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"flipX": false,
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-65,
+				-98
+			],
+			"anim": "sing_shootDOWN",
+			"fps": 24,
+			"name": "DownSHOOT",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-30,
+				70
+			],
+			"anim": "sing_shootLEFT",
+			"fps": 24,
+			"name": "LeftSHOOT",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-132,
+				86
+			],
+			"anim": "sing_shootRIGHT",
+			"fps": 24,
+			"name": "RightSHOOT",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-178,
+				182
+			],
+			"anim": "sing_shootUP",
+			"fps": 24,
+			"name": "UpSHOOT",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-2,
+				113
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"flipX": false,
+			"indices": [],
+			"name": "AltIdle"
+		},
+		{
+			"offsets": [
+				132,
+				142
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "scene",
+			"flipX": false,
+			"indices": [],
+			"name": "Surprise"
+		},
+		{
+			"offsets": [
+				-63,
+				433
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"flipX": false,
+			"indices": [],
+			"name": "ShootingTricky"
+		},
+		{
+			"offsets": [
+				41,
+				36
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"flipX": false,
+			"indices": [],
+			"name": "FinalNote"
+		},
+		{
+			"offsets": [
+				15,
+				36
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "End",
+			"loop": false,
+			"name": "End"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/madness/hank",
+	"position": [
+		-140,
+		240
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "hank",
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": false,
+	"healthbar_colour": -65536,
+	"camera_position": [
+		-500,
+		-251
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

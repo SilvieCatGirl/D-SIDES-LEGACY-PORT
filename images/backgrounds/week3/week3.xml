@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="week3.png" width="7199" height="2805">
+	<SubTexture name="cloud_shadow0000" x="4225" y="1374" width="505" height="115" frameX="-0" frameY="-0" frameWidth="505" frameHeight="115"/>
+	<SubTexture name="build_week30000" x="4801" y="1102" width="2397" height="944" frameX="-0" frameY="-77" frameWidth="2397" frameHeight="1370"/>
+	<SubTexture name="week_3buildings_20000" x="2401" y="1374" width="1821" height="979" frameX="-125" frameY="-127" frameWidth="2397" frameHeight="1370"/>
+	<SubTexture name="week_3floor0000" x="1" y="1374" width="2397" height="749" frameX="-0" frameY="-621" frameWidth="2397" frameHeight="1370"/>
+	<SubTexture name="week_3lights0000" x="1" y="2126" width="2397" height="678" frameX="-0" frameY="-216" frameWidth="2397" frameHeight="1370"/>
+	<SubTexture name="week_3overlay0000" x="1" y="1" width="2397" height="1370" frameX="-0" frameY="-0" frameWidth="2397" frameHeight="1370"/>
+	<SubTexture name="week_3props0000" x="4801" y="1" width="2235" height="1098" frameX="-48" frameY="-53" frameWidth="2397" frameHeight="1370"/>
+	<SubTexture name="week_3sky0000" x="2401" y="1" width="2397" height="1370" frameX="-0" frameY="-0" frameWidth="2397" frameHeight="1370"/>
+	<SubTexture name="week_3streets0000" x="4225" y="2049" width="2397" height="654" frameX="-0" frameY="-353" frameWidth="2397" frameHeight="1370"/>
+</TextureAtlas>

@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "enter-left",
+			"fps": 24,
+			"name": "ForegroundGrunt",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				743,
+				191
+			],
+			"anim": "die-left",
+			"fps": 24,
+			"name": "ForegroundGruntDEATH",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": true,
+			"flipY": false,
+			"anim": "enter-right",
+			"loop": false,
+			"name": "ForegroundGrunt"
+		},
+		{
+			"offsets": [
+				506,
+				191
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": true,
+			"flipY": false,
+			"anim": "die-right",
+			"loop": false,
+			"name": "ForegroundGruntDEATH"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "backgrounds/accel/bonus",
+	"position": [
+		-130,
+		0
+	],
+	"dance_every": 1,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "gf",
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": false,
+	"healthbar_colour": -5963699,
+	"camera_position": [
+		-725,
+		-2186
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 3.8,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,17 @@
+{
+    "stuff": [
+        {"lyric": "Kids, get out of here!", "timestamp": 12, "color": "0xFF8cfff0"},
+        {"lyric": "DO NOT INTEREFERE.", "timestamp": 32, "color": "0xFFd400ff"},
+        {"lyric": "LONG HAVE YOU FLED MY SCYTHE, LITTLE ONE.", "timestamp": 62, "color": "0xFFd400ff"},
+        {"lyric": "THIS ENDS, TONI-", "timestamp": 142, "color": "0xFFd400ff"},
+        {"lyric": "WOW! That was SUPER SPOOKY MISTER!!", "timestamp": 164, "color": "0xFF8afff0"},
+        {"lyric": "Yeah your costume looks great!", "timestamp": 206, "color": "0xFFFFFFFF"},
+        {"lyric": "Come sing with us!", "timestamp": 236, "color": "0xFFFFFFFF"},
+        {"lyric": "", "timestamp": 256, "color": "0xFFFFFFFF"},
+
+        {"lyric": "We'd love to sing more with you mister!", "timestamp": 2634, "color": "0xFF8afff0"},
+        {"lyric": "Uhhh... but it's getting pretty late...", "timestamp": 2680, "color": "0xFFFFFFFF"},
+        {"lyric": "HELL WAITS FOR NO ONE.", "timestamp": 2738, "color": "0xFFd400ff"},
+        {"lyric": "", "timestamp": 2768, "color": "0xFFFFFFFF"}
+    ]
+}

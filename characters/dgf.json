@@ -1,0 +1,62 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-9
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Idle",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/GF/ved",
+	"position": [
+		-550,
+		-190
+	],
+	"dance_every": 1,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "gf",
+	"gameover_character": null,
+	"flip_x": false,
+	"healthbar_colour": -5963699,
+	"camera_position": [
+		296,
+		388
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 4,
+	"scale": 1.6,
+	"_editor_isPlayer": false
+}

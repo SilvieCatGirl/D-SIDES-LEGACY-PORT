@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cumlordenter.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cumlord enter0000" x="319" y="505" width="272" height="400" frameX="-581" frameY="-235" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0001" x="1361" y="407" width="315" height="426" frameX="-522" frameY="-354" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0002" x="1361" y="407" width="315" height="426" frameX="-522" frameY="-354" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0003" x="8" y="8" width="368" height="450" frameX="-444" frameY="-483" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0004" x="8" y="8" width="368" height="450" frameX="-444" frameY="-483" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0005" x="1113" y="8" width="385" height="390" frameX="-352" frameY="-627" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0006" x="1113" y="8" width="385" height="390" frameX="-352" frameY="-627" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0007" x="1684" y="407" width="310" height="421" frameX="-411" frameY="-578" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0008" x="1684" y="407" width="310" height="421" frameX="-411" frameY="-578" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0009" x="8" y="466" width="303" height="420" frameX="-415" frameY="-572" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0010" x="8" y="466" width="303" height="420" frameX="-415" frameY="-572" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0011" x="8" y="466" width="303" height="420" frameX="-415" frameY="-572" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0012" x="8" y="466" width="303" height="420" frameX="-415" frameY="-572" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0013" x="8" y="466" width="303" height="420" frameX="-415" frameY="-572" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0014" x="8" y="466" width="303" height="420" frameX="-415" frameY="-572" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0015" x="8" y="466" width="303" height="420" frameX="-415" frameY="-572" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0016" x="8" y="466" width="303" height="420" frameX="-415" frameY="-572" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0017" x="8" y="466" width="303" height="420" frameX="-415" frameY="-572" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0018" x="8" y="466" width="303" height="420" frameX="-415" frameY="-572" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0019" x="8" y="466" width="303" height="420" frameX="-415" frameY="-572" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0020" x="8" y="466" width="303" height="420" frameX="-415" frameY="-572" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0021" x="8" y="466" width="303" height="420" frameX="-415" frameY="-572" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0022" x="1506" y="8" width="372" height="391" frameX="-357" frameY="-614" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0023" x="1506" y="8" width="372" height="391" frameX="-357" frameY="-614" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0024" x="710" y="8" width="395" height="385" frameX="-342" frameY="-622" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0025" x="710" y="8" width="395" height="385" frameX="-342" frameY="-622" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0026" x="384" y="8" width="318" height="489" frameX="-246" frameY="-350" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0027" x="384" y="8" width="318" height="489" frameX="-246" frameY="-350" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0028" x="710" y="401" width="317" height="442" frameX="-116" frameY="-140" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0029" x="710" y="401" width="317" height="442" frameX="-116" frameY="-140" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0030" x="1035" y="406" width="318" height="435" frameX="0" frameY="0" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0031" x="1035" y="406" width="318" height="435" frameX="0" frameY="0" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0032" x="8" y="8" width="0" height="0" frameX="-411" frameY="-712" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0033" x="8" y="8" width="0" height="0" frameX="-411" frameY="-712" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0034" x="8" y="8" width="0" height="0" frameX="-411" frameY="-712" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0035" x="8" y="8" width="0" height="0" frameX="-411" frameY="-712" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0036" x="8" y="8" width="0" height="0" frameX="-411" frameY="-712" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0037" x="8" y="8" width="0" height="0" frameX="-411" frameY="-712" frameWidth="853" frameHeight="1017"/>
+	<SubTexture name="cumlord enter0038" x="8" y="8" width="0" height="0" frameX="-411" frameY="-712" frameWidth="853" frameHeight="1017"/>
+</TextureAtlas>

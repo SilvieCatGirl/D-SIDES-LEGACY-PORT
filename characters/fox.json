@@ -1,0 +1,202 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-59,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-54,
+				-109
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-54,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-67,
+				-105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-59,
+				-109
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-61,
+				-108
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Pie",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-60,
+				-108
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Retry Confirm",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-61,
+				-108
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Retry",
+			"indices": [
+				8,
+				9
+			],
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-57,
+				-109
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "shock",
+			"flipX": false,
+			"indices": [],
+			"name": "Shocked"
+		},
+		{
+			"offsets": [
+				-57,
+				-109
+			],
+			"flipY": false,
+			"loop": true,
+			"fps": 24,
+			"anim": "shake",
+			"flipX": false,
+			"indices": [],
+			"name": "Shake"
+		},
+		{
+			"offsets": [
+				-67,
+				-105
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "MissL"
+		},
+		{
+			"offsets": [
+				-59,
+				-109
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "MissR"
+		},
+		{
+			"offsets": [
+				-54,
+				-110
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "MissU"
+		},
+		{
+			"offsets": [
+				-54,
+				-109
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "MissD"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ourple/nuFoxy",
+	"position": [
+		100,
+		90
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": "pie",
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "foxy",
+	"gameover_character": "fox",
+	"vslice_sustains": true,
+	"flip_x": true,
+	"healthbar_colour": -9011526,
+	"camera_position": [
+		-286,
+		465
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

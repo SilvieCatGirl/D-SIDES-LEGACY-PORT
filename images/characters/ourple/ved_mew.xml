@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="ved_mew_assets.png" width="1977" height="1983" spritePadding="3" borderPadding="3">
+	<SubTexture name="tick0000" x="458" y="450" width="211" height="383" frameX="-328" frameY="-120" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="tick0001" x="458" y="450" width="211" height="383" frameX="-328" frameY="-120" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="tick0002" x="458" y="836" width="234" height="381" frameX="-326" frameY="-115" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="tick0003" x="458" y="836" width="234" height="381" frameX="-326" frameY="-115" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved call0000" x="3" y="1230" width="429" height="399" rotated="true" frameX="-258" frameY="-67" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved call0001" x="3" y="1230" width="429" height="399" rotated="true" frameX="-258" frameY="-67" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved call0002" x="803" y="3" width="380" height="430" frameX="-256" frameY="-67" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved call0003" x="803" y="3" width="380" height="430" frameX="-256" frameY="-67" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved down0000" x="1385" y="1705" width="322" height="170" rotated="true" frameX="-284" frameY="-162" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved down0001" x="1385" y="1705" width="322" height="170" rotated="true" frameX="-284" frameY="-162" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved down0002" x="1723" y="1371" width="175" height="330" frameX="-287" frameY="-152" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved down0003" x="1723" y="1371" width="175" height="330" frameX="-287" frameY="-152" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved down0004" x="1723" y="1371" width="175" height="330" frameX="-287" frameY="-152" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved down0005" x="1723" y="1371" width="175" height="330" frameX="-287" frameY="-152" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved down0006" x="1723" y="1371" width="175" height="330" frameX="-287" frameY="-152" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved down0007" x="1723" y="1371" width="175" height="330" frameX="-287" frameY="-152" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved down0008" x="1723" y="1371" width="175" height="330" frameX="-287" frameY="-152" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved down0009" x="1723" y="1371" width="175" height="330" frameX="-287" frameY="-152" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved down0010" x="1723" y="1371" width="175" height="330" frameX="-287" frameY="-152" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved down0011" x="1723" y="1371" width="175" height="330" frameX="-287" frameY="-152" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved down0012" x="1723" y="1371" width="175" height="330" frameX="-287" frameY="-152" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved down0013" x="1723" y="1371" width="175" height="330" frameX="-287" frameY="-152" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved gameover0000" x="1186" y="194" width="419" height="236" rotated="true" frameX="-338" frameY="-76" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved gameover0001" x="1186" y="194" width="419" height="236" rotated="true" frameX="-338" frameY="-76" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved gameover0002" x="1186" y="194" width="419" height="236" rotated="true" frameX="-338" frameY="-76" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved gameover0003" x="1180" y="620" width="418" height="246" rotated="true" frameX="-334" frameY="-71" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved gameover0004" x="1180" y="620" width="418" height="246" rotated="true" frameX="-334" frameY="-71" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved gameover0005" x="1180" y="620" width="418" height="246" rotated="true" frameX="-334" frameY="-71" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved giggle0000" x="1579" y="1097" width="337" height="271" rotated="true" frameX="-327" frameY="-161" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved giggle0001" x="1579" y="1097" width="337" height="271" rotated="true" frameX="-327" frameY="-161" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved giggle0002" x="1608" y="535" width="340" height="276" rotated="true" frameX="-327" frameY="-160" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved giggle0003" x="1608" y="535" width="340" height="276" rotated="true" frameX="-327" frameY="-160" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved giggle0004" x="1579" y="1097" width="337" height="271" rotated="true" frameX="-327" frameY="-161" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved giggle0005" x="1579" y="1097" width="337" height="271" rotated="true" frameX="-327" frameY="-161" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved giggle0006" x="1608" y="535" width="340" height="276" rotated="true" frameX="-327" frameY="-160" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved giggle0007" x="1608" y="535" width="340" height="276" rotated="true" frameX="-327" frameY="-160" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved giggle0008" x="435" y="1230" width="309" height="387" frameX="-323" frameY="-113" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved giggle0009" x="435" y="1230" width="309" height="387" frameX="-323" frameY="-113" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved giggle0010" x="695" y="869" width="378" height="315" rotated="true" frameX="-320" frameY="-125" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved giggle0011" x="695" y="869" width="378" height="315" rotated="true" frameX="-320" frameY="-125" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved giggle0012" x="695" y="869" width="378" height="315" rotated="true" frameX="-320" frameY="-125" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved giggle0013" x="695" y="869" width="378" height="315" rotated="true" frameX="-320" frameY="-125" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved giggle0014" x="435" y="1230" width="309" height="387" frameX="-323" frameY="-113" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved giggle0015" x="435" y="1230" width="309" height="387" frameX="-323" frameY="-113" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved giggle0016" x="695" y="869" width="378" height="315" rotated="true" frameX="-320" frameY="-125" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved giggle0017" x="695" y="869" width="378" height="315" rotated="true" frameX="-320" frameY="-125" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved giggle0018" x="435" y="1230" width="309" height="387" frameX="-323" frameY="-113" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved giggle0019" x="435" y="1230" width="309" height="387" frameX="-323" frameY="-113" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved giggle0020" x="695" y="869" width="378" height="315" rotated="true" frameX="-320" frameY="-125" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved giggle0021" x="695" y="869" width="378" height="315" rotated="true" frameX="-320" frameY="-125" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved giggle0022" x="695" y="869" width="378" height="315" rotated="true" frameX="-320" frameY="-125" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved giggle0023" x="695" y="869" width="378" height="315" rotated="true" frameX="-320" frameY="-125" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved idle0000" x="1601" y="814" width="340" height="280" rotated="true" frameX="-210" frameY="-153" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved idle0001" x="1601" y="814" width="340" height="280" rotated="true" frameX="-210" frameY="-153" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved idle0002" x="435" y="1620" width="270" height="355" frameX="-214" frameY="-134" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved idle0003" x="435" y="1620" width="270" height="355" frameX="-214" frameY="-134" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved idle0004" x="1329" y="869" width="247" height="373" frameX="-227" frameY="-112" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved idle0005" x="1329" y="869" width="247" height="373" frameX="-227" frameY="-112" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved idle0006" x="747" y="1187" width="232" height="377" frameX="-237" frameY="-106" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved idle0007" x="747" y="1187" width="232" height="377" frameX="-237" frameY="-106" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved idle0008" x="747" y="1187" width="232" height="377" frameX="-237" frameY="-106" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved idle0009" x="747" y="1187" width="232" height="377" frameX="-237" frameY="-106" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved idle0010" x="747" y="1187" width="232" height="377" frameX="-237" frameY="-106" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved idle0011" x="747" y="1187" width="232" height="377" frameX="-237" frameY="-106" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved idle0012" x="747" y="1187" width="232" height="377" frameX="-237" frameY="-106" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved idle0013" x="747" y="1187" width="232" height="377" frameX="-237" frameY="-106" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved idle alt0000" x="1186" y="433" width="419" height="184" rotated="true" frameX="-314" frameY="-83" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved idle alt0001" x="1186" y="433" width="419" height="184" rotated="true" frameX="-314" frameY="-83" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved idle alt0002" x="1186" y="3" width="420" height="188" rotated="true" frameX="-308" frameY="-82" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved idle alt0003" x="1186" y="3" width="420" height="188" rotated="true" frameX="-308" frameY="-82" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved left0000" x="3" y="1632" width="368" height="348" rotated="true" frameX="-119" frameY="-121" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved left0001" x="3" y="1632" width="368" height="348" rotated="true" frameX="-119" frameY="-121" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved left0002" x="982" y="1187" width="344" height="377" frameX="-122" frameY="-116" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved left0003" x="982" y="1187" width="344" height="377" frameX="-122" frameY="-116" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved left0004" x="982" y="1187" width="344" height="377" frameX="-122" frameY="-116" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved left0005" x="982" y="1187" width="344" height="377" frameX="-122" frameY="-116" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved left0006" x="982" y="1187" width="344" height="377" frameX="-122" frameY="-116" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved left0007" x="982" y="1187" width="344" height="377" frameX="-122" frameY="-116" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved left0008" x="982" y="1187" width="344" height="377" frameX="-122" frameY="-116" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved left0009" x="982" y="1187" width="344" height="377" frameX="-122" frameY="-116" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved left0010" x="982" y="1187" width="344" height="377" frameX="-122" frameY="-116" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved left0011" x="982" y="1187" width="344" height="377" frameX="-122" frameY="-116" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved left0012" x="982" y="1187" width="344" height="377" frameX="-122" frameY="-116" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved left0013" x="982" y="1187" width="344" height="377" frameX="-122" frameY="-116" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss down0000" x="1385" y="1705" width="322" height="170" rotated="true" frameX="-284" frameY="-162" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss down0001" x="1608" y="348" width="342" height="184" rotated="true" frameX="-286" frameY="-143" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss down0002" x="1608" y="348" width="342" height="184" rotated="true" frameX="-286" frameY="-143" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss down0003" x="1608" y="348" width="342" height="184" rotated="true" frameX="-286" frameY="-143" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss down0004" x="1608" y="348" width="342" height="184" rotated="true" frameX="-286" frameY="-143" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss down0005" x="1608" y="348" width="342" height="184" rotated="true" frameX="-286" frameY="-143" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss down0006" x="1608" y="348" width="342" height="184" rotated="true" frameX="-286" frameY="-143" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss down0007" x="1608" y="348" width="342" height="184" rotated="true" frameX="-286" frameY="-143" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss down0008" x="1608" y="348" width="342" height="184" rotated="true" frameX="-286" frameY="-143" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss down0009" x="1608" y="348" width="342" height="184" rotated="true" frameX="-286" frameY="-143" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss down0010" x="1608" y="348" width="342" height="184" rotated="true" frameX="-286" frameY="-143" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss down0011" x="1608" y="348" width="342" height="184" rotated="true" frameX="-286" frameY="-143" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss down0012" x="1608" y="348" width="342" height="184" rotated="true" frameX="-286" frameY="-143" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss down0013" x="1608" y="348" width="342" height="184" rotated="true" frameX="-286" frameY="-143" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss left0000" x="3" y="1632" width="368" height="348" rotated="true" frameX="-119" frameY="-121" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss left0001" x="1609" y="3" width="365" height="342" rotated="true" frameX="-123" frameY="-124" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss left0002" x="1609" y="3" width="365" height="342" rotated="true" frameX="-123" frameY="-124" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss left0003" x="1609" y="3" width="365" height="342" rotated="true" frameX="-123" frameY="-124" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss left0004" x="1609" y="3" width="365" height="342" rotated="true" frameX="-123" frameY="-124" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss left0005" x="1609" y="3" width="365" height="342" rotated="true" frameX="-123" frameY="-124" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss left0006" x="1609" y="3" width="365" height="342" rotated="true" frameX="-123" frameY="-124" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss left0007" x="1609" y="3" width="365" height="342" rotated="true" frameX="-123" frameY="-124" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss left0008" x="1609" y="3" width="365" height="342" rotated="true" frameX="-123" frameY="-124" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss left0009" x="1609" y="3" width="365" height="342" rotated="true" frameX="-123" frameY="-124" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss left0010" x="1609" y="3" width="365" height="342" rotated="true" frameX="-123" frameY="-124" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss left0011" x="1609" y="3" width="365" height="342" rotated="true" frameX="-123" frameY="-124" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss left0012" x="1609" y="3" width="365" height="342" rotated="true" frameX="-123" frameY="-124" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss left0013" x="1609" y="3" width="365" height="342" rotated="true" frameX="-123" frameY="-124" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss right0000" x="1385" y="1371" width="335" height="331" frameX="-298" frameY="-163" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss right0001" x="708" y="1620" width="335" height="352" frameX="-300" frameY="-142" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss right0002" x="708" y="1620" width="335" height="352" frameX="-300" frameY="-142" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss right0003" x="708" y="1620" width="335" height="352" frameX="-300" frameY="-142" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss right0004" x="708" y="1620" width="335" height="352" frameX="-300" frameY="-142" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss right0005" x="708" y="1620" width="335" height="352" frameX="-300" frameY="-142" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss right0006" x="708" y="1620" width="335" height="352" frameX="-300" frameY="-142" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss right0007" x="708" y="1620" width="335" height="352" frameX="-300" frameY="-142" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss right0008" x="708" y="1620" width="335" height="352" frameX="-300" frameY="-142" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss right0009" x="708" y="1620" width="335" height="352" frameX="-300" frameY="-142" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss right0010" x="708" y="1620" width="335" height="352" frameX="-300" frameY="-142" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss right0011" x="708" y="1620" width="335" height="352" frameX="-300" frameY="-142" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss right0012" x="708" y="1620" width="335" height="352" frameX="-300" frameY="-142" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss right0013" x="708" y="1620" width="335" height="352" frameX="-300" frameY="-142" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss up0000" x="803" y="436" width="374" height="430" frameX="-253" frameY="-55" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss up0001" x="3" y="3" width="380" height="461" frameX="-250" frameY="-34" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss up0002" x="3" y="3" width="380" height="461" frameX="-250" frameY="-34" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss up0003" x="3" y="3" width="380" height="461" frameX="-250" frameY="-34" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss up0004" x="3" y="3" width="380" height="461" frameX="-250" frameY="-34" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss up0005" x="3" y="3" width="380" height="461" frameX="-250" frameY="-34" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss up0006" x="3" y="3" width="380" height="461" frameX="-250" frameY="-34" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss up0007" x="3" y="3" width="380" height="461" frameX="-250" frameY="-34" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss up0008" x="3" y="3" width="380" height="461" frameX="-250" frameY="-34" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss up0009" x="3" y="3" width="380" height="461" frameX="-250" frameY="-34" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss up0010" x="3" y="3" width="380" height="461" frameX="-250" frameY="-34" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss up0011" x="3" y="3" width="380" height="461" frameX="-250" frameY="-34" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss up0012" x="3" y="3" width="380" height="461" frameX="-250" frameY="-34" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved miss up0013" x="3" y="3" width="380" height="461" frameX="-250" frameY="-34" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved right0000" x="1385" y="1371" width="335" height="331" frameX="-298" frameY="-163" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved right0001" x="1385" y="1371" width="335" height="331" frameX="-298" frameY="-163" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved right0002" x="1046" y="1567" width="336" height="337" frameX="-306" frameY="-156" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved right0003" x="1046" y="1567" width="336" height="337" frameX="-306" frameY="-156" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved right0004" x="1046" y="1567" width="336" height="337" frameX="-306" frameY="-156" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved right0005" x="1046" y="1567" width="336" height="337" frameX="-306" frameY="-156" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved right0006" x="1046" y="1567" width="336" height="337" frameX="-306" frameY="-156" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved right0007" x="1046" y="1567" width="336" height="337" frameX="-306" frameY="-156" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved right0008" x="1046" y="1567" width="336" height="337" frameX="-306" frameY="-156" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved right0009" x="1046" y="1567" width="336" height="337" frameX="-306" frameY="-156" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved right0010" x="1046" y="1567" width="336" height="337" frameX="-306" frameY="-156" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved right0011" x="1046" y="1567" width="336" height="337" frameX="-306" frameY="-156" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved right0012" x="1046" y="1567" width="336" height="337" frameX="-306" frameY="-156" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved right0013" x="1046" y="1567" width="336" height="337" frameX="-306" frameY="-156" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved scare0000" x="386" y="3" width="414" height="444" frameX="-245" frameY="-46" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved scare0001" x="386" y="3" width="414" height="444" frameX="-245" frameY="-46" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved scare0002" x="3" y="467" width="452" height="403" rotated="true" frameX="-254" frameY="-44" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved scare0003" x="3" y="467" width="452" height="403" rotated="true" frameX="-254" frameY="-44" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved up0000" x="803" y="436" width="374" height="430" frameX="-253" frameY="-55" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved up0001" x="803" y="436" width="374" height="430" frameX="-253" frameY="-55" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved up0002" x="3" y="873" width="438" height="354" rotated="true" frameX="-261" frameY="-49" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved up0003" x="3" y="873" width="438" height="354" rotated="true" frameX="-261" frameY="-49" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved up0004" x="3" y="873" width="438" height="354" rotated="true" frameX="-261" frameY="-49" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved up0005" x="3" y="873" width="438" height="354" rotated="true" frameX="-261" frameY="-49" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved up0006" x="3" y="873" width="438" height="354" rotated="true" frameX="-261" frameY="-49" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved up0007" x="3" y="873" width="438" height="354" rotated="true" frameX="-261" frameY="-49" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved up0008" x="3" y="873" width="438" height="354" rotated="true" frameX="-261" frameY="-49" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved up0009" x="3" y="873" width="438" height="354" rotated="true" frameX="-261" frameY="-49" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved up0010" x="3" y="873" width="438" height="354" rotated="true" frameX="-261" frameY="-49" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved up0011" x="3" y="873" width="438" height="354" rotated="true" frameX="-261" frameY="-49" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved up0012" x="3" y="873" width="438" height="354" rotated="true" frameX="-261" frameY="-49" frameWidth="852" frameHeight="523"/>
+	<SubTexture name="ved up0013" x="3" y="873" width="438" height="354" rotated="true" frameX="-261" frameY="-49" frameWidth="852" frameHeight="523"/>
+</TextureAtlas>

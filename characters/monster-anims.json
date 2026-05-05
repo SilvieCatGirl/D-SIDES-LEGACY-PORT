@@ -1,0 +1,53 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				153,
+				138
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "intro",
+			"loop": false,
+			"name": "MonsterIntro"
+		},
+		{
+			"offsets": [
+				33,
+				197
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "anim2",
+			"loop": false,
+			"name": "MonsterAnim2"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cutscenes/monster/MonsterAnims",
+	"position": [
+		70,
+		-50
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "monster",
+	"gameover_character": null,
+	"vslice_sustains": true,
+	"flip_x": false,
+	"healthbar_colour": -3004088,
+	"camera_position": [
+		79,
+		-6
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

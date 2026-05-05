@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "AmySunky"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22
+			],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "AmySunky"
+		},
+		{
+			"offsets": [
+				-5,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "shockLeft",
+			"loop": false,
+			"name": "AmyShock"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "danceLeft-alt",
+			"loop": false,
+			"name": "AmySunkyMeh"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22
+			],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "danceRight-alt",
+			"loop": false,
+			"name": "AmySunkyMeh"
+		},
+		{
+			"offsets": [
+				30,
+				34
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "shockRight",
+			"loop": false,
+			"name": "AmyShock2"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "backgrounds/exe/milk/amy",
+	"position": [
+		-70,
+		120
+	],
+	"dance_every": 1,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "sunky",
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": false,
+	"healthbar_colour": -7055171,
+	"camera_position": [
+		70,
+		290
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

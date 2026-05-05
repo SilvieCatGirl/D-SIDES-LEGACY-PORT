@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="speakers.png" width="4759" height="712">
+	<SubTexture name="BGSpeaker0000" x="5" y="5" width="352" height="700" frameX="-47" frameY="-3" frameWidth="404" frameHeight="703"/>
+	<SubTexture name="BGSpeaker0001" x="362" y="5" width="391" height="700" frameX="-8" frameY="-3" frameWidth="404" frameHeight="703"/>
+	<SubTexture name="BGSpeaker0002" x="1511" y="5" width="394" height="702" frameX="-8" frameY="-1" frameWidth="404" frameHeight="703"/>
+	<SubTexture name="BGSpeaker0003" x="1910" y="5" width="402" height="702" frameX="-0" frameY="-1" frameWidth="404" frameHeight="703"/>
+	<SubTexture name="BGSpeaker0004" x="2317" y="5" width="404" height="702" frameX="-0" frameY="-0" frameWidth="404" frameHeight="703"/>
+	<SubTexture name="BGSpeaker0005" x="2726" y="5" width="403" height="702" frameX="-1" frameY="-0" frameWidth="404" frameHeight="703"/>
+	<SubTexture name="BGSpeaker20000" x="758" y="5" width="352" height="700" frameX="-5" frameY="-3" frameWidth="405" frameHeight="703"/>
+	<SubTexture name="BGSpeaker20001" x="1115" y="5" width="391" height="700" frameX="-5" frameY="-3" frameWidth="405" frameHeight="703"/>
+	<SubTexture name="BGSpeaker20002" x="3134" y="5" width="394" height="702" frameX="-2" frameY="-1" frameWidth="405" frameHeight="703"/>
+	<SubTexture name="BGSpeaker20003" x="3533" y="5" width="403" height="702" frameX="-2" frameY="-1" frameWidth="405" frameHeight="703"/>
+	<SubTexture name="BGSpeaker20004" x="3941" y="5" width="405" height="702" frameX="-0" frameY="-0" frameWidth="405" frameHeight="703"/>
+	<SubTexture name="BGSpeaker20005" x="4351" y="5" width="403" height="702" frameX="-0" frameY="-0" frameWidth="405" frameHeight="703"/>
+</TextureAtlas>

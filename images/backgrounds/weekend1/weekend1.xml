@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="weekend1.png" width="6517" height="6351">
+	<SubTexture name="megaphoneanim0000" x="6350" y="181" width="157" height="165" rotated="true" frameX="-25" frameY="-55" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0001" x="6179" y="2063" width="190" height="178" frameX="-18" frameY="-34" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0002" x="6179" y="2063" width="190" height="178" frameX="-18" frameY="-34" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0003" x="6179" y="2063" width="190" height="178" frameX="-18" frameY="-34" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0004" x="6052" y="5626" width="174" height="165" frameX="-21" frameY="-47" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0005" x="6052" y="5626" width="174" height="165" frameX="-21" frameY="-47" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0006" x="6350" y="5" width="162" height="171" rotated="true" frameX="-22" frameY="-50" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0007" x="6350" y="5" width="162" height="171" rotated="true" frameX="-22" frameY="-50" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0008" x="6350" y="181" width="157" height="165" rotated="true" frameX="-25" frameY="-55" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0009" x="6179" y="2063" width="190" height="178" frameX="-18" frameY="-34" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0010" x="6179" y="2063" width="190" height="178" frameX="-18" frameY="-34" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0011" x="6179" y="2063" width="190" height="178" frameX="-18" frameY="-34" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0012" x="6179" y="2063" width="190" height="178" frameX="-18" frameY="-34" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0013" x="6052" y="5626" width="174" height="165" frameX="-21" frameY="-47" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0014" x="6052" y="5626" width="174" height="165" frameX="-21" frameY="-47" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0015" x="6350" y="5" width="162" height="171" rotated="true" frameX="-22" frameY="-50" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0016" x="6350" y="5" width="162" height="171" rotated="true" frameX="-22" frameY="-50" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0017" x="6350" y="5" width="162" height="171" rotated="true" frameX="-22" frameY="-50" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0018" x="6350" y="5" width="162" height="171" rotated="true" frameX="-22" frameY="-50" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0019" x="6350" y="5" width="162" height="171" rotated="true" frameX="-22" frameY="-50" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0020" x="6350" y="5" width="162" height="171" rotated="true" frameX="-22" frameY="-50" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0021" x="6350" y="5" width="162" height="171" rotated="true" frameX="-22" frameY="-50" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0022" x="6350" y="5" width="162" height="171" rotated="true" frameX="-22" frameY="-50" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0023" x="6350" y="5" width="162" height="171" rotated="true" frameX="-22" frameY="-50" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0024" x="6350" y="5" width="162" height="171" rotated="true" frameX="-22" frameY="-50" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0025" x="6350" y="5" width="162" height="171" rotated="true" frameX="-22" frameY="-50" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0026" x="6350" y="5" width="162" height="171" rotated="true" frameX="-22" frameY="-50" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0027" x="6350" y="5" width="162" height="171" rotated="true" frameX="-22" frameY="-50" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0028" x="6350" y="5" width="162" height="171" rotated="true" frameX="-22" frameY="-50" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0029" x="6350" y="5" width="162" height="171" rotated="true" frameX="-22" frameY="-50" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0030" x="6350" y="5" width="162" height="171" rotated="true" frameX="-22" frameY="-50" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0031" x="6350" y="5" width="162" height="171" rotated="true" frameX="-22" frameY="-50" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0032" x="6350" y="5" width="162" height="171" rotated="true" frameX="-22" frameY="-50" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0033" x="6350" y="5" width="162" height="171" rotated="true" frameX="-22" frameY="-50" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0034" x="6350" y="5" width="162" height="171" rotated="true" frameX="-22" frameY="-50" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="megaphoneanim0035" x="6350" y="5" width="162" height="171" rotated="true" frameX="-22" frameY="-50" frameWidth="226" frameHeight="254"/>
+	<SubTexture name="buildin_last" x="5" y="5" width="4794" height="1128" frameX="-0" frameY="-242" frameWidth="4794" frameHeight="1370"/>
+	<SubTexture name="buildin_second" x="5" y="1138" width="4794" height="1030" frameX="-0" frameY="-340" frameWidth="4794" frameHeight="1370"/>
+	<SubTexture name="buildinn_first" x="5" y="2173" width="4794" height="1027" frameX="-0" frameY="-343" frameWidth="4794" frameHeight="1370"/>
+	<SubTexture name="darnell_gradient" x="4767" y="5626" width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="light_back" x="6179" y="1198" width="224" height="860" frameX="-311" frameY="-16" frameWidth="847" frameHeight="893"/>
+	<SubTexture name="light_front" x="6179" y="5" width="166" height="1188" frameX="-342" frameY="-17" frameWidth="847" frameHeight="1205"/>
+	<SubTexture name="sky" x="4804" y="5" width="1370" height="2397" rotated="true" frameX="-0" frameY="-0" frameWidth="2397" frameHeight="1370"/>
+	<SubTexture name="street" x="2365" y="4918" width="2397" height="705" frameX="-0" frameY="-76" frameWidth="2397" frameHeight="781"/>
+	<SubTexture name="transition1" x="5" y="3205" width="2660" height="1708" frameX="-1" frameY="-1" frameWidth="2734" frameHeight="1714"/>
+	<SubTexture name="transition2" x="2670" y="3205" width="2660" height="1708" frameX="-1" frameY="-1" frameWidth="2734" frameHeight="1714"/>
+	<SubTexture name="truck" x="5335" y="2407" width="880" height="2355" rotated="true" frameX="-10" frameY="-41" frameWidth="2365" frameHeight="921"/>
+	<SubTexture name="darktruck" x="5" y="4918" width="2355" height="880" frameX="-10" frameY="-41" frameWidth="2365" frameHeight="921"/>
+	<SubTexture name="tunnelbg" x="4767" y="4918" width="1628" height="703" rotated="true" frameX="-0" frameY="-0" frameWidth="703" frameHeight="1628"/>
+</TextureAtlas>

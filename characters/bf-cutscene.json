@@ -1,0 +1,40 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				70,
+				281
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "bf",
+			"loop": false,
+			"name": "bfblammedreacion"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cutscenes/blammed",
+	"position": [
+		125,
+		280
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "pico",
+	"gameover_character": null,
+	"vslice_sustains": true,
+	"flip_x": true,
+	"healthbar_colour": -1402941,
+	"camera_position": [
+		40,
+		0
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

@@ -1,0 +1,134 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "TrickyIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				319,
+				33
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TrickyLeft0"
+		},
+		{
+			"offsets": [
+				-114,
+				-180
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TrickyDown0"
+		},
+		{
+			"offsets": [
+				247,
+				-71
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TrickyRight0"
+		},
+		{
+			"offsets": [
+				94,
+				244
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TrickyUp0"
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-114,
+				-181
+			],
+			"anim": "singDOWN-alt",
+			"fps": 30,
+			"name": "TrickyDownALT",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				319,
+				33
+			],
+			"anim": "singLEFT-alt",
+			"fps": 30,
+			"name": "TrickyLeftALT",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				247,
+				-71
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 30,
+			"name": "TrickyRightALT",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				94,
+				244
+			],
+			"anim": "singUP-alt",
+			"fps": 30,
+			"name": "TrickyUpALT0",
+			"indices": [],
+			"flipX": false
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/madness/Tricky_Resprite",
+	"position": [
+		0,
+		50
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "tricky",
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": false,
+	"healthbar_colour": -13601160,
+	"camera_position": [
+		-90,
+		130
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

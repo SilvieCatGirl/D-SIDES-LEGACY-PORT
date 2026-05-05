@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfdsidestomp.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stomp0000" x="0" y="0" width="235" height="306"/>
+	<SubTexture name="stomp0001" x="235" y="0" width="235" height="306"/>
+	<SubTexture name="stomp0002" x="470" y="0" width="235" height="306"/>
+	<SubTexture name="stomp0003" x="705" y="0" width="235" height="306"/>
+	<SubTexture name="stomp0004" x="940" y="0" width="235" height="306"/>
+	<SubTexture name="stomp0005" x="1175" y="0" width="235" height="306"/>
+	<SubTexture name="stomp0006" x="1410" y="0" width="235" height="306"/>
+	<SubTexture name="stomp0007" x="1645" y="0" width="235" height="306"/>
+	<SubTexture name="stomp0008" x="0" y="306" width="235" height="306"/>
+	<SubTexture name="stomp0009" x="235" y="306" width="235" height="306"/>
+	<SubTexture name="stomp0010" x="470" y="306" width="235" height="306"/>
+	<SubTexture name="stomp0011" x="705" y="306" width="235" height="306"/>
+	<SubTexture name="stomp0012" x="940" y="306" width="235" height="306"/>
+	<SubTexture name="stomp0013" x="1175" y="306" width="235" height="306"/>
+	<SubTexture name="stomp0014" x="1410" y="306" width="235" height="306"/>
+	<SubTexture name="stomp0015" x="1645" y="306" width="235" height="306"/>
+	<SubTexture name="stomp0016" x="0" y="612" width="235" height="306"/>
+	<SubTexture name="stomp0017" x="235" y="612" width="235" height="306"/>
+	<SubTexture name="stomp0018" x="470" y="612" width="235" height="306"/>
+	<SubTexture name="stomp0019" x="705" y="612" width="235" height="306"/>
+	<SubTexture name="stomp0020" x="940" y="612" width="235" height="306"/>
+	<SubTexture name="stomp0021" x="1175" y="612" width="235" height="306"/>
+	<SubTexture name="stomp0022" x="1410" y="612" width="235" height="306"/>
+	<SubTexture name="stomp0023" x="0" y="0" width="235" height="306"/>
+</TextureAtlas>

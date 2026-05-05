@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="zard.png" width="2992" height="4755">
+	<SubTexture name="zardyfence" x="5" y="5" width="2050" height="408" frameX="-0" frameY="-0" frameWidth="2050" frameHeight="408"/>
+	<SubTexture name="zardyground" x="5" y="418" width="2900" height="1500" frameX="-0" frameY="-0" frameWidth="2900" frameHeight="1500"/>
+	<SubTexture name="zardymountains" x="5" y="1923" width="2982" height="1322" frameX="-0" frameY="-0" frameWidth="2982" frameHeight="1322"/>
+	<SubTexture name="zardysky" x="5" y="3250" width="2900" height="1500" frameX="-0" frameY="-0" frameWidth="2900" frameHeight="1500"/>
+</TextureAtlas>

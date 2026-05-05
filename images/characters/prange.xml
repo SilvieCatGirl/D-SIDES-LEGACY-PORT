@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="prange.png">
+<SubTexture name="idle0000" x="0" y="1143" width="332" height="498" frameX="-470" frameY="-150" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0001" x="747" y="591" width="297" height="527" frameX="-482" frameY="-119" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0002" x="465" y="591" width="282" height="544" frameX="-490" frameY="-101" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0003" x="472" y="0" width="270" height="556" frameX="-503" frameY="-89" frameWidth="1280" frameHeight="720" />
+<SubTexture name="left0000" x="0" y="591" width="235" height="552" frameX="-508" frameY="-93" frameWidth="1280" frameHeight="720" />
+<SubTexture name="left0001" x="235" y="591" width="230" height="552" frameX="-513" frameY="-93" frameWidth="1280" frameHeight="720" />
+<SubTexture name="down0000" x="1417" y="0" width="329" height="508" frameX="-475" frameY="-144" frameWidth="1280" frameHeight="720" />
+<SubTexture name="down0001" x="1044" y="591" width="324" height="524" frameX="-475" frameY="-127" frameWidth="1280" frameHeight="720" />
+<SubTexture name="up0000" x="0" y="0" width="232" height="591" frameX="-530" frameY="-60" frameWidth="1280" frameHeight="720" />
+<SubTexture name="up0001" x="232" y="0" width="240" height="582" frameX="-525" frameY="-69" frameWidth="1280" frameHeight="720" />
+<SubTexture name="right0000" x="742" y="0" width="341" height="554" frameX="-461" frameY="-89" frameWidth="1280" frameHeight="720" />
+<SubTexture name="right0001" x="1083" y="0" width="334" height="554" frameX="-461" frameY="-89" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

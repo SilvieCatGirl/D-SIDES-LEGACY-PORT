@@ -1,0 +1,105 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"flipX": false,
+			"indices": [],
+			"name": "ANIMATIONS/CUMLORD/cumlord idle"
+		},
+		{
+			"offsets": [
+				141,
+				-59
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"flipX": false,
+			"indices": [],
+			"name": "ANIMATIONS/CUMLORD/cumlord down"
+		},
+		{
+			"offsets": [
+				177,
+				-52
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"flipX": false,
+			"indices": [],
+			"name": "ANIMATIONS/CUMLORD/cumlord left"
+		},
+		{
+			"offsets": [
+				-172,
+				113
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"flipX": false,
+			"indices": [],
+			"name": "ANIMATIONS/CUMLORD/cumlord right"
+		},
+		{
+			"offsets": [
+				-79,
+				126
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"flipX": false,
+			"indices": [],
+			"name": "ANIMATIONS/CUMLORD/cumlord up"
+		},
+		{
+			"offsets": [
+				181,
+				338
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "cumsplode",
+			"flipX": false,
+			"indices": [],
+			"name": "ANIMATIONS/CUMLORD/cumsplode"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/and/Cumlord",
+	"position": [
+		-110,
+		-60
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "cum",
+	"gameover_character": null,
+	"vslice_sustains": true,
+	"flip_x": false,
+	"healthbar_colour": -7861291,
+	"camera_position": [
+		-158,
+		-30
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 4.2,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}

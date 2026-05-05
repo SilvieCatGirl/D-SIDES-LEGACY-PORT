@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="and.png" width="7815" height="4811">
+	<SubTexture name="2sky" x="5" y="5" width="3900" height="2500" frameX="-0" frameY="-0" frameWidth="3900" frameHeight="2500"/>
+	<SubTexture name="2floor" x="5" y="2510" width="3900" height="1635" frameX="-0" frameY="-0" frameWidth="3900" frameHeight="1635"/>
+	<SubTexture name="2stone" x="3910" y="5" width="3900" height="1025" frameX="-0" frameY="-0" frameWidth="3900" frameHeight="1025"/>
+	<SubTexture name="backstones" x="6377" y="2480" width="1186" height="991" frameX="-0" frameY="-0" frameWidth="1186" frameHeight="991"/>
+	<SubTexture name="cac" x="6475" y="1035" width="896" height="1151" frameX="-0" frameY="-0" frameWidth="896" frameHeight="1151"/>
+	<SubTexture name="floor" x="3910" y="3868" width="2462" height="938" frameX="-0" frameY="-0" frameWidth="2462" frameHeight="938"/>
+	<SubTexture name="shit" x="3910" y="1035" width="2560" height="1440" frameX="-0" frameY="-0" frameWidth="2560" frameHeight="1440"/>
+	<SubTexture name="sky" x="3910" y="2480" width="2462" height="1383" frameX="-0" frameY="-0" frameWidth="2462" frameHeight="1383"/>
+	<SubTexture name="stones" x="5" y="4150" width="2447" height="604" frameX="-0" frameY="-0" frameWidth="2447" frameHeight="604"/>
+</TextureAtlas>

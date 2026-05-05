@@ -1,0 +1,131 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				480,
+				110
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dad/DadIdle"
+		},
+		{
+			"offsets": [
+				615,
+				101
+			],
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dad/DadLeft"
+		},
+		{
+			"offsets": [
+				476,
+				61
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dad/DadDown"
+		},
+		{
+			"offsets": [
+				562,
+				166
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dad/DadUp"
+		},
+		{
+			"offsets": [
+				470,
+				93
+			],
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dad/DadRight"
+		},
+		{
+			"offsets": [
+				558,
+				164
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "ending",
+			"flipX": false,
+			"indices": [],
+			"name": "Dad/DadTomato"
+		},
+		{
+			"loop": true,
+			"flipY": false,
+			"offsets": [
+				558,
+				164
+			],
+			"anim": "ending-loop",
+			"fps": 24,
+			"name": "Dad/DadTomato",
+			"indices": [
+				54,
+				55
+			],
+			"flipX": false
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dad/atlas",
+	"position": [
+		450,
+		10
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "dad",
+	"gameover_character": null,
+	"vslice_sustains": true,
+	"flip_x": false,
+	"healthbar_colour": -5766860,
+	"camera_position": [
+		-548,
+		-183
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				312,
+				-190
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "SpoinkyBoingy Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				320,
+				-190
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "SpoinkyBoingy Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				-230
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "SpoinkyBoingy Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				313,
+				-190
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "SpoinkyBoingy Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				310,
+				-190
+			],
+			"anim": "singUP",
+			"fps": 34,
+			"name": "SpoinkyBoingy Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				210,
+				-200
+			],
+			"anim": "DEAD",
+			"fps": 24,
+			"name": "SpoinkyBoingy DEAD",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/and/SpoinkyBoingy",
+	"position": [
+		260,
+		80
+	],
+	"healthicon": "spoinky-boingy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-130,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

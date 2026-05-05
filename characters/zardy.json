@@ -1,0 +1,118 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				235,
+				110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Zardy/ZardyIdle",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				430,
+				52
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Zardy/ZardyDown",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				667,
+				115
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Zardy/ZardyLeft",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				270,
+				61
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Zardy/ZardyRight",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				438,
+				209
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Zardy/ZardyUp",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				658,
+				263
+			],
+			"anim": "anim-intro",
+			"fps": 24,
+			"name": "ZardyIntro",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				717,
+				169
+			],
+			"anim": "anim-end",
+			"fps": 24,
+			"name": "ZardyTransition",
+			"indices": [],
+			"flipX": false
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Zardy/main",
+	"position": [
+		70,
+		10
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "zardy",
+	"gameover_character": null,
+	"vslice_sustains": true,
+	"flip_x": false,
+	"healthbar_colour": -54868,
+	"camera_position": [
+		-650,
+		-311
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

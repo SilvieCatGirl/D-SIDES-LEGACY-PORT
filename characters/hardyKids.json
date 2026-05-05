@@ -1,0 +1,191 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-31,
+				214
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-10
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				122
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				120
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Idle",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				190
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "HEY!",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				122,
+				116
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Right",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				18,
+				102
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Left",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"offsets": [
+				40,
+				137
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"flipX": true,
+			"indices": [],
+			"name": "ALTDown"
+		},
+		{
+			"offsets": [
+				151,
+				196
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"flipX": true,
+			"indices": [],
+			"name": "ALTRight"
+		},
+		{
+			"offsets": [
+				3,
+				203
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"flipX": true,
+			"indices": [],
+			"name": "ALTLeft"
+		},
+		{
+			"offsets": [
+				24,
+				228
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"flipX": true,
+			"indices": [],
+			"name": "ALTUp"
+		},
+		{
+			"offsets": [
+				257,
+				205
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "end",
+			"flipX": false,
+			"indices": [],
+			"name": "SpookezFlee"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spooky/hardy_kids,characters/spooky/end",
+	"position": [
+		20,
+		300
+	],
+	"dance_every": 1,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "spooky",
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": false,
+	"healthbar_colour": -2631721,
+	"camera_position": [
+		459,
+		-220
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 5,
+	"scale": 0.999999999999999,
+	"_editor_isPlayer": true
+}

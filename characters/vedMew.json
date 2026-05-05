@@ -1,0 +1,238 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				60,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "ved idle alt"
+		},
+		{
+			"offsets": [
+				-4,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ved left"
+		},
+		{
+			"offsets": [
+				-7,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "ved miss left"
+		},
+		{
+			"offsets": [
+				0,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ved down"
+		},
+		{
+			"offsets": [
+				3,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "ved miss down"
+		},
+		{
+			"offsets": [
+				-69,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ved up"
+		},
+		{
+			"offsets": [
+				-67,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "ved miss up"
+		},
+		{
+			"offsets": [
+				-22,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ved right"
+		},
+		{
+			"offsets": [
+				-20,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "ved miss right"
+		},
+		{
+			"offsets": [
+				88,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "giggle",
+			"indices": [],
+			"name": "ved giggle"
+		},
+		{
+			"offsets": [
+				128,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "boo",
+			"indices": [],
+			"name": "ved scare"
+		},
+		{
+			"offsets": [
+				68,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "tick",
+			"indices": [],
+			"name": "tick"
+		},
+		{
+			"offsets": [
+				108,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "fuckingDie",
+			"indices": [],
+			"name": "ved gameover"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ved idle",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				10
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "ved scare",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				10
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "ved scare",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				9
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "ved scare",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				10
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "ved scare",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ourple/ved_mew",
+	"position": [
+		-140,
+		160
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "guyy",
+	"gameover_character": null,
+	"flip_x": false,
+	"healthbar_colour": -704660,
+	"camera_position": [
+		-298,
+		-89
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 4,
+	"scale": 1.5,
+	"_editor_isPlayer": false
+}

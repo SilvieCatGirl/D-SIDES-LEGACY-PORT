@@ -1,0 +1,182 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DarnellIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				-14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DarnellLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DarnellDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				148
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DarnellUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-109,
+				55
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DarnellRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-7
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "DarnellLaugh",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "DarnellIdle",
+			"indices": [
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
+			]
+		},
+		{
+			"offsets": [
+				56,
+				-14
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "DarnellLeft"
+		},
+		{
+			"offsets": [
+				-35,
+				-2
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "DarnellDown"
+		},
+		{
+			"offsets": [
+				-34,
+				148
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "DarnellUp"
+		},
+		{
+			"offsets": [
+				-109,
+				55
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "DarnellRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PicoSchool/Darnell/tunnel",
+	"position": [
+		-120,
+		240
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "darnell",
+	"gameover_character": null,
+	"flip_x": false,
+	"healthbar_colour": -8751960,
+	"camera_position": [
+		-30,
+		-20
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

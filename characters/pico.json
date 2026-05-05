@@ -1,0 +1,157 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pico/PicoIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				81,
+				29
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pico/PicoLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pico/PicoRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				70
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Pico/PicoUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				108
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pico/PicoDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				10
+			],
+			"anim": "singRELOAD",
+			"fps": 24,
+			"name": "Pico/PicoReload",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				73
+			],
+			"anim": "singSHOOT",
+			"fps": 24,
+			"name": "Pico/PicoShoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				3
+			],
+			"anim": "burp",
+			"fps": 24,
+			"name": "Pico/PicoBurp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				32,
+				75
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "Pico/PicoShoot",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-15,
+				-13
+			],
+			"anim": "shit",
+			"fps": 24,
+			"name": "Pico/PicoShit",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-14,
+				-13
+			],
+			"indices": [
+				20,
+				21
+			],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "shit-loop",
+			"loop": false,
+			"name": "Pico/PicoShit"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PicoSchool/Pico/main",
+	"position": [
+		95,
+		290
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "pico",
+	"gameover_character": null,
+	"vslice_sustains": true,
+	"flip_x": false,
+	"healthbar_colour": -1402941,
+	"camera_position": [
+		-9,
+		-28
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

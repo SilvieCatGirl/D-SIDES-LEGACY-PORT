@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				8,
+				451
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "death"
+		},
+		{
+			"offsets": [
+				8,
+				451
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "die",
+			"loop": false,
+			"name": "death"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/miteegoestodetroit",
+	"position": [
+		760,
+		90
+	],
+	"healthicon": "mitee",
+	"flip_x": true,
+	"healthbar_colors": [
+		148,
+		88,
+		189
+	],
+	"camera_position": [
+		-60,
+		-240
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,101 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				4,
+				9
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MonsterIdle"
+		},
+		{
+			"offsets": [
+				-16,
+				-46
+			],
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MonsterLeft"
+		},
+		{
+			"offsets": [
+				21,
+				-162
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "monsterDown"
+		},
+		{
+			"offsets": [
+				-36,
+				42
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MonsterUp"
+		},
+		{
+			"offsets": [
+				-17,
+				-50
+			],
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MonsterRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Monster/Dark",
+	"position": [
+		70,
+		-50
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "monster",
+	"gameover_character": null,
+	"flip_x": false,
+	"healthbar_colour": -3004088,
+	"camera_position": [
+		79,
+		-6
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

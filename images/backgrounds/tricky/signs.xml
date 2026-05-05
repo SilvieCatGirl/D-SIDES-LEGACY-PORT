@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="signs.png" width="3293" height="330">
+	<SubTexture name="correction" x="879" y="5" width="863" height="320" frameX="-0" frameY="-0" frameWidth="863" frameHeight="320"/>
+	<SubTexture name="improb" x="5" y="5" width="869" height="320" frameX="-0" frameY="-0" frameWidth="869" frameHeight="320"/>
+	<SubTexture name="incorrect" x="2541" y="5" width="747" height="320" frameX="-0" frameY="-0" frameWidth="747" frameHeight="320"/>
+	<SubTexture name="invalid" x="1747" y="5" width="789" height="320" frameX="-0" frameY="-0" frameWidth="789" frameHeight="320"/>
+</TextureAtlas>
