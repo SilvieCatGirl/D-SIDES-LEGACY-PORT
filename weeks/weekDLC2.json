@@ -251,10 +251,10 @@
 	"weekName": "DLC Week",
 	"weekBefore": "week3",
 	
-	"startUnlocked": false,
-	"hideStoryMode": false,
+	"startUnlocked": true,
+	"hideStoryMode": true,
 	"hideFreeplay": false,
-	"currency": "pentacle",
+	"currency": "beans",
 
 	"node": {
 		"parent": "week3",
