@@ -1,0 +1,19 @@
+{
+    "title": "John",
+    "desc": "The current head of the Planeman Force, Captain John Planeman, its like he was born for this job! Throughout the entire run of his career, members have claimed him as the best, most efficient head of military they've ever had. He and his right-hand man, Steve, have been unlike any leading duo preceding them.",
+    "age": "30",
+    "sex": "Male",
+    "charScale": 0.21,
+    "cData": [
+        {"dir": "john/concepts/", "path": "concept1", "desc": "Planeman Early Concept by Offbi", "scale": 0.650},
+        {"dir": "john/concepts/", "path": "concept2", "desc": "Original Planeman Design by Offbi", "scale": 0.400},
+        {"dir": "john/concepts/", "path": "pose", "desc": "Poses Concept by Offbi", "scale": 0.970},
+        {"dir": "john/concepts/", "path": "ha", "desc": "Laugh Pose Concept by squishyzumorizu", "scale": 0.780},
+        {"dir": "john/concepts/", "path": "sprites", "desc": "Each Iteration of Planeman's Old Sprites by squishyzumorizu", "scale": 0.660},
+        {"dir": "john/concepts/", "path": "stage1", "desc": "Original Week 7 Concept by DastardlyDeacon", "scale": 0.340},
+        {"dir": "john/concepts/", "path": "stage2", "desc": "Refined Stage Concept by Offbi", "scale": 0.800},
+        {"dir": "john/concepts/", "path": "stage3", "desc": "Redone Stage Concept by DastardlyDeacon", "scale": 0.730},
+        {"dir": "john/concepts/", "path": "stress", "desc": "Stress Stage Concept by DastardlyDeacon", "scale": 0.730},
+        {"dir": "john/concepts/", "path": "cutscene", "desc": "Stress Cutscene Concept by Kloogybaboogy", "scale": 0.270}
+    ]
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="spritesheet.png">
+	<SubTexture name="Select0000" x="0" y="0" width="45" height="36" frameX="-3" frameY="-5" frameWidth="50" frameHeight="45" />
+	<SubTexture name="Select0001" x="0" y="0" width="45" height="36" frameX="-3" frameY="-5" frameWidth="50" frameHeight="45" />
+	<SubTexture name="Select0002" x="45" y="0" width="45" height="36" frameX="-3" frameY="-5" frameWidth="50" frameHeight="45" />
+	<SubTexture name="Select0003" x="45" y="0" width="45" height="36" frameX="-3" frameY="-5" frameWidth="50" frameHeight="45" />
+	<SubTexture name="Select0004" x="0" y="36" width="45" height="36" frameX="-3" frameY="-5" frameWidth="50" frameHeight="45" />
+	<SubTexture name="Select0005" x="0" y="36" width="45" height="36" frameX="-3" frameY="-5" frameWidth="50" frameHeight="45" />
+	<SubTexture name="Select0006" x="45" y="36" width="45" height="36" frameX="-3" frameY="-5" frameWidth="50" frameHeight="45" />
+	<SubTexture name="Select0007" x="45" y="36" width="45" height="36" frameX="-3" frameY="-5" frameWidth="50" frameHeight="45" />
+</TextureAtlas>

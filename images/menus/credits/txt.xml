@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="txt.png" width="1543" height="1623">
+	<SubTexture name="projector loop0000" x="1" y="1089" width="591" height="181" frameX="-1" frameY="-21" frameWidth="654" frameHeight="202"/>
+	<SubTexture name="projector loop0001" x="1" y="1089" width="591" height="181" frameX="-1" frameY="-21" frameWidth="654" frameHeight="202"/>
+	<SubTexture name="projector loop0002" x="1" y="729" width="622" height="181" frameX="-1" frameY="-21" frameWidth="654" frameHeight="202"/>
+	<SubTexture name="projector loop0003" x="1" y="913" width="640" height="173" frameX="-0" frameY="-29" frameWidth="654" frameHeight="202"/>
+	<SubTexture name="projector loop0004" x="1009" y="1" width="173" height="640" rotated="true" frameX="-0" frameY="-29" frameWidth="654" frameHeight="202"/>
+	<SubTexture name="projector loop0005" x="833" y="1" width="173" height="645" rotated="true" frameX="-0" frameY="-29" frameWidth="654" frameHeight="202"/>
+	<SubTexture name="projector loop0006" x="1" y="369" width="644" height="181" frameX="-1" frameY="-21" frameWidth="654" frameHeight="202"/>
+	<SubTexture name="projector loop0007" x="1" y="1" width="649" height="181" frameX="-1" frameY="-21" frameWidth="654" frameHeight="202"/>
+	<SubTexture name="projector loop0008" x="1" y="185" width="649" height="181" frameX="-1" frameY="-21" frameWidth="654" frameHeight="202"/>
+	<SubTexture name="projector loop0009" x="1" y="553" width="653" height="173" frameX="-1" frameY="-29" frameWidth="654" frameHeight="202"/>
+	<SubTexture name="projector loop0010" x="657" y="1" width="173" height="653" rotated="true" frameX="-1" frameY="-29" frameWidth="654" frameHeight="202"/>
+	<SubTexture name="projector loop0011" x="1369" y="594" width="173" height="589" rotated="true" frameX="-1" frameY="-29" frameWidth="654" frameHeight="202"/>
+	<SubTexture name="projector loop0012" x="1" y="1089" width="591" height="181" frameX="-1" frameY="-21" frameWidth="654" frameHeight="202"/>
+	<SubTexture name="projector loop0013" x="1" y="1089" width="591" height="181" frameX="-1" frameY="-21" frameWidth="654" frameHeight="202"/>
+	<SubTexture name="projector loop0014" x="833" y="649" width="181" height="591" rotated="true" frameX="-1" frameY="-21" frameWidth="654" frameHeight="202"/>
+	<SubTexture name="projector loop0015" x="1" y="1273" width="590" height="173" frameX="-0" frameY="-29" frameWidth="654" frameHeight="202"/>
+	<SubTexture name="projector loop0016" x="828" y="1243" width="590" height="173" frameX="-0" frameY="-29" frameWidth="654" frameHeight="202"/>
+	<SubTexture name="projector loop0017" x="1369" y="1" width="173" height="590" rotated="true" frameX="-0" frameY="-29" frameWidth="654" frameHeight="202"/>
+	<SubTexture name="projector loop0018" x="1017" y="644" width="181" height="591" rotated="true" frameX="-1" frameY="-21" frameWidth="654" frameHeight="202"/>
+	<SubTexture name="projector loop0019" x="1185" y="1" width="181" height="591" rotated="true" frameX="-1" frameY="-21" frameWidth="654" frameHeight="202"/>
+	<SubTexture name="projector loop0020" x="644" y="729" width="181" height="591" rotated="true" frameX="-1" frameY="-21" frameWidth="654" frameHeight="202"/>
+	<SubTexture name="projector loop0021" x="594" y="1419" width="589" height="173" frameX="-1" frameY="-29" frameWidth="654" frameHeight="202"/>
+	<SubTexture name="projector loop0022" x="1" y="1449" width="589" height="173" frameX="-1" frameY="-29" frameWidth="654" frameHeight="202"/>
+	<SubTexture name="projector loop0023" x="1369" y="594" width="173" height="589" rotated="true" frameX="-1" frameY="-29" frameWidth="654" frameHeight="202"/>
+</TextureAtlas>

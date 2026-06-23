@@ -1,0 +1,23 @@
+{
+    "title": "Dwayne",
+    "desc": "This 700 year old martial arts master is one of the best fighters one could ever encounter. His moves are only taught to the most heavily gifted battlers, which is why he opened up a dojo. Think you have what it takes to enter the dojo? He's currently one of the most famous and iconic video game mascots of all time.",
+    "age": "700",
+    "sex": "Male",
+    "charScale": 0.14,
+    "cData": [
+        {"dir": "sensei/concepts/", "path": "mold", "desc": "Rough Idea for Sensei by DastardlyDeacon", "scale": 0.870},
+        {"dir": "sensei/concepts/", "path": "concept1", "desc": "Sensei First Concept by DastardlyDeacon", "scale": 0.650},
+        {"dir": "sensei/concepts/", "path": "concept2", "desc": "Refined Sensei Concept by Gearshift", "scale": 0.360},
+        {"dir": "sensei/concepts/", "path": "concept3", "desc": "Colored Gearshift Concept by DastardlyDeacon", "scale": 0.380},
+        {"dir": "sensei/concepts/", "path": "stage", "desc": "Original Week 6 Concept by DastardlyDeacon", "scale": 0.280},
+        {"dir": "sensei/concepts/", "path": "spirit", "desc": "Original Spirit Concept by DastardlyDeacon", "scale": 0.490},
+        {"dir": "sensei/concepts/", "path": "stages", "desc": "Sensei Stages by FifLeo", "scale": 0.320},
+        {"dir": "sensei/concepts/", "path": "bg", "desc": "Refined Stage Concept by FifLeo", "scale": 0.600},
+        {"dir": "sensei/concepts/", "path": "boppers", "desc": "Sensei's Students Concepts by Ellisbros and Offbi", "scale": 0.250},
+        {"dir": "sensei/concepts/", "path" : "healthbar", "desc": "Healthbar Concept by squishyzumorizu", "scale": 0.500},
+        {"dir": "sensei/concepts/", "path" : "test", "desc": "Sprite Test 11/1/21", "scale": 0.900},
+         {"dir": "sensei/concepts/", "path": "dwayne", "desc": "The origin of his name from a leak video", "scale": 0.500},
+        {"dir": "sensei/concepts/", "path": "original", "desc": "Chucklefuck, the original Week 6 idea by DastardlyDeacon", "scale": 0.320}
+        
+    ]
+}

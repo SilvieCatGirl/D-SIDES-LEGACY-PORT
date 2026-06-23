@@ -70,11 +70,11 @@ function setupNote(note) {
 	note.noAnimation = true;
 	note.canMiss = true;
 	note.rgbEnabled = false;
-	note.setCustomColor([0xFF1c5d8b, 0xFFcdf9f4, 0xFF1c5d8b]);
 }
 
 function postSpawnNote(note) {
 	note.rgbEnabled = false;
+	note.scale.set(0.7, 0.7);
 }
 
 var isFrozen = false;

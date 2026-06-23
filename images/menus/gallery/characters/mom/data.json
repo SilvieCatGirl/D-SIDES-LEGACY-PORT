@@ -1,0 +1,16 @@
+{
+    "title": "Mommy Mearest",
+    "desc": "Mother of Girlfriend Gearest, wife of Daddy Dearest and Boyfriend's inevitable mother in law. This ex-popstar says to enjoy the easy, slow life, which is part of why she retired, despite constantly having coming out of retirement concerts. Ever since Boyfriend came along, her husband has been obsessed with eliminating him.",
+    "age": 49,
+    "sex": "Female",
+    "charScale": 0.18,
+    "cData": [
+        {"dir": "mom/concepts/", "path": "concept1", "desc": "Original MM design by DastardlyDeacon", "scale": 0.55},
+        {"dir": "mom/concepts/", "path": "stage", "desc": "Original Week 4 concept by DastardlyDeacon", "scale": 0.325},
+        {"dir": "mom/concepts/", "path": "oldart", "desc": "Old MM Key Art by EllisBros", "scale": 0.140},
+        {"dir": "mom/concepts/", "path": "vague", "desc": "Vague Pose Concept for Week 5", "scale": 0.560},
+        {"dir": "mom/concepts/", "path": "bunny", "desc": "Concepts for Springbonnie in Week 5 (these inspired MM's clothes) by Offbi", "scale": 0.585},
+        {"dir": "mom/concepts/", "path": "bunny2", "desc": "Concept for Springbonnie by FifLeo", "scale": 0.360},
+        {"dir": "mom/concepts/", "path": "stage2", "desc": "Original Week 5 concept by DastardlyDeacon", "scale": 0.360}
+    ]
+}

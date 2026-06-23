@@ -1,0 +1,17 @@
+{
+    "title": "Whitty",
+    "desc": "An ex-rockstar who was part of a small band with an old friend, but it fell apart after a failed deal with the Dearests as they put a hit on the two. The duo tried their hardest to escape the hitmen sent after them, they couldn't get away for long...as Whitty's friend was caught by a stray bullet, dying in his arms. Whitty went off-radar since.",
+    "age": "Unknown",
+    "sex": "Male",
+    "charScale": 0.450,
+    "cData": [
+        {"dir": "whitty/concepts/", "path": "og", "desc": "Original Whitty Designs by Greenstranger", "scale": 0.600},
+        {"dir": "whitty/concepts/", "path": "og2", "desc": "Whitty Style Revisions by FifLeo & Offbi", "scale": 0.650},
+        {"dir": "whitty/concepts/", "path": "old", "desc": "Old Whitty Sprites by Offbi", "scale": 0.580},
+        {"dir": "whitty/concepts/", "path": "ref", "desc": "Whitty Ref by FifLeo", "scale": 0.670},
+        {"dir": "whitty/concepts/", "path": "sprite", "desc": "Whitty Week Sprites Sketch by EllisBros", "scale": 0.670},
+        {"dir": "whitty/concepts/", "path": "die", "desc": "Game Over Sketch by FifLeo", "scale": 0.460},
+        {"dir": "whitty/concepts/", "path": "sock", "desc": "Non FNF Whitty Design for fun by Offbi (original Whitty by Sock.clip)", "scale": 0.600},
+        {"dir": "whitty/concepts/", "path": "cover", "desc": "Cover Art for Boom Bash by squishyzumorizu", "scale": 0.550}
+    ]
+}

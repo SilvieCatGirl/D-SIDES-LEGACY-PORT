@@ -36,20 +36,6 @@ function onLoad() {
  *  Stops existing pause menu from opening if not on low quality mode
  *  Opens custom pause menu (if not on lq mode)
  */
-function onPause() {
-	if (!ClientPrefs.lowQuality) {
-		FlxG.camera.followLerp = 0;
-		persistentUpdate = false;
-		persistentDraw = true;
-		paused = true;
-
-		if (audio.inst != null)
-			audio.pause();
-
-		openSubState(new HScriptSubstate("Pause"));
-		return ScriptConstants.STOP_FUNC;
-	}
-}
 
 /**
  * [onCreatePost()]
@@ -91,16 +77,6 @@ function onCreatePost() {
 	for (m in [playHUD.timeTxt, playHUD.scoreTxt]) {
 		m.setFormat(Paths.font("tomo.otf"), 24, FlxColor.WHITE, FlxTextAlign.CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		m.borderSize = 3;
-	}
-	if (ClientPrefs.timeBarType != 'Disabled') {
-		playHUD.timeBar.setColors(dad.healthColour, FlxColor.BLACK);
-		playHUD.timeBar.bg.loadGraphic(Paths.image("UI/game/timeBar"));
-		playHUD.timeBar.setBGOffset(-5, -5);
-	}
-
-	if (PlayState.SONG.song.toLowerCase() != 'execution') {
-		playHUD.healthBar.bg.loadGraphic(Paths.image("UI/game/healthBar"));
-		playHUD.healthBar.setBGOffset(-5, -10);
 	}
 
 	playHUD.scoreTxt.y -= 10;

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="starttext.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ENTER PRESSED0000" x="2" y="2" width="904" height="130" pivotX="-14.8" pivotY="-7.3"/>
+	<SubTexture name="ENTER PRESSED0001" x="908" y="2" width="904" height="130"/>
+	<SubTexture name="ENTER PRESSED0002" x="2" y="134" width="904" height="130"/>
+	<SubTexture name="ENTER PRESSED0003" x="908" y="134" width="904" height="130"/>
+	<SubTexture name="ENTER PRESSED0004" x="2" y="266" width="904" height="130"/>
+	<SubTexture name="ENTER PRESSED0005" x="908" y="266" width="904" height="130"/>
+	<SubTexture name="ENTER PRESSED0006" x="2" y="398" width="904" height="130"/>
+	<SubTexture name="ENTER PRESSED0007" x="908" y="398" width="904" height="130"/>
+	<SubTexture name="ENTER PRESSED0008" x="2" y="530" width="904" height="130"/>
+	<SubTexture name="Press Enter to Begin0000" x="908" y="530" width="904" height="130" pivotX="-14.8" pivotY="-7.3"/>
+</TextureAtlas>

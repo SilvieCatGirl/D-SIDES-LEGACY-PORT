@@ -1,0 +1,21 @@
+{
+    "title": "Chester",
+    "desc": "This hungry duo just wants a good, hearty meal! Despite the lack of arms, they're shockingly good at catching their prey, and cooking it! What, you think they eat it RAW? They're monsters, not animals! Chester spawned when a piece of cherry candy met experimental chemicals. The candy grew legs and knew one thing: hunger.",
+    "age": "6 months",
+    "sex": "Unknown",
+    "charScale": 0.175,
+    "cData": [
+        {"dir": "chester/concepts/", "path": "revamp", "desc": "Chester Revamp Sketch by EllisBros", "scale": 0.250},
+        {"dir": "chester/concepts/", "path": "concept1", "desc": "First ever Chester Concept by DastardlyDeacon", "scale": 0.550},
+        {"dir": "chester/concepts/", "path": "concept2", "desc": "Rough Chester Concept by DastardlyDeacon", "scale": 0.520},
+        {"dir": "chester/concepts/", "path": "concept3", "desc": "Less Rough Chester Concept by DastardlyDeacon", "scale": 0.520},
+        {"dir": "chester/concepts/", "path": "concept4", "desc": "Chester Concept by Offbi", "scale": 0.630},
+        {"dir": "chester/concepts/", "path": "concept5", "desc": "Another Chester Concept by DastardlyDeacon", "scale": 0.470},
+        {"dir": "chester/concepts/", "path": "concept6", "desc": "Chester Concept by EllisBros", "scale": 0.630},
+        {"dir": "chester/concepts/", "path": "concept7", "desc": "Figuring out Chester's Final Design by FifLeo", "scale": 0.290},
+        {"dir": "chester/concepts/", "path": "concept8", "desc": "Figuring out Chester's Final Design by FifLeo", "scale": 0.290},
+        {"dir": "chester/concepts/", "path": "concept9", "desc": "Figuring out Chester's Final Design by FifLeo", "scale": 0.290},
+        {"dir": "chester/concepts/", "path": "stage", "desc": "Feaster Concept by FifLeo", "scale": 0.290},
+        {"dir": "chester/concepts/", "path": "stage2", "desc": "Feaster Intro Concept by FifLeo", "scale": 0.330}
+    ]
+}

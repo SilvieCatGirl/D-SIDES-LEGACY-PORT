@@ -1,0 +1,19 @@
+{
+    "title": "Pico",
+    "desc": "The leader of a gang of hitmen and assassins. After his break-up with BF and the supposed death of Cassandra, he decided to go off-radar and make a living out of the only thing he knows how to do right: killing. However he doesn't take social cues very well, often attempting to reconcile with BF, who wants to be left alone.",
+    "age": 20,
+    "sex": "Male",
+    "charScale": 0.25,
+    "cData": [
+        {"dir": "pico/concepts/", "path": "revamp", "desc": "Pico Revamp Sketch by EllisBros", "scale": 0.250},
+        {"dir": "pico/concepts/", "path": "old", "desc": "Original Pico Design by DastardlyDeacon", "scale": 0.500},
+        {"dir": "pico/concepts/", "path": "old2", "desc": "Original Pico Design by DastardlyDeacon", "scale": 0.460},
+        {"dir": "pico/concepts/", "path": "stage", "desc": "Original Week 3 Concept by DastardlyDeacon", "scale": 0.300},
+        {"dir": "pico/concepts/", "path": "menu", "desc": "Old Pico Menu Art by squishyzumorizu", "scale": 0.600},
+		 {"dir": "pico/concepts/", "path": "ded", "desc": "Scrapped Playable Pico Death Concept by FifLeo", "scale": 0.600},
+        {"dir": "pico/concepts/", "path": "key", "desc": "Old Pico key art by EllisBros", "scale": 0.230},
+        {"dir": "pico/concepts/", "path": "boppers1", "desc": "Old Week 3 Boppers Revamp concept by EllisBros", "scale": 0.470},
+        {"dir": "pico/concepts/", "path": "boppers2", "desc": "Week 3 Boppers Revamp Sketch by EllisBros", "scale": 0.650},
+        {"dir": "pico/concepts/", "path" : "test", "desc": "Sprite Test 5/28/21", "scale": 0.900}
+    ]
+}

@@ -2,7 +2,6 @@
 	"song": {
 		"player1": "bf",
 		"player2": "dusk",
-        	"arrowSkins": ["dsides", "dsides"],
 		"notes": [
 			{
 				"sectionBeats": 4,

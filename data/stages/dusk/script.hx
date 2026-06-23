@@ -13,24 +13,24 @@ var isBumpVig:Bool = false;
 function onLoad() {
 	var sky = new FlxSprite(-520, -400).loadFromSheet('backgrounds/dusk/dusk', 'skysky');
 	sky.scrollFactor.set(0.4, 0.4);
-	sky.scale.set(1.1, 1.1);
+	sky.setScale(1.1, 1.1);
 
 	var back = new FlxSprite(-550).loadFromSheet('backgrounds/dusk/dusk', 'skybackity');
 	back.scrollFactor.set(0.6, 0.6);
-	back.scale.set(1.1, 1.1);
+	back.setScale(1.1, 1.1);
 
 	purple2 = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, 0xFF81009A);
 	purple2.scrollFactor.set();
-	purple2.scale.set(1.9, 1.9);
+	purple2.setScale(1.9, 1.9);
 	purple2.screenCenter();
 	purple2.blend = BlendMode.MULTIPLY;
 	purple2.alpha = 0.3;
 
 	var floor = new FlxSprite(-550, -290).loadFromSheet('backgrounds/dusk/dusk', 'skyfront');
-	floor.scale.set(1.1, 1.1);
+	floor.setScale(1.1, 1.1);
 
 	var cream = new FlxSprite(700, -60).loadFromSheet('backgrounds/dusk/dusk', 'skycreampng');
-	cream.scale.set(0.9, 0.9);
+	cream.setScale(0.9, 0.9);
 
 	uber = new Bopper(1200, 196);
 	uber.loadAtlas('backgrounds/dusk/uberkid');
@@ -43,7 +43,7 @@ function onLoad() {
 
 	purple = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, 0xFF81009A);
 	purple.scrollFactor.set();
-	purple.scale.set(1.9, 1.9);
+	purple.setScale(1.9, 1.9);
 	purple.screenCenter();
 	purple.zIndex = 999;
 	purple.blend = BlendMode.MULTIPLY;
@@ -141,6 +141,7 @@ function onCreatePost() {
 
 			bfShader.setFloat('uBlackMax', 0.5);
 			bfShader.setFloat('uBlackMin', 0.0);
+			boyfriend.animateAtlas.useRenderTexture = true;
 
 			duskShader.setFloat('uBlackMax', 0.45);
 			duskShader.setFloat('uBlackMin', 0.0);
@@ -178,6 +179,11 @@ function onUpdate(elapsed) {
 
 		if (isPink)
 			vig.alpha = FlxMath.lerp(vig.alpha, 0, FlxMath.bound(elapsed * 4, 0, 1));
+
+		if (ClientPrefs.shaders) {
+			pix = FlxMath.lerp(pix, 1, FlxMath.bound(elapsed * 6, 0, 1));
+			mosaic.setFloatArray('uBlocksize', [pix, pix]);
+		}
 	}
 }
 

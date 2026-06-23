@@ -52,7 +52,6 @@ function makeSpr(x, y, name, folder) {
 }
 
 function onLoad() {
-	initScript('songs/try-harder/script');
 	if (ClientPrefs.shaders && !ClientPrefs.lowQuality) {
 		colorcorrection.setFloat('brightness', 0.0);
 		colorcorrection.setFloat('contrast', 1.35);
@@ -219,7 +218,7 @@ function onLoad() {
 }
 
 function onCreatePost() {
-
+	initScript('data/scripts/NoteWarning');
 
 	if(!ClientPrefs.lowQuality){
 		if (ClientPrefs.shaders) {
@@ -246,7 +245,6 @@ function onCreatePost() {
 		stage.add(bust);
 
 		boyfriendGroup.zIndex = 2;
-		pet.zIndex = 3;
 		refreshZ(stage);
 	}
 	
@@ -420,7 +418,6 @@ function onEvent(eventName, value1, value2) {
 					FlxTimer.wait(0.5, ()->{
 						pov = true;
 						gf.visible = false;
-						pet.visible = false;
 						icefront.y -= 250;
 						icefront.alpha = 0;
 						FlxTween.tween(icefront, {alpha: 0.8, y: icefront.y + 250}, 2.5, {ease: FlxEase.quadOut});
@@ -428,10 +425,7 @@ function onEvent(eventName, value1, value2) {
 						for(i in p2) i.visible = true;
 
 						changeCharacter('zeph_firstperson', 1);
-						if (ClientPrefs.bfSkin == "default")
-						{
 						changeCharacter('mobian_bf_firstperson', 0);
-						}
 						boyfriend.visible = false;
 
 						FlxTween.cancelTweensOf(camFollow);
@@ -464,23 +458,11 @@ function onEvent(eventName, value1, value2) {
 					FlxTimer.wait(1, ()->{
 						pov = false;
 						gf.visible = true;
-						pet.visible = true;
 						changeCharacter('zeph', 1);
-						if (ClientPrefs.bfSkin == "default")
-						{
 						changeCharacter('mobian_bf', 0);
-						}
 						FlxTween.cancelTweensOf(boyfriend);
-						if (ClientPrefs.bfSkin == "default")
-						{
-						boyfriend.x = 900;
-						boyfriend.y = 25;
-						}
-						if (ClientPrefs.bfSkin -= "default")
-						{
 						boyfriend.x = 900;
 						boyfriend.y = 404;
-						}
 						boyfriend.visible = true;
 						for(i in p1) i.visible = true;
 						for(i in p2) i.visible = false;
@@ -515,14 +497,9 @@ function onEvent(eventName, value1, value2) {
 
 				case 'text 3':
 					if(ClientPrefs.lowQuality) return;
-					if (ClientPrefs.bfSkin == "default")
-					{
-						changeCharacter('mobian_bf_COLD', 0);
-					}
-					if (ClientPrefs.gfSkin == "default")
-					{
-						changeCharacter('mobian_gf_COLD', 2);
-					}
+
+					changeCharacter('mobian_bf_COLD', 0);
+					changeCharacter('mobian_gf_COLD', 2);
 
                 case 'text 4':
 					triggerEventNote('Camera Follow Pos', '450', '490');

@@ -1,0 +1,16 @@
+{
+    "title": "Daddy Dearest",
+    "desc": "Father of Girlfriend Gearest, husband of Mommy Mearest and Boyfriend's self-proclaimed nemesis and inevitable father in law. Wants what's best for his daughter, and believes Boyfriend is a terrible influence. This world-renowned rockstar also enjoys spending time with his family, and baking.",
+    "age": 52,
+    "sex": "Male",
+    "charScale": 0.18,
+    "cData": [
+        {"dir": "dad/concepts/", "path": "dd revamp ellis", "desc": "DD Revamp Sketch by EllisBros", "scale": 0.25},
+        {"dir": "dad/concepts/", "path": "week 1 revamp sketch by leo", "desc": "Week 1 revamp sketch by FifLeo", "scale": 0.325},
+        {"dir": "dad/concepts/", "path" : "og dad", "desc": "Original DD design by DastardlyDeacon", "scale": 0.55},
+        {"dir": "dad/concepts/", "path" : "og dad parts", "desc": "Original DD design by DastardlyDeacon", "scale": 0.4},
+        {"dir": "dad/concepts/", "path" : "week 1 concept", "desc": "Original Week 1 concept by DastardlyDeacon", "scale": 0.325},
+        {"dir": "dad/concepts/", "path" : "old dad render", "desc": "Old DD Key Art by EllisBros", "scale": 0.125},
+        {"dir": "dad/concepts/", "path" : "test", "desc": "Sprite Test 5/30/21", "scale": 0.900}
+    ]
+}

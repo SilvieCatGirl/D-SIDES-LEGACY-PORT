@@ -20,9 +20,6 @@ function makeStageSprite(x, y, name) {
 }
 
 function onLoad() {
-		if (PlayState.SONG.song.toLowerCase() == 'tutorial'){
-			initScript('songs/tutorial/tutorial');
-		}
 	bg = makeStageSprite(bg_pos[0] - 115, bg_pos[1] - 50, dark ? 'dark' : 'week_1');
 	bg.setGraphicSize(Std.int(bg.width * 1.3));
 	bg.updateHitbox();

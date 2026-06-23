@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Freeplaynew tuah.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Blank0000" x="385" y="0" width="380" height="184"/>
+	<SubTexture name="Bobos0000" x="0" y="0" width="380" height="184"/>
+	<SubTexture name="EXE0000" x="0" y="189" width="380" height="184"/>
+	<SubTexture name="Execution0000" x="385" y="189" width="380" height="184"/>
+	<SubTexture name="Legacy0000" x="0" y="378" width="380" height="184"/>
+	<SubTexture name="Misc0000" x="0" y="756" width="380" height="184"/>
+	<SubTexture name="Ourple0000" x="385" y="378" width="380" height="184"/>
+	<SubTexture name="Shitstop0000" x="385" y="1323" width="380" height="184"/>
+	<SubTexture name="Tricky0000" x="385" y="756" width="380" height="184"/>
+	<SubTexture name="Tutorial0000" x="0" y="567" width="380" height="184"/>
+	<SubTexture name="Week10000" x="385" y="1134" width="380" height="184"/>
+	<SubTexture name="Week20000" x="385" y="567" width="380" height="184"/>
+	<SubTexture name="MonsterW20000" x="0" y="1323" width="380" height="184"/>
+	<SubTexture name="Week30000" x="0" y="1134" width="380" height="184"/>
+	<SubTexture name="Weekend10000" x="0" y="945" width="380" height="184"/>
+	<SubTexture name="Whitty0000" x="385" y="945" width="380" height="184"/>
+</TextureAtlas>

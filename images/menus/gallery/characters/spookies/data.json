@@ -1,0 +1,17 @@
+{
+    "title": "Skid & Pump",
+    "desc": "Two VERY spooky kids, celebrating all day, everyday! By being (non-blood related) cousins of Girlfriend's, they were allowed entry to Dearest's old halloween castle. Pump is actually a ghost who, conveniently, died dressed as one. His soul wasn't ready to die, no one knows about this, only Skid's mother knows, Lila.",
+    "age": "12 & Dead (?)",
+    "sex": "Male & Ghost",
+    "charScale": 0.25,
+    "cData": [
+        {"dir": "spookies/concepts/", "path": "revamp", "desc": "Spooky Kids Revamp Sketch by EllisBros", "scale": 0.270},
+        {"dir": "spookies/concepts/", "path": "concept1", "desc": "Original Spooky Kids Design by DastardlyDeacon", "scale": 0.600},
+        {"dir": "spookies/concepts/", "path": "dance", "desc": "Dance Concept by DastardlyDeacon", "scale": 0.600},
+        {"dir": "spookies/concepts/", "path": "stage", "desc": "Original Week 2 Concept by DastardlyDeacon (Based off Transylvania Mania", "scale": 0.320},
+        {"dir": "spookies/concepts/", "path": "key", "desc": "Old Spooky Kids key art by EllisBros", "scale": 0.210},
+        {"dir": "spookies/concepts/", "path": "lila", "desc": "Original Concept for D-Sides Lila by Offbi", "scale": 0.340},
+        {"dir": "spookies/concepts/", "path": "hey", "desc": "Scrapped Hey Pose for the OG Sprites by FifLeo", "scale": 0.500},
+        {"dir": "spookies/concepts/", "path": "stage2", "desc": "Scrapped Week 2 BG Remake by EllisBros", "scale": 0.900}
+    ]
+}

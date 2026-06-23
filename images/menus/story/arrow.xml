@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="titlebump.png" width="47" height="131">
+	<SubTexture name="arrow idle instancia 10000" x="5" y="5" width="37" height="63" frameX="-13" frameY="-3" frameWidth="58" frameHeight="70"/>
+	<SubTexture name="arrow idle instancia 10001" x="5" y="73" width="32" height="53" frameX="-15" frameY="-8" frameWidth="58" frameHeight="70"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+{
+    "title": "Darnell",
+    "desc": "Pico's best friend, arsonist at large. He lives entirely off-grid, same as Pico, but has his own gig as an underground demolitionist, as he calls it. It's basically just arson. Job title isn't ENTIRELY wrong. He's one sarcastic, smug son of a bitch that loves to push buttons for his own enjoyment. He seems to be going kind of overboard lately, though. And whats with that new outfit...?",
+    "age": 20,
+    "sex": "Male",
+    "charScale": 0.25,
+    "cData": [
+        {"dir": "darnell/concepts/", "path": "revamp", "desc": "Darnell Revamp Sketch by EllisBros", "scale": 0.250},
+        {"dir": "darnell/concepts/", "path": "promo", "desc": "Scrapped Promo Art for Weekend 1 by FifLeo", "scale": 0.290},
+        {"dir": "darnell/concepts/", "path": "icon", "desc": "Icons Concept by Offbi", "scale": 0.500},
+        {"dir": "darnell/concepts/", "path": "weekend", "desc": "Weekend 1 Darnell Design Concept by DastardlyDeacon", "scale": 0.540},
+        {"dir": "darnell/concepts/", "path": "oldsprite", "desc": "Weekend 1 Darnell Old Style Sprite by FifLeo", "scale": 0.700},
+        {"dir": "darnell/concepts/", "path": "stage", "desc": "Original Weekend 1 Concept by EllisBros", "scale": 0.660},
+        {"dir": "darnell/concepts/", "path": "stage2", "desc": "Refined Weekend 1 Concept by FifLeo", "scale": 0.550},
+         {"dir": "darnell/concepts/", "path": "sprite", "desc": "Second Weekend 1 Concept by FifLeo", "scale": 0.420},
+        {"dir": "darnell/concepts/", "path": "stage3", "desc": "Third Weekend 1 Concept by FifLeo", "scale": 0.420},
+        {"dir": "darnell/concepts/", "path": "stage4", "desc": "Final Weekend 1 Concept by FifLeo", "scale": 0.490},
+        {"dir": "darnell/concepts/", "path": "mockup", "desc": "Weekend 1 BG Mockup by FifLeo", "scale": 0.570}
+    ]
+}

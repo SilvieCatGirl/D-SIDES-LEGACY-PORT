@@ -1,0 +1,20 @@
+{
+    "title": "Boyfriend",
+    "desc": "The protagonist of our story, the rap king you've all known to come and love, Boyfriend! BF can simply be described as a stubborn family man. He has a ton of his own hobbies, but at the end of the day he would do anything for his Girlfriend. Follow BF's journey to gain GF's parent's approval and have a stable relationship!",
+    "age": 19,
+    "sex": "Male",
+    "charScale": 0.28,
+    "cData": [
+        {"dir": "bf/concepts/", "path": "concept 1", "desc": "Original D-Sides BF concept by DastardlyDeacon", "scale": 0.700},
+        {"dir": "bf/concepts/", "path": "concept 2", "desc": "Another D-Sides BF concept by DastardlyDeacon", "scale": 0.5},
+        {"dir": "bf/concepts/", "path": "oldmold", "desc": "Older BF Poses by FifLeo", "scale": 0.750},
+        {"dir": "bf/concepts/", "path": "making", "desc": "The Making of the Old Sprite by FifLeo", "scale": 0.610},
+        {"dir": "bf/concepts/", "path": "dodge", "desc": "Dodge Poses Concepts by FifLeo", "scale": 0.59},
+        {"dir": "bf/concepts/", "path": "stress", "desc": "Concept for Stress BF & GF by FifLeo", "scale": 1.000},
+        {"dir": "bf/concepts/", "path": "menu conc", "desc": "Old main menu concept by squishyzumorizu", "scale": 0.450},
+        {"dir": "bf/concepts/", "path": "himd", "desc": "Old BF key art by EllisBros", "scale": 0.275},
+        {"dir": "bf/concepts/", "path": "oldmoldy", "desc": "Scrapped BF Resprite by squishyzumorizu", "scale": 0.42},
+        {"dir": "bf/concepts/", "path": "freeplay1", "desc": "Freeplay BF Concept by FifLeo", "scale": 0.690},
+        {"dir": "bf/concepts/", "path": "scrappedicon", "desc": "Scrapped Icon Remake by FifLeo", "scale": 0.600}
+    ]
+}

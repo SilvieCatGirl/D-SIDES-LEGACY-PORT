@@ -61,8 +61,8 @@ function onCreatePost() {
 	cameraSpeed = 1;
 	camZoomingDecay = 2;
 
-	playHUD.showRating = true;
-	playHUD.showRatingNum = true;
+	playHUD.showRating = false;
+	playHUD.showRatingNum = false;
 
 	var poop = [playHUD.scoreTxt];
 	if (ClientPrefs.timeBarType != 'Disabled') {
@@ -103,6 +103,10 @@ function onCreatePost() {
 
 	// for (i in 0...4) {}
 	// script_SUSTAINENDOffsets[i].y += 50;
+
+	boyfriendGroup.addToList('mobian_bf', 0);
+	dadGroup.addToList('LordX', 1);
+	gfGroup.addToList('mobian_gf', 2);
 
 	if (ClientPrefs.lowQuality)
 		return;
@@ -217,7 +221,6 @@ function onEvent(eventName, value1, value2) {
 
 					FlxTween.color(illegal, 8, illegal.color, FlxColor.BLUE);
 					FlxTween.tween(illegal, {alpha: 0}, 16, {ease: FlxEase.quintInOut});
-					FlxTween.tween(playHUD, {alpha: 1}, 16, {ease: FlxEase.quintInOut});
 
 				case 'real start':
 					FlxTween.cancelTweensOf(game);

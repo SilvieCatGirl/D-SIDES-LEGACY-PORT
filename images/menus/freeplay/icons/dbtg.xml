@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="dbtg.png" width="35" height="177">
+	<SubTexture name="Select0000" x="1" y="127" width="33" height="49" frameX="-9" frameY="-10" frameWidth="66" frameHeight="68"/>
+	<SubTexture name="Select0001" x="1" y="1" width="27" height="62" frameX="-19" frameY="-4" frameWidth="66" frameHeight="68"/>
+	<SubTexture name="Select0002" x="1" y="68" width="27" height="54" frameX="-17" frameY="-7" frameWidth="66" frameHeight="68"/>
+</TextureAtlas>

@@ -14,10 +14,6 @@ var fakebg:Array<FlxSprite> = [];
 var realbg:Array<FlxSprite> = [];
 
 function onLoad() {
-
-	initScript('songs/execution/ui');
-	initScript('scripts/Lyrics');
-	
 	// if (FlxG.save.data.execution == null || FlxG.save.data.execution == false) {
 	// 	FlxG.stage.window.alert('N \n   0 \n\n C h\n         E \n            A T       n\n                    I         G .', 'ILLEGAL INSTRUCTION');
 	// 	WindowUtil.exit();
@@ -313,7 +309,6 @@ function onEvent(eventName, value1, value2) {
 
 					boyfriend.visible = false;
 					gf.visible = false;
-					initScript('data/scripts/exe_hud');
 
 					notes.forEachAlive((note) -> {
 						note.canMiss = true;
@@ -335,7 +330,6 @@ function onEvent(eventName, value1, value2) {
 					glitch.setFloat('GlitchAmount', 4);
 					dad.shader = glitch;
 					camHUD.filters = [];
-					playHUD.alpha = 0;
 
 					var poop = ClientPrefs.lowQuality ? [bg1, bg2, boyfriend, gf] : [bg1, bg2, meat1, meat2, boyfriend, gf];
 					for (fat in poop)

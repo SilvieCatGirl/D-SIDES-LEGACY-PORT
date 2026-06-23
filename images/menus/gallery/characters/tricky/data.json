@@ -1,0 +1,28 @@
+{
+    "title": "Tricky",
+    "desc": "The Royal Courtyard Jester to the Auditor, Tricky. The Improbability Drive in his head gives him all sorts of powers: Flight, strength, teleportation, creating clones of himself, godlike tyranny...He exists to kill Hank J. Wimbleton, whom he considers his rival. And he'll kill anyone who dare get in his way or distracts him.",
+    "age": "Ageless",
+    "sex": "Unknown",
+    "charScale": 0.235,
+    "cData": [
+       {"dir": "tricky/concepts/", "path": "tricky", "desc": "Tricky Revamp Sketch by EllisBros", "scale": 0.500},
+       {"dir": "tricky/concepts/", "path": "grunt", "desc": "Grunt BF and GF Concept by EllisBros", "scale": 0.600},
+        {"dir": "tricky/concepts/", "path": "og", "desc": "Original D-Tricky Idea by DastardlyDeacon", "scale": 0.900},
+        {"dir": "tricky/concepts/", "path": "og2", "desc": "Various Design Ideas by DastardlyDeacon & Greenstranger", "scale": 0.800},
+        {"dir": "tricky/concepts/", "path": "dood", "desc": "Tricky Pose Concepts by FifLeo", "scale": 0.450},
+        {"dir": "tricky/concepts/", "path": "dood2", "desc": "Tricky Pose Concepts by FifLeo", "scale": 0.450},
+        {"dir": "tricky/concepts/", "path": "dood3", "desc": "Finalizing Tricky's Look by FifLeo", "scale": 0.600},
+        {"dir": "tricky/concepts/", "path": "bg", "desc": "Tricky Week Stage Concept by Kloogybaboogy", "scale": 0.600},
+		{"dir": "tricky/concepts/", "path": "grunt2", "desc": "Old Grunt BF and GF Concept", "scale": 0.700},
+        {"dir": "tricky/concepts/", "path": "original", "desc": "Original D-Hank Idea by DastardlyDeacon", "scale": 0.600},
+        {"dir": "tricky/concepts/", "path": "hank", "desc": "Hank Concept Art (+ White Hank) by FifLeo", "scale": 0.600},
+        {"dir": "tricky/concepts/", "path": "son", "desc": "Deimos & Sanford Concept Art by EllisBros", "scale": 0.600},
+        {"dir": "tricky/concepts/", "path": "grunts", "desc": "D-Grunts Concept Art by EllisBros", "scale": 0.550},
+        {"dir": "tricky/concepts/", "path": "lubi", "desc": "Lubifer (D-Jebus) Concept Art by FifLeo & EllisBros", "scale": 0.900},
+         {"dir": "tricky/concepts/", "path": "scrape", "desc": "D-Scrapeface Concept Art by Weedeet", "scale": 0.900},
+        {"dir": "tricky/concepts/", "path": "madness", "desc": "Scrapped Madness BF & GF Designs by Offbi", "scale": 0.600},
+         {"dir": "tricky/concepts/", "path": "party", "desc": "BG Concept by Dieg & Offbi", "scale": 0.600}
+
+    
+    ]
+}

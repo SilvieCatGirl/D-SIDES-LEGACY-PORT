@@ -1,0 +1,19 @@
+{
+    "title": "Girlfriend",
+    "desc": "The air-headed redheaded deuteragonist, Girlfriend! Being forced to be a homebody for most of her life, she loves exploring and getting out of the house, made easy thanks to both her and BF's rich families. Always sticking by BF's side wherever he takes her. They never really seem to realize they're in danger until its too late, though.",
+    "age": 20,
+    "sex": "Female",
+    "charScale": 0.25,
+    "cData": [
+        {"dir": "gf/concepts/", "path": "gf revamp sketch", "desc": "GF Revamp Sketch by EllisBros", "scale": 0.325},
+        {"dir": "gf/concepts/", "path": "tutorial cutout", "desc": "Tutorial concept by FifLeo", "scale": 0.8},
+        {"dir": "gf/concepts/", "path": "og gf", "desc": "Original GF Design by DastardlyDeacon", "scale": 0.800},
+        {"dir": "gf/concepts/", "path": "og gf parts", "desc": "Original GF Design by DastardlyDeacon", "scale": 0.625},
+		{"dir": "gf/concepts/", "path": "dodge", "desc": "Scrapped Playable GF Dodge Poses Concept by FifLeo", "scale": 0.625},
+		{"dir": "gf/concepts/", "path": "ded", "desc": "Scrapped Playable GF Death Concept by FifLeo", "scale": 0.900},
+        {"dir": "gf/concepts/", "path": "old render", "desc": "Old GF key art by EllisBros", "scale": 0.230},
+        {"dir": "gf/concepts/", "path": "skate", "desc": "Old Concept for Whitty GF by Offbi (The idea originally was a Skatepark)", "scale": 0.700},
+		{"dir": "gf/concepts/", "path": "music", "desc": "D-Funkin' Sound Team by squishyzumorizu", "scale": 0.500},
+        {"dir": "gf/concepts/", "path": "doods", "desc": "Doodles by FifLeo", "scale": 0.300}
+    ]
+}

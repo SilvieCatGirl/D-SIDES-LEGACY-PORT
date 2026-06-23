@@ -331,7 +331,7 @@ function onUpdate(elapsed) {
 	playHUD.showRating = false;
 	playHUD.showRatingNum = false;
 
-	//clock.angle = FlxMath.lerp(clock.angle, clockAngle, FlxMath.bound(elapsed * 5, 0, 1));
+	clock.angle = FlxMath.lerp(clock.angle, clockAngle, FlxMath.bound(elapsed * 5, 0, 1));
 
 	barOverlay.x = playHUD.healthBar.x;
 	barOverlay.y = playHUD.healthBar.y;
@@ -416,7 +416,7 @@ function onUpdate(elapsed) {
 	if (ratingFC != "") {
 		final acc = MathUtil.floorDecimal(ratingPercent * 100, 2);
 
-		accTextA.text = accTextB.text = acc +'% - (' + ratingFC + ')';
+		accTextA.text = accTextB.text = '$acc% - ($ratingFC)';
 	} else {
 		accTextA.text = accTextB.text = "N/A";
 	}
@@ -431,7 +431,7 @@ function onUpdate(elapsed) {
 		ratingsText.text = "SUSSY!!!";
 		chud.color = 0xffD461BF;
 	} else if (curRating == "sick") {
-		ratingsText.text = "SICK!!";
+		ratingsText.text = "COOL!!";
 		chud.color = 0xffC23AD6;
 	} else if (curRating == "good") {
 		ratingsText.text = "GOOD!";

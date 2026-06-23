@@ -1,6 +1,5 @@
 {
     "stuff": [
-	{"lyric": "TEST TEST TEST", "timestamp": 5, "color": "0xFFFFFF"},
         {"lyric": "HOW DO YOU LIKE MY GAME OF HIDE AND SEEK?", "timestamp": 1728, "color": "0xFFFFFF"},
         {"lyric": "ITS THE CULMINATION OF THE MAN YOU USED TO BE.", "timestamp": 1744, "color": "0xFFFFFF"},
         {"lyric": "WHO USED TO BELIEVE...", "timestamp": 1770, "color": "0xFFFFFF"},

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NEW SONGS.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NEWSONGS0000" x="0" y="0" width="451" height="307" frameX="-11" frameY="0" frameWidth="464" frameHeight="307"/>
+	<SubTexture name="NEWSONGS0001" x="0" y="0" width="451" height="307" frameX="-11" frameY="0" frameWidth="464" frameHeight="307"/>
+	<SubTexture name="NEWSONGS0002" x="456" y="0" width="451" height="307" frameX="-11" frameY="0" frameWidth="464" frameHeight="307"/>
+	<SubTexture name="NEWSONGS0003" x="468" y="312" width="453" height="294" frameX="-9" frameY="-10" frameWidth="464" frameHeight="307"/>
+	<SubTexture name="NEWSONGS0004" x="468" y="312" width="453" height="294" frameX="-9" frameY="-10" frameWidth="464" frameHeight="307"/>
+	<SubTexture name="NEWSONGS0005" x="468" y="312" width="453" height="294" frameX="-9" frameY="-10" frameWidth="464" frameHeight="307"/>
+	<SubTexture name="NEWSONGS0006" x="468" y="611" width="461" height="285" frameX="-3" frameY="-11" frameWidth="464" frameHeight="307"/>
+	<SubTexture name="NEWSONGS0007" x="468" y="611" width="461" height="285" frameX="-3" frameY="-11" frameWidth="464" frameHeight="307"/>
+	<SubTexture name="NEWSONGS0008" x="0" y="614" width="460" height="285" frameX="-3" frameY="-11" frameWidth="464" frameHeight="307"/>
+	<SubTexture name="NEWSONGS0009" x="0" y="312" width="463" height="297" frameX="0" frameY="-10" frameWidth="464" frameHeight="307"/>
+	<SubTexture name="NEWSONGS0010" x="0" y="312" width="463" height="297" frameX="0" frameY="-10" frameWidth="464" frameHeight="307"/>
+	<SubTexture name="NEWSONGS0011" x="0" y="312" width="463" height="297" frameX="0" frameY="-10" frameWidth="464" frameHeight="307"/>
+</TextureAtlas>

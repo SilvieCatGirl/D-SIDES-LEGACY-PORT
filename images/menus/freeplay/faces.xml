@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="faces.png" width="8003" height="2637">
+	<SubTexture name="chester0000" x="5" y="619" width="692" height="765" frameX="-0" frameY="-0" frameWidth="692" frameHeight="765"/>
+	<SubTexture name="chica0000" x="7157" y="1615" width="841" height="1017" frameX="-0" frameY="-0" frameWidth="841" frameHeight="1017"/>
+	<SubTexture name="darnell0000" x="5279" y="5" width="842" height="716" frameX="-0" frameY="-0" frameWidth="843" frameHeight="716"/>
+	<SubTexture name="dd0000" x="2144" y="1507" width="622" height="868" frameX="-0" frameY="-0" frameWidth="622" frameHeight="869"/>
+	<SubTexture name="dwayne0000" x="4112" y="1544" width="654" height="939" frameX="-0" frameY="-0" frameWidth="655" frameHeight="939"/>
+	<SubTexture name="easter0000" x="4161" y="716" width="832" height="823" frameX="-0" frameY="-0" frameWidth="833" frameHeight="824"/>
+	<SubTexture name="feast0000" x="4771" y="1571" width="823" height="953" frameX="-0" frameY="-0" frameWidth="824" frameHeight="953"/>
+	<SubTexture name="gf0000" x="2912" y="5" width="940" height="686" frameX="-0" frameY="-0" frameWidth="940" frameHeight="686"/>
+	<SubTexture name="john0000" x="2054" y="5" width="853" height="669" frameX="-0" frameY="-0" frameWidth="853" frameHeight="669"/>
+	<SubTexture name="lordx0000" x="5861" y="760" width="1172" height="836" frameX="-0" frameY="-0" frameWidth="1172" frameHeight="836"/>
+	<SubTexture name="mack0000" x="1648" y="679" width="870" height="805" frameX="-0" frameY="-0" frameWidth="870" frameHeight="806"/>
+	<SubTexture name="mighty0000" x="3342" y="698" width="814" height="810" frameX="-0" frameY="-0" frameWidth="814" frameHeight="810"/>
+	<SubTexture name="mm0000" x="702" y="678" width="941" height="770" frameX="-0" frameY="-0" frameWidth="941" frameHeight="770"/>
+	<SubTexture name="pico0000" x="6126" y="5" width="610" height="749" frameX="-0" frameY="-0" frameWidth="610" frameHeight="749"/>
+	<SubTexture name="sensei0000" x="669" y="1453" width="764" height="863" frameX="-0" frameY="-0" frameWidth="764" frameHeight="863"/>
+	<SubTexture name="spoinky0000" x="5" y="1389" width="659" height="865" frameX="-0" frameY="-0" frameWidth="660" frameHeight="865"/>
+	<SubTexture name="spookies0000" x="3440" y="1513" width="667" height="907" frameX="-0" frameY="-0" frameWidth="667" frameHeight="907"/>
+	<SubTexture name="sunky0000" x="4998" y="726" width="858" height="840" frameX="-0" frameY="-0" frameWidth="858" frameHeight="840"/>
+	<SubTexture name="tenma0000" x="7038" y="760" width="722" height="850" frameX="-0" frameY="-0" frameWidth="723" frameHeight="850"/>
+	<SubTexture name="test0000" x="4549" y="5" width="725" height="706" frameX="-0" frameY="-0" frameWidth="725" frameHeight="706"/>
+	<SubTexture name="tricky0000" x="2523" y="696" width="814" height="806" frameX="-0" frameY="-0" frameWidth="814" frameHeight="806"/>
+	<SubTexture name="ved0000" x="5" y="5" width="522" height="602" frameX="-0" frameY="-0" frameWidth="522" frameHeight="603"/>
+	<SubTexture name="whitty0000" x="2771" y="1513" width="664" height="869" frameX="-0" frameY="-0" frameWidth="664" frameHeight="869"/>
+	<SubTexture name="zardy0000" x="3857" y="5" width="687" height="688" frameX="-0" frameY="-0" frameWidth="688" frameHeight="689"/>
+	<SubTexture name="zeus0000" x="6385" y="1615" width="767" height="998" frameX="-0" frameY="-0" frameWidth="768" frameHeight="998"/>
+	<SubTexture name="questionmark0000" x="1390" y="5" width="659" height="668" frameX="-0" frameY="-0" frameWidth="659" frameHeight="668"/>
+	<SubTexture name="retro0000" x="532" y="5" width="853" height="609" frameX="-0" frameY="-0" frameWidth="853" frameHeight="609"/>
+	<SubTexture name="dusk0000" x="5599" y="1601" width="781" height="967" frameX="-0" frameY="-0" frameWidth="781" frameHeight="967"/>
+	<SubTexture name="hank0000" x="6741" y="5" width="1062" height="750" frameX="-0" frameY="-0" frameWidth="1062" frameHeight="750"/>
+	<SubTexture name="spag0000" x="1438" y="1489" width="701" height="864" frameX="-0" frameY="-3" frameWidth="701" frameHeight="867"/>
+</TextureAtlas>

@@ -1,0 +1,14 @@
+{
+    "title": "Nene",
+    "desc": "Pico's self-proclaimed girlfriend. Are they actually dating? Pico claims not, but wherever Pico is, Nene isn't too far behind. On the rare occasion she's not with Pico, she's probably out on a murder spree. Even if she's a hyper intelligent serial murderer, she does care for her friends, sometimes.",
+    "age": 20,
+    "sex": "Female",
+    "charScale": 0.25,
+    "cData": [
+        {"dir": "nene/concepts/", "path": "knife", "desc": "Nene's Knife Concept by FifLeo", "scale": 0.800},
+        {"dir": "nene/concepts/", "path": "design", "desc": "Weekend 1 Concept by EllisBros", "scale": 0.700},
+        {"dir": "nene/concepts/", "path": "old", "desc": "Slightly Outdated Nene Concept by FifLeo", "scale": 0.800},
+        {"dir": "nene/concepts/", "path": "neneold", "desc": "Slightly Outdated Key Art by EllisBros", "scale": 0.250},
+        {"dir": "nene/concepts/", "path": "icon", "desc": "Unused Nene icons by EllisBros", "scale": 1}
+    ]
+}
