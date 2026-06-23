@@ -1,3 +1,6 @@
+import funkin.Mods;
+if (Mods.currentModDirectory != 'D-SIDES-LEGACY-PORT-main') return;
+
 /**
  * [UI.hx]
  * Used for handling D-Side's custom UI.

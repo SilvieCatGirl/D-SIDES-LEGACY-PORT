@@ -1,3 +1,5 @@
+import funkin.Mods;
+if (Mods.currentModDirectory != 'D-SIDES-LEGACY-PORT-main') return;
 /**
  * [Completion.hx]
  * Used to handle song-completion's contributions to your overall update completion.

@@ -1,3 +1,5 @@
+import funkin.Mods;
+if (Mods.currentModDirectory != 'D-SIDES-LEGACY-PORT-main') return;
 import funkin.backend.math.Vector3;
 
 var modManager;
