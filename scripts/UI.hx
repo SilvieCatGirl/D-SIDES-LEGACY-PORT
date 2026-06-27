@@ -48,6 +48,7 @@ function onLoad() {
  *  Sets the prefix for the in-game rating graphic file location
  *  Checks if a lyrics.json file exists, and if so, runs the Lyrics.hx script in the data folder.
  */
+var stake;
 function onCreatePost() {
 	playHUD.ratingPrefix = "UI/game/ratings/";
 

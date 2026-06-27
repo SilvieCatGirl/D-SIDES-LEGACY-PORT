@@ -214,7 +214,7 @@
 	"gameover_intial_sound": null,
 	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
-	"healthicon": "bf",
+	"healthicon": "bfds",
 	"gameover_character": null,
 	"vslice_sustains": true,
 	"flip_x": true,

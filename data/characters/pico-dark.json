@@ -141,7 +141,7 @@
 	"gameover_intial_sound": null,
 	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
-	"healthicon": "pico",
+	"healthicon": "picods",
 	"gameover_character": null,
 	"vslice_sustains": true,
 	"flip_x": false,

@@ -21,6 +21,18 @@ var curRating:String = "N/A";
 var clockAngle:Float = 0;
 var clockTuah:Float = 0;
 
+function onDestroy(){
+	ClientPrefs.timeBarType = 'Song Name';
+}
+
+function onEndSong(){
+	ClientPrefs.timeBarType = 'Song Name';
+}
+
+function onExitSong(){
+	ClientPrefs.timeBarType = 'Song Name';
+}
+
 function onCreatePost() {
 	// playHUD.showRating = false;
 	// playHUD.showRatingNum = false;
@@ -320,6 +332,7 @@ function onEvent(eventName, value1, value2) {
 }
 
 function onLoad() {
+	ClientPrefs.timeBarType = 'Time Left';
 	// refreshZ(playHUD);
 }
 
