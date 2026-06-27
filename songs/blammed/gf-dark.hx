@@ -10,9 +10,7 @@ function onCreatePost()
     if(ClientPrefs.lowQuality)
         return;
 
-	if (gf.animateAtlas){
-	i.animateAtlas.useRenderTexture = true;
-	}
+    i.animateAtlas.useRenderTexture = true;
 
 	var rim = new DropShadowShader();
 	rim.color = 0x90707358;
