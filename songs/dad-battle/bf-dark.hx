@@ -11,9 +11,7 @@ function onLoad() {
 	if (ClientPrefs.lowQuality)
 		return;
 
-	if (boyfriend.animateAtlas){
 	i.animateAtlas.useRenderTexture = true;
-	}
 
 	var rim = new DropShadowShader();
 	rim.color = 0x90707358;
