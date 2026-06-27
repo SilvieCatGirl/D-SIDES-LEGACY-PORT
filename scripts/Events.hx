@@ -1,5 +1,4 @@
-import funkin.Mods;
-if (Mods.currentModDirectory != 'D-SIDES-LEGACY-PORT-main') return;
+
 /**
  * [Events.hx]
  * Script that handles general events used across the mod, like:

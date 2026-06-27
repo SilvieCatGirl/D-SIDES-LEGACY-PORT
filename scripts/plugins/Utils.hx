@@ -1,5 +1,4 @@
-import funkin.Mods;
-if (Mods.currentModDirectory != 'D-SIDES-LEGACY-PORT-main') return;
+
 /**
  * [Utils.hx]
  * Meant to handle tedious things so we don't have to repeatedly copy & paste functions.
