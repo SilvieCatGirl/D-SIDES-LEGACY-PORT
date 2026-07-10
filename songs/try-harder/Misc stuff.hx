@@ -105,8 +105,8 @@ function onEvent(eventName, value1, value2) {
                     modManager.setValue("alpha", 1, 1);
 
                 case 'text 2':
-                    var username:String = 'BOYFRIEND';
-                    textevil.text = "Breaking a sweat already..? \nhere, no need to thank me... \n" + username + ".";
+                    var username:String = ClientPrefs.bfSkin;
+                    textevil.text = "Breaking a sweat already..? \nhere, no need to thank me... \n" + username + ".JSON.";
                 case 'text 4':
                     playHUD.visible = true;
                     for (item in screen) {
