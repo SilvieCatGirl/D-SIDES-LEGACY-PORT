@@ -216,9 +216,11 @@ function onLoad() {
 	p2 = [bg2, iceback, plat, floor, icefront];
 	for(i in p2) i.visible = false;
 }
-
+var storingBF;
 function onCreatePost() {
 	initScript('data/scripts/NoteWarning');
+
+	storingBF = boyfriend.y;
 
 	if(!ClientPrefs.lowQuality){
 		if (ClientPrefs.shaders) {
@@ -425,7 +427,7 @@ function onEvent(eventName, value1, value2) {
 						for(i in p2) i.visible = true;
 
 						changeCharacter('zeph_firstperson', 1);
-						if (ClientPrefs.bfSkin == null){
+						if (ClientPrefs.bfSkin == 'Default'){
 							changeCharacter('mobian_bf_firstperson', 0);
 						}
 						boyfriend.visible = false;
@@ -461,16 +463,16 @@ function onEvent(eventName, value1, value2) {
 						pov = false;
 						gf.visible = true;
 						changeCharacter('zeph', 1);
-						if (ClientPrefs.bfSkin == null){
+						if (ClientPrefs.bfSkin == 'Default'){
 							changeCharacter('mobian_bf', 0);
 						}
 						FlxTween.cancelTweensOf(boyfriend);
 						boyfriend.x = 900;
-						if (ClientPrefs.bfSkin == null){
+						if (ClientPrefs.bfSkin == 'Default'){
 							boyfriend.y = 404;
 						}
 						else{
-							boyfriend.y = BF_Y;
+							boyfriend.y = storingBF;
 						}
 						boyfriend.visible = true;
 						for(i in p1) i.visible = true;
