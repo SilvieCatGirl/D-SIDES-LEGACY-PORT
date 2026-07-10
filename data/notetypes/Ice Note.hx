@@ -74,7 +74,6 @@ function setupNote(note) {
 
 function postSpawnNote(note) {
 	note.rgbEnabled = false;
-	note.scale.set(0.7, 0.7);
 }
 
 var isFrozen = false;
