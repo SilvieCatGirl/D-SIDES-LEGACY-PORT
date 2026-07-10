@@ -11,7 +11,7 @@ function onLoad() {
 	if (ClientPrefs.lowQuality)
 		return;
 
-	i.animateAtlas.useRenderTexture = true;
+	i.useRenderTexture = true;
 
 	var rim = new DropShadowShader();
 	rim.color = 0x90707358;

@@ -425,7 +425,9 @@ function onEvent(eventName, value1, value2) {
 						for(i in p2) i.visible = true;
 
 						changeCharacter('zeph_firstperson', 1);
-						changeCharacter('mobian_bf_firstperson', 0);
+						if (ClientPrefs.bfSkin == null){
+							changeCharacter('mobian_bf_firstperson', 0);
+						}
 						boyfriend.visible = false;
 
 						FlxTween.cancelTweensOf(camFollow);
@@ -459,10 +461,17 @@ function onEvent(eventName, value1, value2) {
 						pov = false;
 						gf.visible = true;
 						changeCharacter('zeph', 1);
-						changeCharacter('mobian_bf', 0);
+						if (ClientPrefs.bfSkin == null){
+							changeCharacter('mobian_bf', 0);
+						}
 						FlxTween.cancelTweensOf(boyfriend);
 						boyfriend.x = 900;
-						boyfriend.y = 404;
+						if (ClientPrefs.bfSkin == null){
+							boyfriend.y = 404;
+						}
+						else{
+							boyfriend.y = BF_Y;
+						}
 						boyfriend.visible = true;
 						for(i in p1) i.visible = true;
 						for(i in p2) i.visible = false;
@@ -498,7 +507,9 @@ function onEvent(eventName, value1, value2) {
 				case 'text 3':
 					if(ClientPrefs.lowQuality) return;
 
-					changeCharacter('mobian_bf_COLD', 0);
+					if (ClientPrefs.bfSkin == null){
+						changeCharacter('mobian_bf_COLD', 0);
+					}
 					changeCharacter('mobian_gf_COLD', 2);
 
                 case 'text 4':

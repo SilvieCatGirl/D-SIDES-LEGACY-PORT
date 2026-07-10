@@ -13,26 +13,26 @@ var isBumpVig:Bool = false;
 function onLoad() {
 	var sky = new FlxSprite(-520, -400).loadFromSheet('backgrounds/dusk/dusk', 'skysky');
 	sky.scrollFactor.set(0.4, 0.4);
-	sky.setScale(1.1, 1.1);
+	sky.scale.set(1.1, 1.1);
 
 	var back = new FlxSprite(-550).loadFromSheet('backgrounds/dusk/dusk', 'skybackity');
 	back.scrollFactor.set(0.6, 0.6);
-	back.setScale(1.1, 1.1);
+	back.scale.set(1.1, 1.1);
 
 	purple2 = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, 0xFF81009A);
 	purple2.scrollFactor.set();
-	purple2.setScale(1.9, 1.9);
+	purple2.scale.set(1.9, 1.9);
 	purple2.screenCenter();
 	purple2.blend = BlendMode.MULTIPLY;
 	purple2.alpha = 0.3;
 
 	var floor = new FlxSprite(-550, -290).loadFromSheet('backgrounds/dusk/dusk', 'skyfront');
-	floor.setScale(1.1, 1.1);
+	floor.scale.set(1.1, 1.1);
 
-	var cream = new FlxSprite(700, -60).loadFromSheet('backgrounds/dusk/dusk', 'skycreampng');
-	cream.setScale(0.9, 0.9);
+	var cream = new FlxSprite(660, -110).loadFromSheet('backgrounds/dusk/dusk', 'skycreampng');
+	cream.scale.set(0.9, 0.9);
 
-	uber = new Bopper(1200, 196);
+	uber = new Bopper(1200, 177);
 	uber.loadAtlas('backgrounds/dusk/uberkid');
 	uber.addAnimByPrefix('idle', 'uberkid', 24, false);
 	uber.danceEveryNumBeats = 1;
@@ -43,7 +43,7 @@ function onLoad() {
 
 	purple = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, 0xFF81009A);
 	purple.scrollFactor.set();
-	purple.setScale(1.9, 1.9);
+	purple.scale.set(1.9, 1.9);
 	purple.screenCenter();
 	purple.zIndex = 999;
 	purple.blend = BlendMode.MULTIPLY;

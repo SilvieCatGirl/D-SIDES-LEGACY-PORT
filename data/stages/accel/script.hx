@@ -9,12 +9,12 @@ var extraBopping = false;
 
 function onLoad()
 {
-    var bg = new FlxSprite(-1050,-400).loadGraphic(Paths.image('backgrounds/accel/bg'));
+    var bg = new FlxSprite(-855,-260).loadGraphic(Paths.image('backgrounds/accel/bg'));
     bg.scale.set(1.125, 1.125);
     bg.scrollFactor.set(0.7, 0.6);
     add(bg);
 
-    speaker = new Bopper(75, 50).loadAtlas('backgrounds/accel/GruntSpeakers');
+    speaker = new Bopper(-145,-50).loadAtlas('backgrounds/accel/GruntSpeakers');
     speaker.addAnimByPrefix('idle', 'DJ Set', 24, false);
     speaker.scale.set(0.7, 0.7);
     speaker.scrollFactor.set(0.7, 0.6);
@@ -23,7 +23,7 @@ function onLoad()
     if(!ClientPrefs.lowQuality){
         var path = Paths.getSparrowAtlas('backgrounds/accel/AccelerantScreens');
 
-        var screen = new Bopper(-810, -205).setFrames(path);
+        var screen = new Bopper(-760, -135).setFrames(path);
         screen.addAnimByPrefix('idle', 'ScreensLeftHank', 24, true);
         screen.addAnimByPrefix('static', 'ScreensLeftStatic', 24, true);
         screen.addAnimByPrefix('tricky', 'ScreensLeftTricky', 24, true);
@@ -57,39 +57,39 @@ function onLoad()
 
 
     if(!ClientPrefs.lowQuality){
-        sanford = new Character(-240,238,'grunt_bonus');
+        sanford = new Character(-240,252,'grunt_bonus');
         sanford.idleSuffix = '-sanford';
         sanford.recalculateDanceIdle();
         sanford.scrollFactor.set(0.7, 0.6);
         sanford.visible = false;
         add(sanford);
         
-        gf2 = new Character(-240, 238, 'grunt_bonus');
+        gf2 = new Character(-240, 252, 'grunt_bonus');
         gf2.idleSuffix = '-gf';
         gf2.recalculateDanceIdle();
         gf2.scrollFactor.set(0.7, 0.6);
         gf2.visible = false;
         add(gf2);
         
-        l5 = new FlxSprite(-142, 225).loadGraphic(Paths.image('backgrounds/accel/l5'));
+        l5 = new FlxSprite(-132, 278).loadGraphic(Paths.image('backgrounds/accel/l5'));
         l5.scale.set(1.125, 1.125);
         l5.scrollFactor.set(0.7, 0.6);
         l5.blend = BlendMode.ADD;
         add(l5);
 
-        l7 = new FlxSprite(-142, 225).loadGraphic(Paths.image('backgrounds/accel/l7'));
+        l7 = new FlxSprite(-132, 268).loadGraphic(Paths.image('backgrounds/accel/l7'));
         l7.scale.set(1.125, 1.125);
         l7.scrollFactor.set(0.7, 0.6);
         l7.blend = BlendMode.ADD;
         add(l7);
 
-        l6 = new FlxSprite(1164, 340).loadGraphic(Paths.image('backgrounds/accel/l6'));
+        l6 = new FlxSprite(1185, 378).loadGraphic(Paths.image('backgrounds/accel/l6'));
         l6.scale.set(1.125, 1.125);
         l6.scrollFactor.set(0.7, 0.6);
         l6.blend = BlendMode.ADD;
         add(l6);
 
-        l8 = new FlxSprite(850, 340).loadGraphic(Paths.image('backgrounds/accel/l8'));
+        l8 = new FlxSprite(895, 380).loadGraphic(Paths.image('backgrounds/accel/l8'));
         l8.scale.set(1.125, 1.125);
         l8.scrollFactor.set(0.7, 0.6);
         l8.blend = BlendMode.ADD;
@@ -111,7 +111,7 @@ function onLoad()
         redTricky.alpha = 0;
         add(redTricky);
 
-        lightTricky1 = new FlxSprite(-400, -240).loadGraphic(Paths.image('backgrounds/accel/Light'));
+        lightTricky1 = new FlxSprite(-340, -240).loadGraphic(Paths.image('backgrounds/accel/Light'));
         //redTricky.alpha = 0;
         lightTricky1.blend = BlendMode.ADD;
         lightTricky1.scale.set(1.5, 1.5);
@@ -119,7 +119,7 @@ function onLoad()
         lightTricky1.color = FlxColor = 0xffFF0000;
         add(lightTricky1);
 
-        lightTricky2 = new FlxSprite(1200, -240).loadGraphic(Paths.image('backgrounds/accel/Light'));
+        lightTricky2 = new FlxSprite(1280, -240).loadGraphic(Paths.image('backgrounds/accel/Light'));
         //redTricky.alpha = 0;
         lightTricky2.blend = BlendMode.ADD;
         lightTricky2.scale.set(1.5, 1.5);
@@ -136,30 +136,30 @@ function onLoad()
 
     }
 
-    var floor = new FlxSprite(-650, 625).loadGraphic(Paths.image('backgrounds/accel/stage'));
+    var floor = new FlxSprite(-550, 700).loadGraphic(Paths.image('backgrounds/accel/stage'));
     floor.scale.set(1.125, 1.125);
     add(floor);
 
     if(!ClientPrefs.lowQuality){
-        l1 = new FlxSprite(-830, 420).loadGraphic(Paths.image('backgrounds/accel/l1'));
+        l1 = new FlxSprite(-805, 460).loadGraphic(Paths.image('backgrounds/accel/l1'));
         l1.scale.set(1.125, 1.125);
         l1.scrollFactor.set(0.7, 0.6);
         l1.blend = BlendMode.ADD;
         add(l1);
 
-        l3 = new FlxSprite(-830, 420).loadGraphic(Paths.image('backgrounds/accel/l3'));
+        l3 = new FlxSprite(-830, 470).loadGraphic(Paths.image('backgrounds/accel/l3'));
         l3.scale.set(1.125, 1.125);
         l3.scrollFactor.set(0.7, 0.6);
         l3.blend = BlendMode.ADD;
         add(l3);
 
-        l2 = new FlxSprite(1080, 500).loadGraphic(Paths.image('backgrounds/accel/l2'));
+        l2 = new FlxSprite(1115, 567).loadGraphic(Paths.image('backgrounds/accel/l2'));
         l2.scale.set(1.125, 1.125);
         l2.scrollFactor.set(0.7, 0.6);
         l2.blend = BlendMode.ADD;
         add(l2);
 
-        l4 = new FlxSprite(1460, 500).loadGraphic(Paths.image('backgrounds/accel/l4'));
+        l4 = new FlxSprite(1479, 580).loadGraphic(Paths.image('backgrounds/accel/l4'));
         l4.scale.set(1.125, 1.125);
         l4.scrollFactor.set(0.7, 0.6);
         l4.blend = BlendMode.ADD;

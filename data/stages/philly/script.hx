@@ -284,8 +284,10 @@ function endCutscene() {
 	dad.playAnim('pico', true);
 	dad.specialAnim = true;
 
-	dadGroup.visible = true;
-	boyfriendGroup.visible = true;
+	if (ClientPrefs.bfSkin != null){
+		dadGroup.visible = true;
+		boyfriendGroup.visible = true;
+	}
 
 	scene.visible = true;
 	scene.playAnim('idle', true);

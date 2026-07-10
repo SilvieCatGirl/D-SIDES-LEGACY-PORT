@@ -1,0 +1,328 @@
+{
+	"songs": [
+		[
+			"tutorial",
+			"gfds",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"Kiwiquest, XYY, Wrathstetic"
+		],
+		[
+			"bopeebo",
+			"dadds",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"Kiwiquest, XYY"
+		],
+		[
+			"fresh",
+			"dadds",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"Kiwiquest"
+		],
+		[
+			"dad battle",
+			"dadds",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"RedTV53"
+		],
+		[
+			"bobos chicken",
+			"dadds",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"Yuno Miles ft. Anthony Fantano"
+		],
+		[
+			"spookeez",
+			"spookyds",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"EthanTheDoodler"
+		],
+		[
+			"south",
+			"spookyds",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"EthanTheDoodler ft. Wrathstetic"
+		],
+		[
+			"ghastly",
+			"spookyds",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"Wrathstetic, theWAHbox"
+		],
+		[
+			"monster",
+			"monster",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"Wrathstetic ft. EthanTheDoodler, squishyzumorizu & Kloogybaboogy"
+		],
+		[
+			"pico",
+			"picods",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"theWAHbox, Wrathstetic"
+		],
+		[
+			"philly nice",
+			"picods",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"Cloverderus"
+		],
+		[
+			"blammed",
+			"picods",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"XYY"
+		],
+		[
+			"darnell",
+			"darnellds",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"squishyzumorizu"
+		],
+		[
+			"spaghetti",
+			"chef",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"XYY ft. Wrathstetic"
+		],
+		[
+			"improbable outset",
+			"tricky",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"Kiwiquest ft. RiverMusic"
+		],
+		[
+			"boom bash",
+			"whitty",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"squishyzumorizu"
+		],
+		[
+			"foolhardy",
+			"zardy",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"EthanTheDoodler ft. BBPanzu, Wrathstetic"
+		],
+		[
+			"dusk",
+			"dusk",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"Clappers46"
+		],
+		[
+			"accelerant",
+			"hank",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"Gojira Darko"
+		],
+		[
+			"and",
+			"spoinky",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"Biddle3"
+		],
+		[
+			"dguy",
+			"guyy",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"Kiwiquest"
+		],
+		[
+			"lore",
+			"mack",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"Kiwiquest ft. blackberri"
+		],
+		[
+			"performance",
+			"chica",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"Kiwiquest ft. blackberri"
+		],
+		[
+			"try harder",
+			"zeph",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"theWAHbox, Kiwiquest, Cloverderus, ft. Wrathstetic, Kloogybaboogy & Philiplol"
+		],
+		[
+			"endless",
+			"tenma",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"Kiwiquest (ft. XYY)"
+		],
+		[
+			"milk",
+			"sunky",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"Kiwiquest, theWAHbox, squishyzumorizu"
+		],
+		[
+			"execution",
+			"exec",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"Marco Antonio ft. Antinarious & RedTV53"
+		],
+		[
+			"soretro",
+			"dario",
+			[
+				0,
+				0,
+				0
+			],
+			"empty",
+			"Gary Gilbenson"
+		]
+	],
+	
+	"section": "d-sides",
+	
+	"storyName": "Somewhere Else",
+	"weekName": "DLC Week",
+	"weekBefore": "week3",
+	
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"hideFreeplay": false,
+	"currency": "beans",
+
+	"node": {
+		"parent": "week3",
+		"direction": "north"
+	}
+}

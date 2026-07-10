@@ -5,7 +5,7 @@ var str = 'backgrounds/spag/';
 var cutscene = PlayState.isStoryMode;
 
 function onLoad() {
-	var bg = new FlxSprite(-900, -300).loadGraphic(Paths.image(str + 'bg'));
+	var bg = new FlxSprite(-942, -487).loadGraphic(Paths.image(str + 'bg'));
 	bg.setScale(0.85, 0.85);
 	add(bg);
 
@@ -42,7 +42,7 @@ function onLoad() {
 	flash.zIndex = 1;
 	add(flash);
 
-	var truck = new FlxSprite(-490, 90).loadGraphic(Paths.image(str + 'truck'));
+	var truck = new FlxSprite(-600, -150).loadGraphic(Paths.image(str + 'truck'));
 	truck.setScale(0.85, 0.85);
 	truck.zIndex = 2;
 	add(truck);
