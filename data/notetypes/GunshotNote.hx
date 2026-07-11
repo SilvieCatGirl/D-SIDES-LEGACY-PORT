@@ -27,7 +27,7 @@ var dodge_notes:Array<String> = ['sing_dodgeLEFT', 'sing_dodgeDOWN', 'sing_dodge
 
 function goodNoteHit(note) {
 	if (note.noteType == 'GunshotNote') {
-		if (ClientPrefs.bfSkin == 'Default'){
+		if (ClientPrefs.bfSkin == 'default'){
 			boyfriend.playAnim(dodge_notes[note.noteData], true);
 			boyfriend.holdTimer = 0;
 		}
