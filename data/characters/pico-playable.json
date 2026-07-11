@@ -200,7 +200,7 @@
 	"gameover_intial_sound": "fnf_loss_sfx-pico",
 	"scalableOffsets": false,
 	"gameover_confirm_sound": "gameoverPicoConfirm",
-	"healthicon": "pico",
+	"healthicon": "picods",
 	"gameover_character": "pico-dead",
 	"vslice_sustains": true,
 	"flip_x": true,
