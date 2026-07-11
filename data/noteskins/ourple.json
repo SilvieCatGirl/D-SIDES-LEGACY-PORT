@@ -6,7 +6,7 @@
 		"singRIGHT"
 	],
 	"splashesEnabled": true,
-	"noteTexture": "pixelUI/NOTE_assets",
+	"noteTexture": "UI/game/ourple hud/ourple_notes",
 	"receptorAnimations": [
 		[
 			{
@@ -30,8 +30,8 @@
 			{
 				"looping": false,
 				"offsets": [
-					0,
-					0
+					-1,
+					-1
 				],
 				"xmlName": "left confirm",
 				"anim": "confirm"
@@ -59,7 +59,7 @@
 			{
 				"looping": false,
 				"offsets": [
-					0,
+					-2,
 					0
 				],
 				"xmlName": "down confirm",
@@ -88,8 +88,8 @@
 			{
 				"looping": false,
 				"offsets": [
-					0,
-					0
+					-1,
+					-1
 				],
 				"xmlName": "up confirm",
 				"anim": "confirm"
@@ -117,7 +117,7 @@
 			{
 				"looping": false,
 				"offsets": [
-					0,
+					-1,
 					0
 				],
 				"xmlName": "right confirm",
@@ -127,85 +127,77 @@
 	],
 	"noteSplashAnimations": [
 		[
-            {
-                "offsets": [
-                    0,
-                    0
-                ],
-                "xmlName": "splash0",
-                "anim": "splash",
-                "fps": 18
-            },		
-            {
-                "offsets": [
-                    0,
-                    0
-                ],
-                "xmlName": "splash0",
-                "anim": "splash-1",
-                "fps": 18
-            }
-        ],
-        [
-            {
-                "offsets": [
-                    0,
-                    0
-                ],
-                "xmlName": "splash0",
-                "anim": "splash",
-                "fps": 18
-            },		
-            {
-                "offsets": [
-                    0,
-                    0
-                ],
-                "xmlName": "splash0",
-                "anim": "splash-1",
-                "fps": 18
-            }
-        ],
-        [
-            {
-                "offsets": [
-                    0,
-                    0
-                ],
-                "xmlName": "splash0",
-                "anim": "splash",
-                "fps": 18
-            },		
-            {
-                "offsets": [
-                    0,
-                    0
-                ],
-                "xmlName": "splash0",
-                "anim": "splash-1",
-                "fps": 18
-            }
-        ],
-        [
-            {
-                "offsets": [
-                    0,
-                    0
-                ],
-                "xmlName": "splash0",
-                "anim": "splash",
-                "fps": 18
-            },		
-            {
-                "offsets": [
-                    0,
-                    0
-                ],
-                "xmlName": "splash0",
-                "anim": "splash-1",
-                "fps": 18
-            }
-        ]
+			{
+				"offsets": [
+					-16,
+					14
+				],
+				"xmlName": "note splash purple 1",
+				"anim": "splash"
+			},
+			{
+				"offsets": [
+					-16,
+					14
+				],
+				"xmlName": "note splash purple 2",
+				"anim": "splash-1"
+			}
+		],
+		[
+			{
+				"offsets": [
+					-16,
+					14
+				],
+				"xmlName": "note splash blue 1",
+				"anim": "splash"
+			},
+			{
+				"offsets": [
+					-16,
+					14
+				],
+				"xmlName": "note splash blue 2",
+				"anim": "splash-1"
+			}
+		],
+		[
+			{
+				"offsets": [
+					-16,
+					14
+				],
+				"xmlName": "note splash green 1",
+				"anim": "splash"
+			},
+			{
+				"offsets": [
+					-16,
+					14
+				],
+				"xmlName": "note splash green 2",
+				"anim": "splash-1"
+			}
+		],
+		[
+			{
+				"offsets": [
+					-16,
+					14
+				],
+				"xmlName": "note splash red 1",
+				"anim": "splash"
+			},
+			{
+				"offsets": [
+					-16,
+					14
+				],
+				"xmlName": "note splash red 1",
+				"anim": "splash-1"
+			}
+		]
 	],
 	"noteAnimations": [
 		[
@@ -233,7 +225,7 @@
 					0,
 					0
 				],
-				"xmlName": "purple hold end",
+				"xmlName": "pruple end hold",
 				"anim": "holdend"
 			}
 		],
@@ -330,20 +322,20 @@
 			{
 				"anim": "start",
 				"xmlName": "start",
-				"offsets": [-160, 0],
+				"offsets": [0, 0],
 				"looping": false
 			},
 			{
 				"anim": "loop",
 				"xmlName": "loop",
-				"offsets": [-160, 0],
+				"offsets": [-10, 15],
 				"looping": true,
 				"fps": 12
 			},
 			{
 				"anim": "end",
 				"xmlName": "end",
-				"offsets": [-160, 0],
+				"offsets": [0, 0],
 				"looping": false
 			}
 		],
@@ -351,20 +343,20 @@
 			{
 				"anim": "start",
 				"xmlName": "start",
-				"offsets": [-160, 0],
+				"offsets": [0, 0],
 				"looping": false
 			},
 			{
 				"anim": "loop",
 				"xmlName": "loop",
-				"offsets": [-160, 0],
+				"offsets": [-10, 15],
 				"looping": true,
 				"fps": 12
 			},
 			{
 				"anim": "end",
 				"xmlName": "end",
-				"offsets": [-160, 0],
+				"offsets": [0, 0],
 				"looping": false
 			}
 		],
@@ -372,20 +364,20 @@
 			{
 				"anim": "start",
 				"xmlName": "start",
-				"offsets": [-160, 0],
+				"offsets": [0, 0],
 				"looping": false
 			},
 			{
 				"anim": "loop",
 				"xmlName": "loop",
-				"offsets": [-160, 0],
+				"offsets": [-10, 15],
 				"looping": true,
 				"fps": 12
 			},
 			{
 				"anim": "end",
 				"xmlName": "end",
-				"offsets": [-160, 0],
+				"offsets": [0, 0],
 				"looping": false
 			}
 		],
@@ -393,37 +385,30 @@
 			{
 				"anim": "start",
 				"xmlName": "start",
-				"offsets": [-160, 0],
+				"offsets": [0, 0],
 				"looping": false
 			},
 			{
 				"anim": "loop",
 				"xmlName": "loop",
-				"offsets": [-160, 0],
+				"offsets": [-10, 15],
 				"looping": true,
 				"fps": 12
 			},
 			{
 				"anim": "end",
 				"xmlName": "end",
-				"offsets": [-160, 0],
+				"offsets": [0, 0],
 				"looping": false
 			}
 		]
 	],
-	"arrowRGB": [
-		{"r": -1935617, "g": -1537, "b": -10485619},
-		{"r": -12727553, "g": -720897, "b": -16764832},
-		{"r": -9313536, "g": -589850, "b": -16764672},
-		{"r": -30642, "g": -1291, "b": -9699328}
-	],
-	"splashTexture": "pixelUI/splash",
-    "sustainSplashTexture": "pixelUI/holdCover",
-	"antialiasing": false,
-	"inGameColoring": true,
-	"receptorScale": 6,
-	"noteScale": 6,
-	"splashScale": 6,
-    "susSplashScale": 6,
-	"susSplashOrigin": [-160, 15]
+	"splashTexture": "UI/game/ourple hud/ourple_splashes",
+	"noteSplashVariants": 2,
+	"antialiasing": true,
+	"inGameColoring": false,
+	"noteScale": 0.7,
+	"splashScale": 1,
+	"susSplashScale": 0.7,
+	"susSplashOrigin": [-6, 3]
 }

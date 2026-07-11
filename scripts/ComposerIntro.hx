@@ -1,3 +1,5 @@
+import funkin.Mods;
+if (Mods.currentModDirectory != 'D-SIDES-LEGACY-PORT-main') return;
 /**
  * [ComposerIntro.hx]
  * Script that handles the little graphic to the left of the screen that shows the song name & composer.

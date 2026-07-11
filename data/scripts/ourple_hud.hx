@@ -2,10 +2,8 @@ var pizza;
 var flipped:Bool = false;
 
 function onLoad() {
-	playHUD.healthBar.bg.loadGraphic(Paths.image('UI/game/ourple hud/healthBar'));
-	playHUD.healthBar.bg.scale.set(1.1, 0.65);
-	playHUD.healthBar.setBGOffset(0, -4);
-	playHUD.healthBar.bg.y += 15;
+	playHUD.healthBar.bg.scale.set(1.1, 1);
+	playHUD.healthBar.bg.y -= 15;
 
 	playHUD.remove(playHUD.timeBar);
 	playHUD.remove(playHUD.scoreTxt);

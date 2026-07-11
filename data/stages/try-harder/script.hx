@@ -427,7 +427,7 @@ function onEvent(eventName, value1, value2) {
 						for(i in p2) i.visible = true;
 
 						changeCharacter('zeph_firstperson', 1);
-						if (ClientPrefs.bfSkin == 'Default'){
+						if (ClientPrefs.bfSkin == 'default'){
 							changeCharacter('mobian_bf_firstperson', 0);
 						}
 						boyfriend.visible = false;
@@ -463,12 +463,12 @@ function onEvent(eventName, value1, value2) {
 						pov = false;
 						gf.visible = true;
 						changeCharacter('zeph', 1);
-						if (ClientPrefs.bfSkin == 'Default'){
+						if (ClientPrefs.bfSkin == 'default'){
 							changeCharacter('mobian_bf', 0);
 						}
 						FlxTween.cancelTweensOf(boyfriend);
 						boyfriend.x = 900;
-						if (ClientPrefs.bfSkin == 'Default'){
+						if (ClientPrefs.bfSkin == 'default'){
 							boyfriend.y = 404;
 						}
 						else{

@@ -284,7 +284,7 @@ function endCutscene() {
 	dad.playAnim('pico', true);
 	dad.specialAnim = true;
 
-	if (ClientPrefs.bfSkin != null){
+	if (ClientPrefs.bfSkin == 'default'){
 		dadGroup.visible = true;
 		boyfriendGroup.visible = true;
 	}
