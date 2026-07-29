@@ -86,7 +86,7 @@
 	"gameover_intial_sound": null,
 	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
-	"healthicon": "monster",
+	"healthicon": "monsterds",
 	"gameover_character": null,
 	"flip_x": false,
 	"healthbar_colour": -3004088,

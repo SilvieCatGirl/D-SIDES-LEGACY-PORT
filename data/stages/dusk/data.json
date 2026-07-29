@@ -6,6 +6,7 @@
 	"boyfriend": [920, 140],
 	"girlfriend": [290, 175],
 	"opponent": [220, 250],
+	"pet": [1600, 925],
 	"hide_girlfriend": false,
 
 	"camera_boyfriend": [0, 0],

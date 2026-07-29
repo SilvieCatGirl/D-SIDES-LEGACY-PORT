@@ -11,6 +11,7 @@ var vig:FlxSprite;
 var isBumpVig:Bool = false;
 
 function onLoad() {
+	pet.zIndex = 0;
 	var sky = new FlxSprite(-520, -400).loadFromSheet('backgrounds/dusk/dusk', 'skysky');
 	sky.scrollFactor.set(0.4, 0.4);
 	sky.scale.set(1.1, 1.1);

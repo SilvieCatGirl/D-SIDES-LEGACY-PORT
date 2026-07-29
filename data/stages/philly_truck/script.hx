@@ -195,6 +195,7 @@ function onCreatePost() {
 	transition2.updateHitbox();
 	transition2.x += transition2.width;
 	add(transition2);
+	pet.zIndex = 1;
 }
 
 var cutscene = false;

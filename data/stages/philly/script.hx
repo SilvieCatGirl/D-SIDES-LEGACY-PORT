@@ -20,6 +20,7 @@ function makeStageSprite(x, y, name, path) {
 }
 
 function onLoad() {
+	pet.zIndex = 12;
 	if (dark)
 		bg_string = 'backgrounds/week3/week3dark';
 

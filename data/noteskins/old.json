@@ -15,7 +15,7 @@
 					0,
 					0
 				],
-				"xmlName": "arrowLEFT",
+				"xmlName": "left receptor",
 				"anim": "static"
 			},
 			{
@@ -30,8 +30,8 @@
 			{
 				"looping": false,
 				"offsets": [
-					-1,
-					-1
+					0,
+					0
 				],
 				"xmlName": "left confirm",
 				"anim": "confirm"
@@ -44,7 +44,7 @@
 					0,
 					0
 				],
-				"xmlName": "arrowDOWN",
+				"xmlName": "down receptor",
 				"anim": "static"
 			},
 			{
@@ -59,7 +59,7 @@
 			{
 				"looping": false,
 				"offsets": [
-					-2,
+					0,
 					0
 				],
 				"xmlName": "down confirm",
@@ -73,7 +73,7 @@
 					0,
 					0
 				],
-				"xmlName": "arrowUP",
+				"xmlName": "up receptor",
 				"anim": "static"
 			},
 			{
@@ -88,8 +88,8 @@
 			{
 				"looping": false,
 				"offsets": [
-					-1,
-					-1
+					0,
+					0
 				],
 				"xmlName": "up confirm",
 				"anim": "confirm"
@@ -102,7 +102,7 @@
 					0,
 					0
 				],
-				"xmlName": "arrowRIGHT",
+				"xmlName": "right receptor",
 				"anim": "static"
 			},
 			{
@@ -117,7 +117,7 @@
 			{
 				"looping": false,
 				"offsets": [
-					-1,
+					0,
 					0
 				],
 				"xmlName": "right confirm",
@@ -207,7 +207,7 @@
 					0,
 					0
 				],
-				"xmlName": "purple",
+				"xmlName": "left note",
 				"anim": "scroll"
 			},
 			{
@@ -216,7 +216,7 @@
 					0,
 					0
 				],
-				"xmlName": "purple hold piece",
+				"xmlName": "left hold piece",
 				"anim": "hold"
 			},
 			{
@@ -225,7 +225,7 @@
 					0,
 					0
 				],
-				"xmlName": "purple hold end",
+				"xmlName": "left hold tail",
 				"anim": "holdend"
 			}
 		],
@@ -236,7 +236,7 @@
 					0,
 					0
 				],
-				"xmlName": "blue",
+				"xmlName": "down note",
 				"anim": "scroll"
 			},
 			{
@@ -245,7 +245,7 @@
 					0,
 					0
 				],
-				"xmlName": "blue hold piece",
+				"xmlName": "down hold piece",
 				"anim": "hold"
 			},
 			{
@@ -254,7 +254,7 @@
 					0,
 					0
 				],
-				"xmlName": "blue hold end",
+				"xmlName": "down hold tail",
 				"anim": "holdend"
 			}
 		],
@@ -265,7 +265,7 @@
 					0,
 					0
 				],
-				"xmlName": "green",
+				"xmlName": "up note",
 				"anim": "scroll"
 			},
 			{
@@ -274,7 +274,7 @@
 					0,
 					0
 				],
-				"xmlName": "green hold piece",
+				"xmlName": "up hold piece",
 				"anim": "hold"
 			},
 			{
@@ -283,7 +283,7 @@
 					0,
 					0
 				],
-				"xmlName": "green hold end",
+				"xmlName": "up hold tail",
 				"anim": "holdend"
 			}
 		],
@@ -294,7 +294,7 @@
 					0,
 					0
 				],
-				"xmlName": "red",
+				"xmlName": "right note",
 				"anim": "scroll"
 			},
 			{
@@ -303,7 +303,7 @@
 					0,
 					0
 				],
-				"xmlName": "red hold piece",
+				"xmlName": "right hold piece",
 				"anim": "hold"
 			},
 			{
@@ -312,7 +312,7 @@
 					0,
 					0
 				],
-				"xmlName": "red hold end",
+				"xmlName": "right hold tail",
 				"anim": "holdend"
 			}
 		]
@@ -322,20 +322,20 @@
 			{
 				"anim": "start",
 				"xmlName": "start",
-				"offsets": [0, 0],
+				"offsets": [0, 3000],
 				"looping": false
 			},
 			{
 				"anim": "loop",
 				"xmlName": "loop",
-				"offsets": [-10, 15],
+				"offsets": [-10, 3000],
 				"looping": true,
 				"fps": 12
 			},
 			{
 				"anim": "end",
 				"xmlName": "end",
-				"offsets": [0, 0],
+				"offsets": [0, 3000],
 				"looping": false
 			}
 		],
@@ -343,20 +343,20 @@
 			{
 				"anim": "start",
 				"xmlName": "start",
-				"offsets": [0, 0],
+				"offsets": [0, 3000],
 				"looping": false
 			},
 			{
 				"anim": "loop",
 				"xmlName": "loop",
-				"offsets": [-10, 15],
+				"offsets": [-10, 3000],
 				"looping": true,
 				"fps": 12
 			},
 			{
 				"anim": "end",
 				"xmlName": "end",
-				"offsets": [0, 0],
+				"offsets": [0, 3000],
 				"looping": false
 			}
 		],
@@ -364,20 +364,20 @@
 			{
 				"anim": "start",
 				"xmlName": "start",
-				"offsets": [0, 0],
+				"offsets": [0, 3000],
 				"looping": false
 			},
 			{
 				"anim": "loop",
 				"xmlName": "loop",
-				"offsets": [-10, 15],
+				"offsets": [-10, 3000],
 				"looping": true,
 				"fps": 12
 			},
 			{
 				"anim": "end",
 				"xmlName": "end",
-				"offsets": [0, 0],
+				"offsets": [0, 3000],
 				"looping": false
 			}
 		],
@@ -385,20 +385,20 @@
 			{
 				"anim": "start",
 				"xmlName": "start",
-				"offsets": [0, 0],
+				"offsets": [0, 3000],
 				"looping": false
 			},
 			{
 				"anim": "loop",
 				"xmlName": "loop",
-				"offsets": [-10, 15],
+				"offsets": [-10, 3000],
 				"looping": true,
 				"fps": 12
 			},
 			{
 				"anim": "end",
 				"xmlName": "end",
-				"offsets": [0, 0],
+				"offsets": [0, 3000],
 				"looping": false
 			}
 		]
@@ -410,5 +410,5 @@
 	"noteScale": 0.7,
 	"splashScale": 1,
 	"susSplashScale": 0.7,
-	"susSplashOrigin": [-6, 3]
+	"susSplashOrigin": [-6, -3]
 }

@@ -9,6 +9,8 @@ var extraBopping = false;
 
 function onLoad()
 {
+
+    pet.zIndex = 5;
     var bg = new FlxSprite(-855,-260).loadGraphic(Paths.image('backgrounds/accel/bg'));
     bg.scale.set(1.125, 1.125);
     bg.scrollFactor.set(0.7, 0.6);
@@ -30,7 +32,7 @@ function onLoad()
         screen.playAnim('idle');
         screen.scrollFactor.set(0.7, 0.6);
         screen.scale.set(1.125, 1.125);
-        screen.alpha = !ClientPrefs.flashing ? 0.2 : 1;
+        screen.alpha = !ClientPrefs.flashing ? 1 : 1;
         add(screen);
 
         var screen2 = new Bopper(1286, -230).setFrames(path);
@@ -43,7 +45,7 @@ function onLoad()
         screen2.playAnim('idle');
         screen2.scrollFactor.set(0.7, 0.6);
         screen2.scale.set(1.125, 1.125);
-        screen2.alpha = !ClientPrefs.flashing ? 0.2 : 1;
+        screen2.alpha = !ClientPrefs.flashing ? 1 : 1;
         add(screen2);
 
 
@@ -102,7 +104,7 @@ function onLoad()
         bl.blend = BlendMode.ADD;
         add(bl);
 
-        redTricky = new FlxSprite(-1000, 340).loadGraphic(Paths.image('backgrounds/accel/stageGradient'));
+        redTricky = new FlxSprite(-800, 340).loadGraphic(Paths.image('backgrounds/accel/stageGradient'));
         //redTricky.alpha = 0;
         redTricky.blend = BlendMode.ADD;
         redTricky.color = FlxColor = 0xffFF0000;
