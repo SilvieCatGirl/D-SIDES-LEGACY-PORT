@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "bf",
+		"player1": "bfds",
 		"player2": "pico",
 		"notes": [
 			{
@@ -4689,7 +4689,7 @@
 				"mustHitSection": true
 			}
 		],
-		"gfVersion": "gf",
+		"gfVersion": "gfds",
 		"events": [],
 		"player3": null,
 		"keys": 4,

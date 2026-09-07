@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "bf",
+		"player1": "bfds",
 		"player2": "dad",
 		"notes": [
 			{
@@ -2882,7 +2882,7 @@
 				"mustHitSection": true
 			}
 		],
-		"gfVersion": "gf",
+		"gfVersion": "gfds",
 		"events": [],
 		"keys": 4,
 		"song": "Bopeebo",

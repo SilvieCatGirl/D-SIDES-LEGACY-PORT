@@ -1,4 +1,10 @@
 {
     "name": "Friday Night Funkin: D-Sides (REDUX)",
-    "global": false
+    "description": "The iconic remix mod of the newgrounds-born rhythm game, Friday Night Funkin'! With a nearly identical premise as the original game, face off against a variety of opponents with a creative spin, alongside creative interpretation of many fanworks!",
+    "global": false,
+
+    "discordClientID": "960620410095956018",
+    "windowTitle": "Friday Night Funkin: D-Sides",
+    "iconFile": "UI/window/icons/64",
+    "defaultTransition": "SimpleSticker",
 }

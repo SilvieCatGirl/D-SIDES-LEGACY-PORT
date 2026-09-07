@@ -3,6 +3,7 @@ import sys.io.File;
 import funkin.backend.Conductor;
 import flixel.text.FlxText;
 import funkin.scripting.PluginsManager;
+import funkin.api.DiscordClient;
 
 var iconY: Float = 0;
 var textevil = new FlxText();
@@ -105,8 +106,9 @@ function onEvent(eventName, value1, value2) {
                     modManager.setValue("alpha", 1, 1);
 
                 case 'text 2':
-                    var username:String = ClientPrefs.bfSkin;
-                    textevil.text = "Breaking a sweat already..? \nhere, no need to thank me... \n" + username + ".JSON.";
+                    var username:String = 'BOYFRIEND';
+                    if(DiscordClient.username != 'Unknown') username = DiscordClient.username;
+                    textevil.text = "Breaking a sweat already..? \nhere, no need to thank me... \n" + username + ".";
                 case 'text 4':
                     playHUD.visible = true;
                     for (item in screen) {

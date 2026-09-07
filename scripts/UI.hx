@@ -1,5 +1,3 @@
-import funkin.Mods;
-if (Mods.currentModDirectory != 'D-SIDES-LEGACY-PORT-main') return;
 /**
  * [UI.hx]
  * Used for handling D-Side's custom UI.
@@ -12,6 +10,9 @@ import flixel.FlxCameraFollowStyle;
 import funkin.utils.CameraUtil;
 import funkin.scripting.PluginsManager;
 import funkin.FunkinAssets;
+
+import funkin.Mods;
+if (Mods.currentModDirectory != 'D-SIDES-LEGACY-PORT-main') return;
 
 /**
  * [onLoad()]

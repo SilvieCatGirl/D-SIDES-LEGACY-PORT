@@ -24,12 +24,17 @@ function noteMiss(note) {
 }
 
 var dodge_notes:Array<String> = ['sing_dodgeLEFT', 'sing_dodgeDOWN', 'sing_dodgeUP', 'sing_dodgeRIGHT'];
+var anidodge_notes:Array<String> = ['singLEFT-dodge', 'singRIGHT-dodge'];
 
 function goodNoteHit(note) {
 	if (note.noteType == 'GunshotNote') {
 		if (ClientPrefs.bfSkin == 'default'){
-			boyfriend.playAnim(dodge_notes[note.noteData], true);
+			boyfriend.playAnim(anidodge_notes[note.noteData], true);
 			boyfriend.holdTimer = 0;
+		}
+		if (boyfriend.curCharacter == 'animaniabf'){
+			boyfriend.playAnim(anidodge_notes[FlxG.random.int(0, anidodge_notes.length-1)], true);
+			boyfriend.specialAnim = true;
 		}
 		else{
 			boyfriend.playAnim('dodge', true);
@@ -52,9 +57,9 @@ function opponentNoteHit(note) {
 var poop = 1;
 
 function shoot() {
-	FlxTween.cancelTweensOf(camGame, ['angle']);
+	FlxTween.cancelTweensOf(camGame, ['scrollAngle']);
 	camGame.zoom += 0.0625 / 4;
-	camGame.angle = 4 * poop;
+	camGame.scrollAngle = 4 * poop;
 	poop *= -1;
-	FlxTween.tween(camGame, {angle: 0}, sSize * 2, {ease: FlxEase.quartOut});
+	FlxTween.tween(camGame, {scrollAngle: 0}, sSize * 2, {ease: FlxEase.quartOut});
 }

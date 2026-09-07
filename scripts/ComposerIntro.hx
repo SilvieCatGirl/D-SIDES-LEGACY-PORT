@@ -1,5 +1,3 @@
-import funkin.Mods;
-if (Mods.currentModDirectory != 'D-SIDES-LEGACY-PORT-main') return;
 /**
  * [ComposerIntro.hx]
  * Script that handles the little graphic to the left of the screen that shows the song name & composer.
@@ -15,6 +13,9 @@ import funkin.scripting.PluginsManager;
 import funkin.utils.WindowUtil;
 import funkin.api.DiscordClient;
 import funkin.backend.Difficulty;
+
+import funkin.Mods;
+if (Mods.currentModDirectory != 'D-SIDES-LEGACY-PORT-main') return;
 
 var cd:FlxSprite;
 var composer_list:String;

@@ -142,7 +142,7 @@ function onCreatePost() {
 
 			bfShader.setFloat('uBlackMax', 0.5);
 			bfShader.setFloat('uBlackMin', 0.0);
-			boyfriend.animateAtlas.useRenderTexture = true;
+			boyfriend.useRenderTexture = true;
 
 			duskShader.setFloat('uBlackMax', 0.45);
 			duskShader.setFloat('uBlackMin', 0.0);
@@ -170,6 +170,7 @@ function onUpdate(elapsed) {
 	purple.alpha = (Conductor.songPosition / songLength) * 0.17;
 	purple2.alpha = (Conductor.songPosition / songLength) * 0.2;
 	overlay.alpha = FlxMath.lerp(overlay.alpha, 0, FlxMath.bound(elapsed * 2.125, 0, 1));
+	mosaic = newShader('mosaic');
 
 	intAngle = FlxMath.lerp(intAngle, 0, FlxMath.bound(elapsed * 10, 0, 1));
 	camHUD.angle = camGame.angle = intAngle;
